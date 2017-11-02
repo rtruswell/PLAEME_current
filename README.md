@@ -22,7 +22,7 @@ If you spot issues other than these, please let us know.
 
 ### Acknowledgements
 
-This work is funded by a British Academy/Leverhulme Small Research Grant (Robert Truswell PI).  It has benefitted enormously from Meg Laing's textual advice.
+This work is funded by a British Academy/Leverhulme Small Research Grant (Robert Truswell PI).  It has benefitted enormously from Meg Laing's textual advice.  The project was conceived during a British Council researcher links workshop in Campinas, Brazil, organized by Susan Pintzuk and Charlotte Galves.  Susan Pintzuk and Aaron Ecay provided invaluable advice on the early stages during a research visit to York (August 2015).  Beatrice Santorini shared her revision queries and provided guidance on the PPCHE format.
 
 ### Licence
 
