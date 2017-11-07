@@ -15149,7 +15149,7 @@
           (LINEBREAK \)))
 
 ( (CP-ADV (CODE {COM:for_Joel_matrix_CP})
-          (NP-LFD (CP-FRL (WNP-1 (WPRO+ADV QU^a=sum-whosum))
+          (NP-LFD (CP-FRL (WPRO+ADV-1 QU^a=sum-whosum)
                           (C 0)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (NP-OB1 (D +te-the)

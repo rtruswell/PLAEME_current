@@ -2821,7 +2821,7 @@
                                           (VB *))))
               (LINEBREAK \)
               (ADVP-LOC (CP-FRL-SPE (WADVP-4 (WADV +Gwere-where))
-                                    (C 0)
+                                    (C-4 0)
                                     (IP-SUB-SPE (ADVP-LOC *T*-4)
                                                 (NP-SBJ (Q no-no)
                                                         (N seint-saint))

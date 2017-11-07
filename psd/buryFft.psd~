@@ -11766,10 +11766,8 @@
                            (PUNC .)))))
 
 ( (IP-MAT (CONJ and-&)
-          (NP-LFD (CP-FRL (WNP-1 0)
-	                  (C +tat-that)
-                          (IP-SUB (NP-SBJ *T*-1)
-			          (RP ouer-over)
+          (NP-LFD (CP-FRL (C +tat-that)
+                          (IP-SUB (RP ouer-over)
                                   (BEP beth-be))))
           (PUNC .')
           (VBP of=go=n-ofgo)
