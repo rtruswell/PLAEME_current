@@ -19303,7 +19303,7 @@
                       (PUNC .)
                       (LINEBREAK \)
                       (CP-QUE-ADV-SPE (CODE {PAGE~f40v})
-                                      (WQP (WQ Q~e+der=so-whetherso))
+                                      (WQP (WQ+ADV Q~e+der=so-whetherso))
                                       (C 0)
                                       (IP-SUB-SPE (NP-SBJ (PRO it-it))
                                                   (VBP +wur+de-weorYan)
