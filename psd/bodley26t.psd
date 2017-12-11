@@ -31,7 +31,7 @@
                                           (N nom-name))))))
           (PUNC .)))
 
-( (IP-MAT (NP-SBJ (NUM thre-3)
+( (IP-MAT (NP-SBJ (NUM thre-three)
                   (NS thing=E-thing)
                   (PP-PRN *ICH*-1))
           (DOP do-do)

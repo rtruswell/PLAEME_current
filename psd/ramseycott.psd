@@ -114,7 +114,7 @@
                                                                                                                       (NP (N name-name)))))))
                                                                                                  (CONJP (CONJ &-&)
                                                                                                         (NP-OB1 (NPR$ Goderiches-Goderiches)
-                                                                                                                (NUM twa-2)
+                                                                                                                (NUM twa-two)
                                                                                                                 (NS gherd=e-gerd)))
                                                                                                  (LINEBREAK \)
                                                                                                  (CONJP (NP (NP-POS (NP (D +te-the)

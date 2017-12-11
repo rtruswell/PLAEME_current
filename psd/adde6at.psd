@@ -412,7 +412,7 @@
           (VBP ga=d-go)
           (PP (P be=tuen-between)
               (NP (PRO hem-them)
-                  (NUM-RH tuo-2)))
+                  (NUM-RH tuo-two)))
           (LINEBREAK \)))
 
 ( (IP-MAT (NP-SBJ (CODE {PAGE~l50})
@@ -618,7 +618,7 @@
                           (C +tat-that)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (HVP haw=et-have)
-                                  (NP-OB1 (NUM +trE-3)
+                                  (NP-OB1 (NUM +trE-three)
                                           (ADJ wykk=e-wick)
                                           (CODE {COM_LAEME:looks_like_WYLKE_but_this_is_a_common_way_of_doing_double_letters~cf_HALBE_for_HABBE_below})
                                           (NS-RH fo=n-foe)))))

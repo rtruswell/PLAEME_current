@@ -719,7 +719,7 @@
           (LINEBREAK \)
           (VB Fond=en-fandian)
           (ADVP-TMP (ADV heuere-ever))
-          (ADVP-TMP (CP-FRL (WADVP-1 (ADV +tan-then{w}))
+          (ADVP-TMP (CP-FRL (WADVP-1 +tan-then{w})
                             (C 0)
                             (IP-SUB (ADVP-TMP *T*-1)
                                     (NP-SBJ (PRO he-he))
@@ -729,7 +729,7 @@
                   (VB mak=en-make)
                   (PP (P of-of)
                       (NP (ONE on-1)))
-                  (NP-OB1 (NUM two-2)))
+                  (NP-OB1 (NUM two-two)))
           (LINEBREAK \)))
 
 ( (IP-IMP-SPE (VBI Tel-tell)

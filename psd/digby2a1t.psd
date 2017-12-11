@@ -160,7 +160,7 @@
           (PUNC .)
           (PP (P bi=twixin-between)
               (NP (NS yef=is-thief)
-                  (NUM two-2)))
+                  (NUM two-two)))
           (LINEBREAK \)))
 
 ( (CP-QUE (WADVP-1 (WADV hu-how))

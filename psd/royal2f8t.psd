@@ -492,9 +492,9 @@
           (VBD-RH bo+t=te-buy)
           (PP (P wy+t-with{w})
               (NP (NS wnd=e-wound)
-                  (NUMP (NUM to-2)
+                  (NUMP (NUM to-two)
                         (CONJ and-&)
-                        (NUM-RH +tree-3)
+                        (NUM-RH +tree-three)
                         (CODE {COM_LAEME:yREE_lost_in_gutter_of_photocopy}))))
           (LINEBREAK \)))
 
@@ -534,7 +534,7 @@
                                      (PP (P wyt-with{w})
                                          (NP (ADJ gret=e-great)
                                              (NS neyl=es-nail)
-                                             (NUMP (NUM +tree-3)))))))
+                                             (NUMP (NUM +tree-three)))))))
           (PUNC .)))
 
 ( (IP-MAT (ADJP (ADJ blod=y-bloody))

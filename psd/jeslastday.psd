@@ -399,7 +399,7 @@
                                                                  (NP (D +tet-the)
                                                                      (N body-body))))
                                                   (PP (P a-in{m})
-                                                      (NP (NUM two-2)))
+                                                      (NP (NUM two-two)))
                                                   (BEP beon-be)
                                                   (VAN-RH to=dror=e-todre:osan)))))))
           (PUNC .)

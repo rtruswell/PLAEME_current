@@ -969,7 +969,7 @@
           (PP (P i=-in{m})
               (NP (D =+teise-these)
                   (NS word=is-word)))
-          (NP-OB1 (NUM to-2)
+          (NP-OB1 (NUM to-two)
                   (NS manER=e-manner)
                   (PP (P of-of)
                       (NP (N folk-folk))))
@@ -1605,7 +1605,7 @@
           (VBD sau-see)
           (NP-SBJ (PRO i-I))
           (NP-OB1 (ADJR worse-worse)
-                  (NUM-RH fiue-5))
+                  (NUM-RH fiue-five))
           (CODE {COM_LAEME:At_the_end_of_this_line_a_wiggly_line_ending_in_a_flourish_indicates~some_connection_with_the_following_lines})
           (LINEBREAK \)))
 
