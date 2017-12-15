@@ -21,11 +21,7 @@
           (NP-VOC (ADJ swete-sweet)
                   (NPR ihESu-ihESu))
           (NP-SBJ (PRO$ yine-thy)
-<<<<<<< HEAD
                   (NUM fif-five)
-=======
-                  (NUM fif-5)
->>>>>>> b0478caa2974a82d9e94cb5712c6c156930af66c
                   (NS-RH wund=is-wound))
           (PUNC .')
           (LINEBREAK \)
@@ -770,11 +766,7 @@
                                   (N ern-erne)
                                   (PUNC .')
                                   (NP-PRN (D yis-these)
-<<<<<<< HEAD
                                           (NUM-RH yre-three))
-=======
-                                          (NUM-RH yre-3))
->>>>>>> b0478caa2974a82d9e94cb5712c6c156930af66c
                                   (PUNC .)
                                   (LINEBREAK \)
                                   (CP-REL (WNP-1 0)
@@ -4066,11 +4058,7 @@
           (VBD bi=lef=te-belae:fan)
           (NP-SBJ (NPR marie-marie))
           (LINEBREAK \)
-<<<<<<< HEAD
           (NP-MSR (NUMP (NUM yre-three)
-=======
-          (NP-MSR (NUMP (NUM yre-3)
->>>>>>> b0478caa2974a82d9e94cb5712c6c156930af66c
                         (CONJP *ICH*-1))
                   (NS moniz-month)
                   (CODE {COM_LAEME:I_take_this_to_be_parallel_to_the_singular_form_MONITH_above_with_an~endingless_plural,_rather_than_as_the_plural_of_the_word_"moon"_used_fo~"month"._This_scribe_uses_Z_beside_S_for_verbal_endings_but_seems_not_t~do_so_for_nominal_endings._For_Z_used_unusually_by_this_scribe_for_th~dental_fricative_cf._SOZ_for_"sooth"_below})
