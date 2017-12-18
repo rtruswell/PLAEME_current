@@ -12,7 +12,7 @@ This is the working version of the Parsed Linguistic Atlas of Early Middle Engli
 We have included a selection of LAEME texts which meet the following criteria:
 
 - Dated to 1250&ndash;1325;
-- >100 words long;
+- &gt;100 words long;
 - Not already parsed in some form in the major Middle English parsed corpora, the [Penn&ndash;Helsinki Parsed Corpus of Middle English, 2nd edition](http://www.ling.upenn.edu/histcorpora/PPCME2-RELEASE-4/) and the [Parsed Corpus of Middle English Poetry](http://pcmep.net/);
 - Only one version of each text included. If multiple versions are included in LAEME:
     - select versions to maximize balance across dialects;
