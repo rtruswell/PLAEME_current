@@ -1805,7 +1805,7 @@
                                   (MD sal-shall)
                                   (BE be-be)
                                   (PP (P afterE-after)
-                                      (NP (NP-POS (A+N$ neue=yer=s-newyear))
+                                      (NP (NP-POS (ADJ+N$ neue=yer=s-newyear))
                                           (N day-day)))))))
           (PUNC .)))
 

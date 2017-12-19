@@ -192,7 +192,6 @@
                                  (IP-INF-PRP (NP-OB1 (ADJ Eche=-e:ce)
                                                      (N =lif-life))
                                              (TO to-to)
-                                             (CODE {COM:for_Meg_P_in_LAEME})
                                              (HV habb=e-have))))))
               (PUNC .)))
 

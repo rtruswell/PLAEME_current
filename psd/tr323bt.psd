@@ -4753,7 +4753,7 @@
                           (ADJ-RH milde-mild))
                   (FOREIGN (FW MATER)
                            (FW SALUTARIS))
-                  (NP-PRN (ADJ feir=est-fair)
+                  (NP-PRN (ADJS feir=est-fair)
                           (N flour-flower)
                           (PP (P of-of)
                               (NP (Q en=i-any)

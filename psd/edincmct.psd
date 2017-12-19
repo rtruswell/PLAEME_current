@@ -6009,7 +6009,7 @@
                                                     (CP-REL-SPE (WNP-3 0)
                                                                 (C +tat-that)
                                                                 (IP-SUB-SPE (NP-SBJ *T*-3)
-                                                                            (NP-OB1 (N sua=gat-sogate))
+                                                                            (NP-OB1 (ADV+N sua=gat-sogate))
                                                                             (VBD-RH hi+gte-ha:tan{n})))))))))
           (LINEBREAK \)))
 

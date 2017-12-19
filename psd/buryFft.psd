@@ -576,7 +576,7 @@
                                                                                          (CONJP *ICH*-4)))
                                                                              (N fultume-fultum)
                                                                              (CONJP-4 (CONJ and-&)
-                                                                                      (NP (ADJ god=ere-good)
+                                                                                      (NP (ADJR god=ere-good)
                                                                                           (NS$ mann=e-man))))))))))))
           (PUNC .)))
 
