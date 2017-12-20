@@ -6,7 +6,7 @@
                       (IP-SUB (NP-SBJ (PRO I-I))
                               (VBP +tenke-think)
                               (PP (P on-on{re})
-                                  (NP (N dom=es=dai-doomsday))))))
+                                  (NP (NPR$+NPR dom=es=dai-doomsday))))))
           (ADVP (ADV wel-well{v})
                 (ADV sore-sore))
           (MD ma-may)
