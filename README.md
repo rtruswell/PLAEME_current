@@ -218,7 +218,7 @@ None of this material is currently available in PLAEME, because an attempt to pr
 
 ### Work in progress
 
-PLAEME is due for completion in December 2017.  We are releasing this working version because it is now quite big and quite useful, and we would like feedback.  At the same time, it is incomplete and/or inaccurate in many ways, as documented above. If you spot issues other than those described here, please report them via github or to <rob.truswell@ed.ac.uk>.
+PLAEME is due for completion in December 2017.  We are releasing this working version because it is now largely complete, and we would like feedback.  At the same time, it is incomplete and/or inaccurate in many ways, as documented above. If you spot issues other than those described here, please report them via github or to <rob.truswell@ed.ac.uk>.
 
 ### Acknowledgements
 
