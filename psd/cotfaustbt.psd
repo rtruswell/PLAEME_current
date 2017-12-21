@@ -24,7 +24,8 @@
          (FW IdeO)
          (FW VENI)
          (FW \)
-         (FW FORAS)))
+         (FW FORAS))
+         (ID COTFAUSTBT.1))
 
 ( (IP-IMP (NP-VOC (PRO you-thou)
                   (NP-PRN (NPR la+gerE-la+gerE))
@@ -47,7 +48,8 @@
                               (NP-OB2 (PRO the-thee))
                               (VBP-RH rede-rae:dan))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTFAUSTBT.2))
 
 ( (IP-IMP (CODE {PAGE~f106r})
           (CONJ and-&)
@@ -56,7 +58,8 @@
           (NP-SBJ (PRO you-thou))
           (VBI cuM-come)
           (RP-RH oute-out)
-          (PUNC ,)))
+          (PUNC ,))
+          (ID COTFAUSTBT.3))
 
 ( (IP-IMP (CONJ and-&)
           (PP-1 (P of-of)
@@ -67,7 +70,8 @@
           (NP-OB1 (Q na-no)
                   (N-RH doute-doubt)
                   (PP *ICH*-1))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTFAUSTBT.4))
 
 ( (IP-MAT (PP (P of-though)
               (CP-ADV (C 0)
@@ -78,7 +82,8 @@
           (BEP ^am-be)
           (CODE {ORIGINAL~ih=^am})
           (NP-OB1 (N-RH life-life))
-          (PUNC ,)))
+          (PUNC ,))
+          (ID COTFAUSTBT.5))
 
 ( (IP-MAT (NP-SBJ (PRO i-I))
           (MD sal-shall)
@@ -86,7 +91,8 @@
           (VB rais=e-raise)
           (PP (P with=outen-without)
               (NP (N-RH strife-strife)))
-          (PUNC .)))
+          (PUNC .))
+          (ID COTFAUSTBT.6))
 
 ( (LATIN (FW *LAZARE)
          (CODE {COM_LAEME:three_words_of_Latin_too_faint_to_read_on_photocopy})
@@ -108,7 +114,8 @@
          (FW &)
          (FW IdeO)
          (FW VEnI)
-         (FW FORAS)))
+         (FW FORAS))
+         (ID COTFAUSTBT.7))
 
 ( (FRAG (NP-VOC (PRO you-thou)
                 (NP-PRN (NPR la+ger-la+ger)
@@ -138,7 +145,8 @@
                           (NP-OB1 (PRO tham-them))
                           (VB-RH brek=e-break)))
         (PUNC ,)
-        (LINEBREAK \)))
+        (LINEBREAK \))
+        (ID COTFAUSTBT.8))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P of-of)
@@ -148,7 +156,8 @@
           (MD sal-shall)
           (NP-OB1 (PRO the-thee))
           (VB-RH wrek=e-wrecan)
-          (PUNC .)))
+          (PUNC .))
+          (ID COTFAUSTBT.9))
 
 ( (IP-IMP (CONJ and-&)
           (PP (ADV+P yar=for-therefore))
@@ -157,7 +166,8 @@
           (VBI cuM-come)
           (RP-RH oute-out)
           (PUNC ,)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTFAUSTBT.10))
 
 ( (IP-IMP (CONJ and-&)
           (PP-1 (P of-of)
@@ -168,7 +178,8 @@
           (NP-OB1 (Q na=-no)
                   (N-RH =doute-doubt)
                   (PP *ICH*-1))
-          (PUNC .)))
+          (PUNC .))
+          (ID COTFAUSTBT.11))
 
 ( (LATIN (FW *LAZARE)
          (FW IN)
@@ -194,7 +205,8 @@
          (FW conFI\DENTer)
          (FW VENI)
          (FW FORAS)
-         (FW .)))
+         (FW .))
+         (ID COTFAUSTBT.12))
 
 ( (IP-MAT (NP-LFD (PRO you-thou)
                   (NP-PRN (NPR la+garE-la+garE))
@@ -219,7 +231,8 @@
                               (PP (P of-of{f})
                                   (NP (N thime-time)
                                       (ADJP (ADJ-RH lange-long)))))))
-          (PUNC ,)))
+          (PUNC ,))
+          (ID COTFAUSTBT.13))
 
 ( (IP-MAT (NP-SBJ (PRO i-I))
           (MD sal-shall)
@@ -229,7 +242,8 @@
               (NP (N myth-might)
                   (ADJP (ADJ-RH strange-strong))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTFAUSTBT.14))
 
 ( (IP-IMP (CONJ and-&)
           (PP (ADV+P yar=for-therefore))
@@ -237,7 +251,8 @@
           (NP-SBJ (PRO you-thou))
           (VBI cuM-come)
           (RP-RH oute-out)
-          (PUNC ,)))
+          (PUNC ,))
+          (ID COTFAUSTBT.15))
 
 ( (IP-IMP (CONJ and-&)
           (PP (P of-of)
@@ -248,4 +263,5 @@
           (NP-OB1 (Q na-no)
                   (N-RH doute-doubt))
           (PUNC .)
-          (CODE {COM_LAEME:19_further_lines_of_Latin})))
+          (CODE {COM_LAEME:19_further_lines_of_Latin}))
+          (ID COTFAUSTBT.16))

@@ -5,7 +5,8 @@
         (FW ADUU[])
         (FW \)
         (FW []')
-        (CODE {COM_LAEME:Heading_of_the_charter_is_two_lines_of_Latin_in_a_different_coloured~ink._This_is_very_rubbed_and_faint_and_the_second_line_is_illegible_from_film})))
+        (CODE {COM_LAEME:Heading_of_the_charter_is_two_lines_of_Latin_in_a_different_coloured~ink._This_is_very_rubbed_and_faint_and_the_second_line_is_illegible_from_film}))
+        (ID CHERTSEYT.1))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two_line_initial_capital,_not_carried_out,_but_the_E~of_EDUUARD_is_written_in_minuscule_anyway})
           (NP-SBJ (NPR eduuard-eduuard)
@@ -26,7 +27,8 @@
                              (LINEBREAK \)
                              (PRO$ mine-my)
                              (NS +tein=es-thane))))
-          (ADVP (ADV freond=liche-friendly))))
+          (ADVP (ADV freond=liche-friendly)))
+          (ID CHERTSEYT.2))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -92,7 +94,8 @@
                                                       (LINEBREAK \)
                                                       (CONJP (PP (P on-in{m})
                                                                  (NP (N felde-field)))))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.3))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -155,7 +158,8 @@
                                                   (PP (P ofer-over)
                                                       (NP (PRO$ his-his)
                                                           (NS lond=e-land)))))))))
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CHERTSEYT.4))
 
 ( (FRAG (CODE {PAGE~f50rb})
         (CODE {COM_LAEME:Sawyer_1094})
@@ -166,7 +170,8 @@
         (FW [])
         (FW \)
         (FW []')
-        (CODE {COM_LAEME:Heading_of_the_charter_is_three_lines_of_Latin_in_different_coloured~ink._The_second_two_lines_are_rubbed_and_largely_illegible_from_film})))
+        (CODE {COM_LAEME:Heading_of_the_charter_is_three_lines_of_Latin_in_different_coloured~ink._The_second_two_lines_are_rubbed_and_largely_illegible_from_film}))
+        (ID CHERTSEYT.5))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two_line_initial_capital,_not_carried_out})
           (NP-SBJ (NPR []duuard-[]duuard)
@@ -193,7 +198,8 @@
           (LINEBREAK \)
           (PP (P on-in{p})
               (NP (NPR Sud+tereie-Sud+tereie)))
-          (ADVP (ADV freond=liche-friendly))))
+          (ADVP (ADV freond=liche-friendly)))
+          (ID CHERTSEYT.6))
 
 ( (IP-MAT (CODE {INSSTART})
           (CONJ &-&)
@@ -301,7 +307,8 @@
                               (CONJP (CONJ and-&)
                                      (PP (P on-in{m})
                                          (NP (N fel\de-field)))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.7))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -336,7 +343,8 @@
                                 (LINEBREAK \)
                                 (NP (D +tan-the)
                                     (N Abbode-abbot)))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.8))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P beo-by)
@@ -367,7 +375,8 @@
                                           (TO to-to)
                                           (VB help=ene-help)))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CHERTSEYT.9))
 
 ( (FRAG (CODE {COM_LAEME:Sawyer_1093})
         (FW '[]ARTA)
@@ -378,7 +387,8 @@
         (FW Qu^ATUOR)
         (FW \)
         (FW []')
-        (CODE {COM_LAEME:Heading_of_the_charter_is_in_Latin_in_different_coloured_ink._The_last~one_or_two_words_have_been_taken_to_the_end_of_the_line_of_English_above~and_are_too_faint_to_make_out_on_film})))
+        (CODE {COM_LAEME:Heading_of_the_charter_is_in_Latin_in_different_coloured_ink._The_last~one_or_two_words_have_been_taken_to_the_end_of_the_line_of_English_above~and_are_too_faint_to_make_out_on_film}))
+        (ID CHERTSEYT.10))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two-line_capital_not_carried_out})
           (NP (NPR []duuard-[]duuard)
@@ -398,7 +408,8 @@
           (PP (P on-in{p})
               (NP (NPR Su+t\+tereie-Su+t\+tereie)))
           (ADVP (ADV frond=liche-friendly))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.11))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -493,7 +504,8 @@
                                                              (PP (P to-to)
                                                                  (NP (PRO me-me)))
                                                              (VBP beo=limp=e+t-belimpan)))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.12))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P be-by)
@@ -523,7 +535,8 @@
                                           (TO to-to)
                                           (VB help=ene-help)))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CHERTSEYT.13))
 
 ( (FRAG (CODE {COM_LAEME:Sawyer_1096})
         (FW '[]ARTA)
@@ -532,7 +545,8 @@
         (FW DE)
         (FW SOCA)
         (FW LON\DONIE')
-        (CODE {COM_LAEME:Latin_heading_in_a_different_coloured_ink._DONIE_has_been_taken_to_the~end_of_the_previous_line_of_English})))
+        (CODE {COM_LAEME:Latin_heading_in_a_different_coloured_ink._DONIE_has_been_taken_to_the~end_of_the_previous_line_of_English}))
+        (ID CHERTSEYT.14))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two-line_capital_not_carried_out})
           (NP-SBJ (NPR []duuard-[]duuard)
@@ -554,7 +568,8 @@
           (PP (P on-in{p})
               (NP (NPR Londone-Londone)))
           (ADVP (ADV freond=liche-friendly))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.15))
 
 ( (IP-MAT (NP-SBJ (PRO Iich-I))
           (VBP ku+te-cy:Yan)
@@ -623,7 +638,8 @@
                                           (PP (P on-in{m})
                                               (NP (Q all=e-all)
                                                   (NS +ting=en-thing)))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.16))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -658,7 +674,8 @@
                                                                            (VBN +g2e=unn=en-unnan)
                                                                            (HVP habbe-have)))))))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CHERTSEYT.17))
 
 ( (FRAG (CODE {COM_LAEME:Sawyer_1477})
         (FW '[]ARTA)
@@ -666,7 +683,8 @@
         (FW *REGIS)
         (FW DE)
         (FW WAL\THAM')
-        (CODE {COM_LAEME:Latin_heading_in_a_different_coloured_ink._THAM_has_been_taken_to_the~end_of_the_following_line_of_English})))
+        (CODE {COM_LAEME:Latin_heading_in_a_different_coloured_ink._THAM_has_been_taken_to_the~end_of_the_following_line_of_English}))
+        (ID CHERTSEYT.18))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two-line_capital,_not_carried_out})
           (PP (P []n-in{inv})
@@ -771,7 +789,8 @@
                                                      (PP (P in=to-into)
                                                          (NP (NPR Weltham-Weltham))))))))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID CHERTSEYT.19))
 
 ( (IP-MAT (CONJ and-&)
           (NP-OB1 (D +tis-this))
@@ -806,7 +825,8 @@
                                                   (PP (P of-of)
                                                       (LINEBREAK \)
                                                       (NP (D +tare-the)
-                                                          (N Syrren-shire)))))))))))
+                                                          (N Syrren-shire))))))))))
+                                                          (ID CHERTSEYT.20))
 
 ( (IP-MAT (CONJ and-&)
           (PP (ADV+P +tare=fore-therefore))
@@ -845,7 +865,8 @@
                               (CONJP (CONJ and-&)
                                      (PP (P in-in{m})
                                          (NP (N felde-field)))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.21))
 
 ( (IP-MAT-1 (NP-LFD (D Se-the)
                     (N man-man)
@@ -897,10 +918,12 @@
                                       (ADVR sti+t=lic=or-sti:Yli:ce))
                                 (VBP +g2e=bete-be:tan))))
             (PUNC .)
-            (LINEBREAK \\)))
+            (LINEBREAK \\))
+            (ID CHERTSEYT.22))
 
 ( (FRAG (CODE {COM_LAEME:Latin_from_here_to_f53rb})
-        (LINEBREAK \)))
+        (LINEBREAK \))
+        (ID CHERTSEYT.23))
 
 ( (FRAG (CODE {PAGE~f53va})
         (CODE {COM_LAEME:Pelteret_7})
@@ -910,7 +933,8 @@
         (FW [])
         (FW \)
         (FW []')
-        (CODE {COM_LAEME:Heading_is_two_lines_of_Latin_in_a_different_coloured_ink_-_the_second~part_is_rubbed_and_illegible_from_film})))
+        (CODE {COM_LAEME:Heading_is_two_lines_of_Latin_in_a_different_coloured_ink_-_the_second~part_is_rubbed_and_illegible_from_film}))
+        (ID CHERTSEYT.24))
 
 ( (IP-MAT (CODE {COM_LAEME:Space_left_for_two-line_capital,_not_carried_out})
           (NP-SBJ (NPR []illem-[]illem)
@@ -944,7 +968,8 @@
                                   (CONJP-2 (CONJ &-&)
                                            (NS Men-man))))))
           (ADVP (ADV freond=liche-friendly))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.25))
 
 ( (IP-MAT (NP-SBJ (PRO Ich-I))
           (VBP ku+te-cy:Yan)
@@ -1046,7 +1071,8 @@
                                                               (PP (P on-in{m})
                                                                   (NP (Q all=en-all)
                                                                       (NS +ting=en-thing))))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CHERTSEYT.26))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ich-I))
@@ -1074,6 +1100,8 @@
                                                           (VBN +g2e=unn=en-unnan)
                                                           (HVP habbe-have)))))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CHERTSEYT.27))
 
-( (IP-MAT (CODE {COM_LAEME:The_rest_of_the_manuscript_contains_charters_in_Latin})))
+( (IP-MAT (CODE {COM_LAEME:The_rest_of_the_manuscript_contains_charters_in_Latin}))
+(ID CHERTSEYT.28))

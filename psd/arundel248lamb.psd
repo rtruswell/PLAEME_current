@@ -20,7 +20,8 @@
           (PP (P For-for)
               (NP (PRO$ hure-our)
                   (N-RH gode-good)))
-          (PUNC .')))
+          (PUNC .'))
+          (ID ARUNDEL248LAMB.1))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO +te-he))
@@ -30,7 +31,8 @@
           (ADVP-TMP (ADV neure-never))
           (NP-OB1 (Q-RH nout-naught))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.2))
 
 ( (IP-MAT (NP-SBJ (Q Feaw=e-few)
                   (PP (P of-of)
@@ -38,7 +40,8 @@
           (NP-OB2 (PRO im-him))
           (BED warn-be)
           (VBN-RH bi=liu=ed-beli:fan)
-          (PUNC .')))
+          (PUNC .'))
+          (ID ARUNDEL248LAMB.3))
 
 ( (IP-MAT (NP-SBJ (N Dred-dread))
           (NP-OB1 (PRO hem-them))
@@ -60,7 +63,8 @@
                                               (N deth-death)))
                                       (VAN-RH i=brou=t-bring)))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.4))
 
 ( (IP-MAT (NP-SBJ (PRO$ +Tis-his)
                   (N moder-mother))
@@ -69,7 +73,8 @@
           (VBD stud-stand)
           (PP (P-RH bi=siden-beside)
               (NP *ICH*-1))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.5))
 
 ( (IP-MAT (NEG ne-ne)
           (NP-SBJ *con*)
@@ -94,7 +99,8 @@
                                                      (VB dei=en-die)
                                                      (ADJP-SPR (ADJ-RH gelte=les-guiltless))))))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.6))
 
 ( (IP-MAT (NP-SBJ (NPR Saint-saint)
                   (NPR Iohan-Iohan)
@@ -113,7 +119,8 @@
           (ALSO ek-eke)
           (NP-SPR (N-RH fere-fe:ra)
                   (NP-COM *ICH*-2))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.7))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -132,7 +139,8 @@
                                        (CONJ and-&)
                                        (VBD-RH ches-choose)))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.8))
 
 ( (IP-MAT (IP-MAT-1 (ADVP (ADV Sore-sore)
                           (CONJ and-&)
@@ -146,7 +154,8 @@
                                    (NS and=es-hand))
                                (P +turew-through))
                            (VAN i=stung=en-sting)))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.9))
 
 ( (IP-MAT (CONJ Ac-ac)
           (NP-MSR (QS mes-most)
@@ -181,7 +190,8 @@
                                   (PP (P for-for)
                                       (NP (N$ mann=es-man)
                                           (N-RH sake-sake)))))))
-          (PUNC .')))
+          (PUNC .'))
+          (ID ARUNDEL248LAMB.10))
 
 ( (IP-MAT (NP-SBJ (PRO +te-he))
           (VBD sei-see)
@@ -189,7 +199,8 @@
                           (N moder-mother))
                   (NP-OB1 (NS sERw=en-sorrow))
                   (VB-RH mak=en-make))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.11))
 
 ( (IP-MAT (ADVP (ADV wol-well{v})
                 (ADV reu=fu=liche-ruefully))
@@ -198,7 +209,8 @@
           (PP (NP (PRO hire-her))
               (P-RH to-to))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.12))
 
 ( (IP-MAT (NP-SBJ (PRO +Te-he))
           (VBD sei=de-say)
@@ -217,7 +229,8 @@
                                                  (PP (P to-to)
                                                      (NP (N manne-man)))
                                                  (VBD-RH bere-bear)))))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.13))
 
 ( (IP-MAT-SPE (PP (P With=uten-without)
                   (NP (N sor-sore)
@@ -234,7 +247,8 @@
                                               (NP (PRO +te-thee)))
                                           (VAN i=bor=n-born)
                                           (CODE {COM_LAEME:final_N_with_a_downward_flourished_'tail'}))))
-              (LINEBREAK \)))
+              (LINEBREAK \))
+              (ID ARUNDEL248LAMB.14))
 
 ( (IP-MAT-SPE (CONJ Ac-ac)
               (ADVP-TMP (ADV nu-now))
@@ -269,7 +283,8 @@
                                                                                                                          (VAN-RH for=lor=n-forlose)
                                                                                                                          (CODE {COM_LAEME:final_N_with_a_downward_flourished_'tail'})))))))))))
               (PUNC .)
-              (LINEBREAK \)))
+              (LINEBREAK \))
+              (ID ARUNDEL248LAMB.15))
 
 ( (IP-MAT (NP-SBJ (NPR Saint-saint)
                   (CODE {COM_LAEME:CB_prints_*SEINT,_erroneously})
@@ -283,7 +298,8 @@
                   (CODE {COM_LAEME:CB_reads_HESE,_but_the_letter_lacks_the_tall_forked_ascender_of_the~scribe's_usual_H_and_seems_to_be_another_substitution_of_y_for_H})
                   (PP (P of-of)
                       (NP (NPR criste-christ)))))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.16))
 
 ( (IP-MAT (ADVP (ADV fair-fair))
           (NP-SBJ (PRO +te-he))
@@ -292,7 +308,8 @@
           (NP-OB1 (PRO hire-her))
           (CONJP-1 (CONJ and-&)
                    (VBD-RH bi=wiste-bewitan{g}))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.17))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -303,7 +320,8 @@
           (PP (P to-to)
               (NP (N-RH fot-foot)))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.18))
 
 ( (IP-MAT (ADJP (ADJ Reu=ful-rueful))
           (BEP is-be)
@@ -315,7 +333,8 @@
                       (CONJP (CONJ and-&)
                              (NP (D tis-this)
                                  (N-RH depart=inge-depart))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.19))
 
 ( (IP-MAT (PP (ADV+P +tar=in-therein{c}))
           (BEP is-be)
@@ -323,7 +342,8 @@
           (VAN mein=d-mengan)
           (PP (P with-with{w})
               (NP (N-RH wep=inge-weep)))
-          (PUNC .')))
+          (PUNC .'))
+          (ID ARUNDEL248LAMB.20))
 
 ( (IP-MAT (CONJ for-for)
           (PP (ADV+P +tar=+turw-therethrough))
@@ -332,7 +352,8 @@
           (NP-SBJ (Q all=e-all)
                   (N-RH bot-bo:t))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.21))
 
 ( (IP-MAT (NP-SBJ (PRO +Te-he)
                   (CP-REL (WNP-1 0)
@@ -367,7 +388,8 @@
                                                               (P to-to))
                                                           (VBN-RH i=bou=t-buy)
                                                           (CODE {COM_LAEME:long_flourished_cross_of_final_T_as_line_filler})))))))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID ARUNDEL248LAMB.22))
 
 ( (IP-IMP (NP-VOC (ADJ Mils=ful-mildsful)
                   (N moder-mother)
@@ -380,7 +402,8 @@
                   (PP (P up=on-upon{p})
                       (NP (PRO hus-us)))
                   (ADJP (ADJ-RH sene-gese:ne)))
-          (PUNC .)))
+          (PUNC .))
+          (ID ARUNDEL248LAMB.23))
 
 ( (IP-IMP (CONJ and-&)
           (VBI brinc-bring)
@@ -398,4 +421,5 @@
                           (IP-SUB (NP-SBJ *T*-1)
                                   (VBP faill=et-fail)
                                   (NEG-RH nout-not)))))
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID ARUNDEL248LAMB.24))

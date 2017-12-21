@@ -28,12 +28,14 @@
         (FW LINGu^A)
         (FW \)
         (FW CapituluM.)
-        (FW VIII.)))
+        (FW VIII.))
+        (ID THORNEYKT.1))
 
 ( (IP-MAT (NP-SBJ (D +tese-these)
                   (NS men-man))
           (BED weren-be)
-          (ADVP-LOC (ADV +tare-there))))
+          (ADVP-LOC (ADV +tare-there)))
+          (ID THORNEYKT.2))
 
 ( (IP-MAT (NP-SBJ (NPR Ailwin-Ailwin)
                   (NPR Abbot-abbot))
@@ -83,7 +85,8 @@
                                              (NP-OB1 (N abbot-abbot)
                                                      (ADVP (ADV +ter=inne-therein{p})))))))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID THORNEYKT.3))
 
 ( (IP-MAT (NP-SBJ (NP (NPR Aylwine-Aylwine)
                       (NP-PRN (N Abbot-abbot)
@@ -182,7 +185,8 @@
                                                             (NP-OB1 (N Abbot-abbot))
                                                             (LINEBREAK \)
                                                             (PP (ADV+P +tar=binne-therebinnan)))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID THORNEYKT.4))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (D +te-the)
@@ -191,7 +195,8 @@
           (NP-OB1 (PRO it-it))
           (VBD swor=en-swear)
           (PP (P+D after=+tan-afterthat))
-          (PUNC .)))
+          (PUNC .))
+          (ID THORNEYKT.5))
 
 ( (IP-MAT (ADVP-TMP (ADV +to-Ya:))
           (NP-SBJ (PRO it-it))
@@ -246,7 +251,8 @@
           (CONJP-2 (CONJ and-&)
                    (NP (N half-half)
                        (NPR Rayere=holt-Rayere=holt)))
-          (PUNC .)))
+          (PUNC .))
+          (ID THORNEYKT.6))
 
 ( (IP-MAT (NP-LFD (NP (NPR Thorulf-Thorulf)
                       (NP-PRN (D +te-the)
@@ -268,7 +274,8 @@
           (PP (P in\=to-into)
               (NP (NPR Thorneye-Thorneye)))
           (CODE {COMMENT~T~and~H~ligatured})
-          (PUNC .)))
+          (PUNC .))
+          (ID THORNEYKT.7))
 
 ( (IP-MAT (CONJ and-&)
           (NP-LFD (NP (NPR Lefsi=Creuleto-Lefsi=Creuleto))
@@ -303,4 +310,5 @@
                                (OTHERS o+ter=e-other)
                                (CODE {COMMENT~MS~OyERE~FELE~marked~for~transposition})))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID THORNEYKT.8))

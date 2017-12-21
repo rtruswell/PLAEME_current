@@ -119,7 +119,8 @@
                                                                                                           (NS +ting=e-thing)))
                                                                                                   (PP (P abuten-bu:tan{w})
                                                                                                       (NP (N +ande-end)))))))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.1))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO we-we))
@@ -207,7 +208,8 @@
                                                        (IP-INF=6 (CONJ and-&)
                                                                  (TO to-to)
                                                                  (VB foang=en-fo:n))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.2))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (Q noan-none))
@@ -233,7 +235,8 @@
                               (PP (P on-in{m})
                                   (NP (Q on=ie-any)
                                       (N wise-wi:se))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.3))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P +g2if-if)
@@ -258,7 +261,8 @@
                   (IP-SMC (NP-SBJ *ICH*-1)
                           (NP-OB1 (ADJ dead=lich=e-deadly)
                                   (NS i=foa=n-foe))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.4))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P for=@)
@@ -292,7 +296,8 @@
                                       (NP (PRO +g2ew-you)))
                                   (PP (P ine-in{p})
                                       (NP (N hord-hoard))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.5))
 
 ( (IP-MAT (NP-SBJ (N Wit=nesse-witness))
           (NP-OB1 (PRO+N vs=seluen-self))
@@ -316,7 +321,8 @@
                           (PP (P of-of)
                               (NP (PRO$ vre-our)
                                   (N crun=inge-crown))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID HUNTPROCT.6))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (D +tis-this))
@@ -410,7 +416,8 @@
                              (ADJP (ADJ ino+g2=e-enough))))))
           (PUNC .)
           (CODE {COMMENT~Rest~of~line~blank})
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID HUNTPROCT.7))
 
 ( (IP-MAT (PUNC para)
           (CONJ And-&)
@@ -437,4 +444,5 @@
                      (PP (P in=tel-into{til})
                          (NP (NPR Irelonde-Irelonde))))
               (PUNC .))
-          (CODE {COMMENT~Rest~of~line~blank~\\~=Next~enrollment~in~Latin})))
+          (CODE {COMMENT~Rest~of~line~blank~\\~=Next~enrollment~in~Latin}))
+          (ID HUNTPROCT.8))

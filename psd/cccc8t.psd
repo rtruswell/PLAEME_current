@@ -9,7 +9,8 @@
           (NP-OB1 (PRO me-me))
           (PP (P to-to)
               (NP (N-RH bride-bride)))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID CCCC8T.1))
 
 ( (IP-IMP (CODE {COM_LAEME:New_poem,_interlined_with_the_music_for_it_to_be_sung,~followed_<lparen>on_p._458<rparen>_by_a_verse_in_French_with_similarly~placed_notation_but_with_three_staves_per_line_of_text})
           (NP-VOC (N$ WOrld=es-world)
@@ -17,7 +18,8 @@
                   (N blisce-bliss))
           (HVI haue-have)
           (NP-OB1 (ADJ god-good)
-                  (N-RH day-day))))
+                  (N-RH day-day)))
+                  (ID CCCC8T.2))
 
 ( (IP-IMP (ADVP-TMP (ADV Nou-now))
           (PP (P fram-from)
@@ -25,7 +27,8 @@
                   (N herte-heart)))
           (VBI wand-wendan)
           (CODE {COM_LAEME:Thus_in_the_glossary_to_Brown's_13th_cent_lyrics,_but_it_is_an_unusual~spelling_other_than_in_Essex_<lparen>cf._V&V<rparen>_and_may_perhaps_be_from_OE_wandian})
-          (ADVP-DIR (ADV-RH a=way-away))))
+          (ADVP-DIR (ADV-RH a=way-away)))
+          (ID CCCC8T.3))
 
 ( (IP-MAT (IP-INF-PRP (NP-OB1 (PRO him-him)
                               (CP-REL *ICH*-1))
@@ -44,7 +47,8 @@
                                     (N side-side)))
                             (NP-SBJ (N spere-spear))
                             (VBD-RH rent-rend)))
-          (PUNC .)))
+          (PUNC .))
+          (ID CCCC8T.4))
 
 ( (IP-MAT (NP-OB1 (NP-POS (PRO$ his-his)
                           (N$ hert=e-heart))
@@ -61,7 +65,8 @@
                         (NP (D +te-the)
                             (ADJ harde-hard)
                             (N-RH tre-tree))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CCCC8T.5))
 
 ( (IP-MAT (NP-SBJ (D +tat-that)
                   (ADJ swete-sweet)
@@ -73,7 +78,8 @@
                   (PP (P wit-with{w})
                       (NP (NS nay\l=es-nail)
                           (NUM-RH +tre-three))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CCCC8T.6))
 
 ( (IP-MAT (INTJ Ha-ah)
           (NP-VOC (NPR iesu-iesu))
@@ -84,7 +90,8 @@
               (NP (ADJ ssarp=e-sharp)
                   (NS +torn=es-thorn)))
           (BED was-be)
-          (VAN-RH by=+weu=ed-bewae:fan)))
+          (VAN-RH by=+weu=ed-bewae:fan))
+          (ID CCCC8T.7))
 
 ( (IP-MAT (NP-SBJ (PRO$ +ti-thy)
                   (ADJ feyre-fair)
@@ -97,7 +104,8 @@
               (NP (N spot-spa:tl)
                   (CONJ and-&)
                   (N blod-blood)
-                  (ADJP (VAN meyn=d-mengan))))))
+                  (ADJP (VAN meyn=d-mengan)))))
+                  (ID CCCC8T.8))
 
 ( (IP-MAT (ADJP-SPR (Q al-all)
                     (VAN-RH by=wet-bewae:tan)
@@ -122,7 +130,8 @@
                              (PUNC .)
                              (CONJ and-&)
                              (ADJ-RH red-red))))
-          (PUNC .)))
+          (PUNC .))
+          (ID CCCC8T.9))
 
 ( (IP-MAT (INTJ ha-ah)
           (NP-VOC (NPR iesu-iesu))
@@ -138,7 +147,8 @@
                   (PP (P fram-from)
                       (LINEBREAK \)
                       (NP (N$ deuel=es-devil)
-                          (N-RH lore-lore))))))
+                          (N-RH lore-lore)))))
+                          (ID CCCC8T.10))
 
 ( (IP-IMP (INTJ ha-ah)
           (NP-VOC (ADJ suete-sweet)
@@ -166,4 +176,5 @@
                                           (PP (P for-for)
                                               (NP (PRO-RH me-me)))))))
           (PUNC .)
-          (LINEBREAK \\)))
+          (LINEBREAK \\))
+          (ID CCCC8T.11))

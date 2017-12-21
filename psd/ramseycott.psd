@@ -38,7 +38,8 @@
                         (ADJ leawed-lewd)))
           (PUNC .)
           (ADVP (ADV frend=likE-friendly))
-          (PUNC ,)))
+          (PUNC ,))
+          (ID RAMSEYCOTT.1))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO IkE-I))
@@ -175,7 +176,8 @@
                                                                                             (PUNC .)
                                                                                             (NP (ADJ ful-full)
                                                                                                 (PUNC .)
-                                                                                                (N wharfE-hwearf)))))))))))))))
+                                                                                                (N wharfE-hwearf))))))))))))))
+                                                                                                (ID RAMSEYCOTT.2))
 
 ( (IP-MAT (CONJ &-&)
           (LINEBREAK \)
@@ -270,7 +272,8 @@
           (PP (P in=to-into)
               (NP (NPR RamesE-RamesE)))
           (ADVP-TMP (ADV auere=mare-evermore))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.3))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO he-they))
@@ -309,7 +312,8 @@
                                                                        (LINEBREAK \)
                                                                        (NP (PRO hem-them)))
                                                                    (BED weren-be))))))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.4))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (VBP kiden-cy:Yan)
@@ -337,7 +341,8 @@
                                          (NP-OB1 (D +tis@-this)
                                                  (ADJ @ilkE-ilk)
                                                  (N for=ward-foreweard))
-                                         (VBN i=ghet=ud-ge:atan)))))))
+                                         (VBN i=ghet=ud-ge:atan))))))
+                                         (ID RAMSEYCOTT.5))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -374,7 +379,8 @@
               (CONJP (CONJ &-&)
                      (PP (P with-with{w})
                          (NP (NS vn=bor=ene-unborn)))))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID RAMSEYCOTT.6))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -406,7 +412,8 @@
                           (ADJP-SPR (ADJ (VAN had=ed-ha:dian)
                                          (CONJ ne-nor)
                                          (ADJ leawed-lewd)))))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.7))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -436,7 +443,8 @@
                                                 (NEG ne-ne)
                                                 (VBP deru=en-deorfan)
                                                 (CODE {COM_LAEME:sj_context}))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.8))
 
 ( (IP-MAT (CONJ ac-ac)
           (NP-OB1 (NP-POS (NPR$ god=es-god)
@@ -455,7 +463,8 @@
                   (NP (N watre-water)))
               (CONJP (CONJ &-&)
                      (PP (P by-by{re})
-                         (NP (N land-land)))))))
+                         (NP (N land-land))))))
+                         (ID RAMSEYCOTT.9))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -521,7 +530,8 @@
                                          (NP (NP-MSR (N half-half))
                                              (NPR Ra+teresholt-Ra+teresholt)))))
                           (PP (P in=to-into)
-                              (NP (NPR RamesE-RamesE)))))))
+                              (NP (NPR RamesE-RamesE))))))
+                              (ID RAMSEYCOTT.10))
 
 ( (FRAG (PP (PP (P on-in{m})
                 (NP (NP-POS (NPR$ lefsies-lefsies)
@@ -552,7 +562,8 @@
                                                       (PP (NP (PRO hem-them))
                                                           (P mid-mid{w}))
                                                       (BED weren-be)))))))))
-        (PUNC .)))
+        (PUNC .))
+        (ID RAMSEYCOTT.11))
 
 ( (IP-MAT (CONJ &-&)
           (PP (P if-if)
@@ -583,10 +594,12 @@
                                           (IP-SUB (NP-SBJ (PRO he-he))
                                                   (ADVP-DIR (ADV hethen-hence))
                                                   (VBP weNde-wendan)))))))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID RAMSEYCOTT.12))
 
 ( (FRAG (FW AMEn)
-        (FW .)))
+        (FW .))
+        (ID RAMSEYCOTT.13))
 
 ( (IP-MAT (NP-SBJ (D +tis-this)
                   (N writ-writ))
@@ -620,7 +633,8 @@
                                    (NP-PRN (N$ stall=er=s-staller))))
                   (CONJP-5 (CONJ &-&)
                            (NP-POS (NPR$ hugelines-hugelines)
-                                   (NP-PRN (N$ bour=thei\n=es-bu:rthane))))))))
+                                   (NP-PRN (N$ bour=thei\n=es-bu:rthane)))))))
+                                   (ID RAMSEYCOTT.14))
 
 ( (FRAG (FW *INSPEXIMUS)
         (FW INSUPer)
@@ -634,7 +648,8 @@
         (FW HEC})
         (FW UERBA)
         (FW .)
-        (LINEBREAK \\)))
+        (LINEBREAK \\))
+        (ID RAMSEYCOTT.15))
 
 ( (IP-MAT (NP-SBJ (NPR Edward-Edward)
                   (NPR kyng-king))
@@ -678,7 +693,8 @@
                         (CONJ &-&)
                         (ADJ leawed-lewd)))
           (ADVP (ADV frend=lik-friendly))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID RAMSEYCOTT.16))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -771,7 +787,8 @@
                                                              (NP-SBJ (PRO ikE-I)
                                                                      (NP-PRN (PRO+N me=self-self)))
                                                              (ADVP-LOC (ADV +tare-there))
-                                                             (MD aght-a:gan))))))))))
+                                                             (MD aght-a:gan)))))))))
+                                                             (ID RAMSEYCOTT.17))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ikE-I))
@@ -839,7 +856,8 @@
                                                (NUM @=half)
                                                (NUM hundred-hundred)
                                                (CODE {COM_LAEME:Literally_"the_second_half_hundred"_i.e._"the_one_and_a_half_hundreds"})))))))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.18))
 
 ( (IP-MAT (NP-LFD (CP-FRL (WNP-1 (ADV swa=@)
                                  (WPRO @>y>hilk=)
@@ -973,7 +991,8 @@
                                      (NP (N wode-wood)))
                                  (CONJP (CONJ &-&)
                                         (PP (P bi-by{re})
-                                            (NP (N felde-field))))))))))
+                                            (NP (N felde-field)))))))))
+                                            (ID RAMSEYCOTT.19))
 
 ( (IP-MAT (NP-LFD (CP-FRL (WNP-1 (ADV swa=@)
                                  (WPRO @+tilk)
@@ -1072,7 +1091,8 @@
                   (NP (N watER-water)))
               (CONJP (CONJ &-&)
                      (PP (P bi-by{re})
-                         (NP (N lande-land)))))))
+                         (NP (N lande-land))))))
+                         (ID RAMSEYCOTT.20))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik-I))
@@ -1091,7 +1111,8 @@
                                       (LINEBREAK \)
                                       (VBP (VBP litlige-ly:tlian)
                                            (CONJ ne-nor)
-                                           (VBP a=wende-awendan)))))))
+                                           (VBP a=wende-awendan))))))
+                                           (ID RAMSEYCOTT.21))
 
 ( (IP-MAT (CONJ &-&)
           (PP (P if-if)
@@ -1127,11 +1148,13 @@
                          (NP (Q all=e-all)
                              (PRO$ his-his)
                              (NS alew=en-ha:lga)))))
-          (PUNC .)))
+          (PUNC .))
+          (ID RAMSEYCOTT.22))
 
 ( (FRAG (FW AMEN)
         (FW .)
-        (PUNC ,)))
+        (PUNC ,))
+        (ID RAMSEYCOTT.23))
 
 ( (IP-MAT (NP-SBJ (D +tis-this)
                   (LINEBREAK \)
@@ -1158,7 +1181,8 @@
                   (CONJP-3 (CONJ &-&)
                            (NP-POS (NPR$ haroldes-haroldes)
                                    (NPR$ Eorl=es-earl)))))
-          (PUNC ,)))
+          (PUNC ,))
+          (ID RAMSEYCOTT.24))
 
 ( (FRAG (FW *INSPEXIMUS)
         (FW &)
@@ -1176,4 +1200,5 @@
         (FW NostRUM)
         (FW HEC)
         (FW UERBA)
-        (LINEBREAK \\)))
+        (LINEBREAK \\))
+        (ID RAMSEYCOTT.25))

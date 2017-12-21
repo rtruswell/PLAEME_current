@@ -29,7 +29,8 @@
                          (NP (Q eallun-all)
                              (PRO$ mine-my)
                              (N kynl=in+g-kindelen))))
-          (ADVP (ADV freond=lycc-friendly))))
+          (ADVP (ADV freond=lycc-friendly)))
+          (ID GOSPATRICT.1))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ic-I))
@@ -105,7 +106,8 @@
                                                                     (NP (D +teo-the)
                                                                         (N +weald-wold)
                                                                         (PP (P +at-at)
-                                                                            (NP (NPR Caldebek-Caldebek)))))))))))))))
+                                                                            (NP (NPR Caldebek-Caldebek))))))))))))))
+                                                                            (ID GOSPATRICT.2))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ic-I))
@@ -139,7 +141,8 @@
                                                     (PP (P on-in{t})
                                                         (NP (NPR$ Eadread-Eadread)
                                                             (NS da+g=an-day)))))))))
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID GOSPATRICT.3))
 
 ( (IP-MAT (CONJ &-&)
           (NEG ne-ne)
@@ -185,7 +188,8 @@
                                                                                               (ADJP (VAG leof=and-live))
                                                                                               (PP (NP (D +teo-the)
                                                                                                       (N +Welkynn-welkin))
-                                                                                                  (ADV+P +deor=en+der-thereunder))))))))))))))))
+                                                                                                  (ADV+P +deor=en+der-thereunder)))))))))))))))
+                                                                                                  (ID GOSPATRICT.4))
 
 ( (IP-MAT (CONJ &-&)
           (NP-LFD (CODE {COM:This_is_not_tagged_as_the_subject_because_loc=hyylkun_is_morphologically_dative.})
@@ -225,7 +229,8 @@
                                           (LINEBREAK \)
                                           (N kynl=ing-kindelen)
                                           (CONJP (CONJ &-&)
-                                                 (NX (NS +wassen=es-wassen)))))))))))
+                                                 (NX (NS +wassen=es-wassen))))))))))
+                                                 (ID GOSPATRICT.5))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ic-I))
@@ -265,4 +270,5 @@
                   (N+N +wyt=nes=mann-witnessman)))
           (PP (P on-in{p})
               (NP (D+ADJ +tyylk-ilk)
-                  (N sto+w-sto:w)))))
+                  (N sto+w-sto:w))))
+                  (ID GOSPATRICT.6))

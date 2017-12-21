@@ -83,7 +83,8 @@
                                                (NP (PRO$ is-his)
                                                    (ADJ hal=i-holy)
                                                    (NS-RH wnd=es-wound)))))
-                           (PUNC .)))))
+                           (PUNC .))))
+                           (ID COTCLEOBVIMISC.1))
 
 ( (IP-MAT (PP (PP (P for-for)
                   (NP (ADJ quik=e-quick)))
@@ -111,7 +112,8 @@
           (NP-SBJ-RSP (PRO +tai-they))
           (NP-OB1 (PRO it-it))
           (VB-RH find=e-find)
-          (PUNC .)))
+          (PUNC .))
+          (ID COTCLEOBVIMISC.2))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P for-for)
@@ -136,7 +138,8 @@
                   (FW PATER)
                   (FW NOSTER))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTCLEOBVIMISC.3))
 
 ( (IP-IMP (NP-VOC (N []aid=in-maiden)
                   (CODE {COM_LAEME:Space_left_for_two-line_initial_capital_not_carried_out})
@@ -158,7 +161,8 @@
           (PP (P at-at)
               (NP (PRO$ ure-our)
                   (N-RH hend=ing-end)))
-          (PUNC .)))
+          (PUNC .))
+          (ID COTCLEOBVIMISC.4))
 
 ( (IP-MAT (PUNC para)
           (VAN Blisc=ed-blissian)
@@ -187,7 +191,8 @@
                                   (NP-SBJ (D +te-the)
                                           (N nedre-adder))
                                   (VBD-RH by=suak-beswi:can))))
-          (PUNC .)))
+          (PUNC .))
+          (ID COTCLEOBVIMISC.5))
 
 ( (IP-IMP (PUNC para)
           (NP-VOC (NP (N Moder-mother)
@@ -209,7 +214,8 @@
               (NP (PRO$ +ti-thy)
                   (N-RH merci-mercy)))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTCLEOBVIMISC.6))
 
 ( (IP-IMP (NP-OB1 (D +tat-that)
                   (ADJ suete-sweet)
@@ -233,7 +239,8 @@
                   (TO to-to)
                   (VB-RH se-see))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTCLEOBVIMISC.7))
 
 ( (IP-IMP (NP-VOC (NPR IhESUS-IhESUS))
           (PP (PP (P for-for)
@@ -262,4 +269,5 @@
                                       (NP *T*-1))
                                   (VAN-RH bund=e-bind)))))
           (PUNC .)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+          (ID COTCLEOBVIMISC.8))
