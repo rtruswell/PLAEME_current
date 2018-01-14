@@ -20,7 +20,7 @@ We have included a selection of LAEME texts which meet the following criteria:
 
 By these criteria, we have included 68 files (172,624 words) in PLAEME. Basic details on the texts included can be found in [PLAEME_texts.csv](PLAEME_texts.csv). For fuller details, please search in [LAEME's Index of Sources][LAEME] for the filename listed in the &ldquo;LAEME file&rdquo; column of the spreadsheet.
 
-PPCHE files mostly correspond to our contemporary understanding of a &ldquo;text&rdquo;, while LAEME files correspond to &ldquo;scribal languages&rdquo;. Neither of these units nests within the other: a scribal language can be represented in multiple texts, and a text can represent multiple scribal languages. For instance, the *Trinity Homilies* (parsed as one file in PPCME2) is split into three files in LAEME ([`trhomAt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomAt.tag), [`trhomBt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomBt.tag), [`trhom34ct`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhom34ct.tag)), because three different scribes produced the manuscript. On the other hand, versions of *Harrowing of Hell*, *Le regret de Maximian*, *The Thrush and the Nightingale*, and *The Fox and the Wolf* are parsed as separate texts in PCMEP, but feature (along with 13 other poems) in the single LAEME file [`digby86mapt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomAt.tag), because all of these poems represent the same scribal language.
+PPCHE files mostly correspond to our contemporary understanding of a &ldquo;text&rdquo;, while LAEME files correspond to &ldquo;scribal languages&rdquo;. Neither of these units nests within the other: a scribal language can be represented in multiple texts, and a text can represent multiple scribal languages. For instance, the *Trinity Homilies* (parsed as one file in PPCME2) is split into three files in LAEME ([`trhomAt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomAt.tag), [`trhomBt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomBt.tag), [`trhom34ct`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhom34ct.tag)), because three different scribes produced the manuscript. On the other hand, versions of *Harrowing of Hell*, *Le regret de Maximian*, *The Thrush and the Nightingale*, and *The Fox and the Wolf* are parsed as separate texts in PCMEP, but feature (along with 13 other poems) in the single LAEME file [`digby86mapt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=trhomAt.tag), because all of these poems represent the same scribal language as found in a single manuscript.
 
 To find a middle ground between these two approaches, we have parsed complete LAEME files where there is no overlap with other parsed material, but split LAEME files into their component parts where necessary to avoid overlap with PPCME2 and PCMEP, or with texts in other LAEME files. For instance, the PLAEME file [`corp145selt`](psd/corp145selt.psd) contains the same text as the LAEME file of the same name (the *South English Legendary*), but PLAEME files [`digby86bede`](psd/digby86bede.psd), [`digby86doomsday`](psd/digby86doomsday.psd), etc., correspond to subparts of the single LAEME file [`digby86mapt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=digby86mapt.tag): we did not parse the whole of [`digby86mapt`](http://archive.ling.ed.ac.uk/ihd/laeme2_scripts/display_tagdataZ.php?fn=digby86mapt.tag) because that would have led to overlap with PCMEP as documented above. As well as basic information about wordcount, date, and dialect, [PLAEME_texts.csv](PLAEME_texts.csv) also details correspondences between PLAEME files and LAEME files, indicating which PLAEME files constitute part of which LAEME files.
 
@@ -113,7 +113,7 @@ LAEME/PLAEME | value
 LAEME's orthography for lexels mainly uses lower-case letters, with the main exceptions being *Y* for &thorn; and *:* as a long vowel marker in OE lexels.  We have preserved this orthography as is.
 
 ##### Other materials
-In passages of Latin, French, or other languages, and in textual comments (see below), PLAEME preserves LAEME's original orthography (the left-hand column in the above tables).
+LAEME contains passages of Latin, French, and other languages when interspersed with English (most noticeably in macaronic verse).  In these passages and in textual comments (see below), PLAEME preserves LAEME's original orthography (the left-hand column in the above tables).
 
 #### Splitting of words
 LAEME only rarely splits orthographic words.  We have split many more in PLAEME, partly for consistency with PPCHE conventions and partly because annotation with indication of constituent structure sometimes forced us to.  There is some inconsistency in the way in which splits have been marked.  Most have been marked by *@*: word-initially or word-finally, it indicates that there was no space between this and the preceding or following word respectively.  However, in some cases, a separate `CODE` label has been added, as below.
@@ -144,7 +144,7 @@ LAEME | PLAEME | value
 `{\}` | `(LINEBREAK \)`| Linebreak
 `{...}` | `(PUNC ...)`| Punctuation
 `!_...` | `(MISC ...)`| Untagged material
-`{rh}` | `-RH` (dash tag) | Rhyme
+`{rh}` | `-RH` (dash tag) | Word in rhyme position
 
 We preserved rhyme information because it may help with quantitative investigation of the possibility that word order in verse texts is affected by metre.
 
@@ -186,7 +186,9 @@ Deletions are different: we typically don't want CorpusSearch to search them. Ac
 
 #### Fragmentary text
 
-LAEME includes manuscripts which are damaged to such an extent that syntactic structure cannot be directly inferred. For instance, [vitelld3t](psd/vitelld3t.psd) is badly damaged by fire, with many folios completely lost and much of what remains completely illegible.  In annotating such texts with information about syntactic structure, we necessarily have to extrapolate beyond the text to a greater extent than usual.
+LAEME includes manuscripts which are damaged to such an extent that syntactic structure cannot be directly inferred. For instance, [vitelld3t](psd/vitelld3t.psd) is badly damaged by fire, with many folios completely lost and much of what remains completely illegible.  We have included these texts for a simple reason: very little survives from this period and even the fragmentary information in these manuscripts is interpretable to a degree.
+
+In annotating such texts with information about syntactic structure, we necessarily have to extrapolate beyond the text to a greater extent than usual.
 
 We have tried to use LAEME as a guide in this respect, sticking to the following principles:
 
