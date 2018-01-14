@@ -5,7 +5,7 @@
           (CONJP (CONJ &-&)
                  (IP-MAT=1 (NP-SBJ (N wintER-winter))
                            (VBN-RH go=n-go))))
-                           (ID EGSOMERT.1))
+  (ID EGSOMERT.1))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D yis-this)
                             (N day-day))
@@ -19,11 +19,11 @@
                                    (NP-PRN (Q+ONE-RH euERichon-evereachone)))
                            (IP-INF (TO *)
                                    (VB Ioy=e-joy)
-                                   (NP (PRO hem-them))
+                                   (NP-OB1 (PRO hem-them))
                                    (PP (P wit-with{w})
                                        (NP (N-RH songe-song))))))
           (LINEBREAK \))
-          (ID EGSOMERT.2))
+  (ID EGSOMERT.2))
 
 ( (IP-MAT (NP-SBJ (ADJP (ADVR So-so)
                         (ADJ stronge-strong))
@@ -55,7 +55,7 @@
                                             (NP (N-RH honde-hand))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.3))
+  (ID EGSOMERT.3))
 
 ( (IP-MAT (NP-SBJ (D Yat-that)
                   (N child-child)
@@ -63,7 +63,7 @@
                           (C yat-that)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (BEP is-be)
-                                  (ADJP (ADJP (ADV so-so)
+                                  (ADJP (ADJP (ADVR so-so)
                                               (ADJ milde-mild)
                                               (CONJP (CONJ &-&)
                                                      (ADJX (ADJ wlong-wlanc))))
@@ -87,7 +87,7 @@
                   (N-RH =stunde-stund))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.4))
+  (ID EGSOMERT.4))
 
 ( (IP-MAT (VBN I=fund=e-find)
           (NP-SBJ (PRO he-he))
@@ -101,7 +101,7 @@
                                     (N-RH tre-tree)))))
                     (VAN-RH i=bund=e-bind))
           (LINEBREAK \))
-          (ID EGSOMERT.5))
+  (ID EGSOMERT.5))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD brac-break)
@@ -117,7 +117,7 @@
               (NP (NS-RH wund=e-wound)))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.6))
+  (ID EGSOMERT.6))
 
 ( (IP-MAT (NP-SBJ (D yat-that)
                   (N child-child)
@@ -125,7 +125,7 @@
                           (C yat-that)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (BED was-be)
-                                  (ADJP (ADV so-so)
+                                  (ADJP (ADVR so-so)
                                         (ADJ wilde-wild)
                                         (CONJP (CONJ &-&)
                                                (ADJX (ADJ wlong-wlanc)
@@ -135,7 +135,7 @@
           (VBD a=lute-alu:tan)
           (ADVP (ADV-RH lowe-low))
           (LINEBREAK \))
-          (ID EGSOMERT.7))
+  (ID EGSOMERT.7))
 
 ( (IP-MAT (PP (P [f]R^am-from)
               (CODE {COM_LAEME:The_edge_of_the_folio_is_damaged_and_initial_F_only_partly_visible_on_the_film})
@@ -145,7 +145,7 @@
           (NP-SBJ (PRO he-he))
           (BED was-be)
           (VAN sol=d-sell))
-          (ID EGSOMERT.8))
+  (ID EGSOMERT.8))
 
 ( (IP-MAT (NEG ne-ne)
           (MD cuyen-can)
@@ -155,12 +155,12 @@
           (VB-RH cnow=e-know)
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.9))
+  (ID EGSOMERT.9))
 
 ( (IP-MAT (INTJ do=we-doaway)
           (VBD say=den-say)
           (NP-SBJ (PRO-RH he-they)))
-          (ID EGSOMERT.10))
+  (ID EGSOMERT.10))
 
 ( (IP-MAT (VBP naile-nail)
           (NP-SBJ (PRO we-we))
@@ -171,10 +171,10 @@
           (PP (P a=-on{p})
               (NP (N-RH =lowe-hla:w)))
           (LINEBREAK \))
-          (ID EGSOMERT.11))
+  (ID EGSOMERT.11))
 
 ( (IP-MAT (CONJ Ac-ac)
-          (ADVP-TMP (ADV arst-1))
+          (ADVP-TMP (ADV arst-first))
           (NP-SBJ (PRO we-we))
           (MD sullen-shall)
           (CODE {INSSTART})
@@ -186,7 +186,7 @@
                   (N-RH =yrowe-Yra:g))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.12))
+  (ID EGSOMERT.12))
 
 ( (IP-MAT (NP-OB1 (NPR IhESu-IhESu)
                   (NP-PRN *ICH*-1))
@@ -200,7 +200,7 @@
                             (NS-RH lond=e-land))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.13))
+  (ID EGSOMERT.13))
 
 ( (IP-MAT (PP (P of-of)
               (NP (D ye-the)
@@ -208,7 +208,7 @@
           (NP-SBJ (PRO he-they))
           (VBD me=deN-make)
           (NP-OB1 (N-RH game-game)))
-          (ID EGSOMERT.14))
+  (ID EGSOMERT.14))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -219,7 +219,7 @@
               (NP (NS-RH hond=e-hand)))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.15))
+  (ID EGSOMERT.15))
 
 ( (IP-MAT (IP-INF-PRP (TO to-to)
                       (VB fond=en-fandian)
@@ -239,7 +239,7 @@
               (NP (NS-RH hond=en-hand)
                   (CODE {COM_LAEME:Or_NU-HONDEN?_variant_or_mistake_for_NIGH-HAND?})))
           (LINEBREAK \))
-          (ID EGSOMERT.16))
+  (ID EGSOMERT.16))
 
 ( (IP-MAT (PP (P of-of)
               (NP (ADJ bittER-bitter)
@@ -251,7 +251,7 @@
                   (N-RH sonde-sond))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.17))
+  (ID EGSOMERT.17))
 
 ( (IP-MAT (NP-OB1 (N d+g-death))
           (NP-SBJ (PRO he-he)
@@ -266,7 +266,7 @@
                             (Q-RH all=e-all))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.18))
+  (ID EGSOMERT.18))
 
 ( (IP-MAT (NEG []-ne)
           (CNJCTR ne_might)
@@ -289,7 +289,7 @@
                                                    (NP (NPR helle-hell)
                                                        (ADJP (ADJ dep-deep)))))))))
           (PUNC .))
-          (ID EGSOMERT.19))
+  (ID EGSOMERT.19))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NEG+BED n=ere-benot)
@@ -298,7 +298,7 @@
                       (ADJ swet-sweet)))
           (ADVP (ADV-RH wit=alle-withal))
           (LINEBREAK \))
-          (ID EGSOMERT.20))
+  (ID EGSOMERT.20))
 
 ( (IP-MAT (NEG ne-ne)
           (MD miitte-may)
@@ -309,7 +309,7 @@
                   (CONJ ne-nor)
                   (N-RH halle-hall))
           (LINEBREAK \))
-          (ID EGSOMERT.21))
+  (ID EGSOMERT.21))
 
 ( (IP-MAT (NP-SBJ (N Mayde-maid)
                   (CONJ &-&)
@@ -323,7 +323,7 @@
                               (NP (N-RH grace-grace)))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.22))
+  (ID EGSOMERT.22))
 
 ( (FRAG (CNJCTR and_from_her_eyes_she_let_blood)
         (CODE {COM_LAEME:Heavily_erased_and_illegible_on_film_-_though_CB13_only_brackets~out_the_middle_of_the_line})
@@ -335,7 +335,7 @@
                 (N-RH place-place)))
         (PUNC .)
         (LINEBREAK \))
-        (ID EGSOMERT.23))
+  (ID EGSOMERT.23))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N trace-trace))
@@ -343,7 +343,7 @@
           (PP (P of-of)
               (NP (PRO$ hERe-her)
                   (N-RH blod-blood))))
-                  (ID EGSOMERT.24))
+  (ID EGSOMERT.24))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBD chang=ed=-change)
@@ -355,7 +355,7 @@
                          (NX (N-RH face-face))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.25))
+  (ID EGSOMERT.25))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (BED was-be)
@@ -367,7 +367,7 @@
                             (NP (N-RH chace-chase))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.26))
+  (ID EGSOMERT.26))
 
 ( (IP-MAT (NP-OB1 (N det-death))
           (NP-SBJ (PRO he-he)
@@ -383,7 +383,7 @@
                   (N-RH rode-rood)))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.27))
+  (ID EGSOMERT.27))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD wes-wash)
@@ -396,7 +396,7 @@
                   (N-RH blode-blood)))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.28))
+  (ID EGSOMERT.28))
 
 ( (IP-MAT (PP (P mid-mid{w})
               (NP (N flode-flood)))
@@ -404,7 +404,7 @@
           (VBD lute-lu:tan)
           (PP (P+RP-RH a=dun-adown))
           (PUNC .))
-          (ID EGSOMERT.29))
+  (ID EGSOMERT.29))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -420,7 +420,7 @@
                                           (VBD-RH stode-stand))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.30))
+  (ID EGSOMERT.30))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -435,7 +435,7 @@
                                   (ADJP (ADJ-RH god=e-good)))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGSOMERT.31))
+  (ID EGSOMERT.31))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD ros-rise)
@@ -443,9 +443,9 @@
           (PP (P ene-on{t})
               (CODE {COM_LAEME:sic})
               (NP (D ye-the)
-                  (ADJ yridde-3)
+                  (ADJ yridde-third)
                   (N-RH day-day))))
-                  (ID EGSOMERT.32))
+  (ID EGSOMERT.32))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -455,7 +455,7 @@
               (NP (PRO$ is-his)
                   (N-RH trone-throne)))
           (LINEBREAK \))
-          (ID EGSOMERT.33))
+  (ID EGSOMERT.33))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (MD wule-will)
@@ -468,7 +468,7 @@
                               (NP-PRN (Q+ONE-RH euERichic=one-evereachone)
                                       (CODE {COM_LAEME:sic}))))
           (LINEBREAK \))
-          (ID EGSOMERT.34))
+  (ID EGSOMERT.34))
 
 ( (IP-MAT-1 (VB gron=e-groan)
             (NP-SBJ (PRO he-he)
@@ -488,7 +488,7 @@
                                       (ADJP-SPR (ADJ-RH alone-alone)))))
             (PUNC .)
             (LINEBREAK \))
-            (ID EGSOMERT.35))
+  (ID EGSOMERT.35))
 
 ( (IP-IMP (VBI gR^ante-grant)
           (NP-OB2 (PRO ous-us))
@@ -499,9 +499,9 @@
                   (TO to-to)
                   (VB-RH ge=ne-go))
           (PUNC .))
-          (ID EGSOMERT.36))
+  (ID EGSOMERT.36))
 
 ( (LATIN (FW *AME*N)
          (FW .)
          (LINEBREAK \\))
-         (ID EGSOMERT.37))
+  (ID EGSOMERT.37))

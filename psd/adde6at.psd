@@ -21,7 +21,7 @@
           (HV-RH haw=yn-have)
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.1))
+  (ID ADDE6AT.1))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBP +geue-give)
@@ -43,7 +43,7 @@
                       (HV-RH haw=yn-have))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.2))
+  (ID ADDE6AT.2))
 
 ( (IP-MAT (NP-SBJ (NPR Sey-saint)
                   (CODE {COM_LAEME:The_*S_is_the_only_example_in_this_hand_of_the_beaver-tailed,_M-shaped~'Mumpsimus_capital_*S._Apart_from_the_tail,_which_is_very_faint_in_the~microfilm_it_is_exactly_the_same_shape_as_this_scribe's_capital_M,_and~was_perhaps_copied_from_a_'Mumpsimus'_*S_in_his_exemplar_<lparen>cf_the_form~of_*S_in_Digby_86._The_word_is_followed_in_the_MS_by_a_small_hole_in~the_parchment_but_it_does_not_look_as_if_NT_would_have_been~obliterated_by_it_and_the_other_holes_in_the_parchment_seem_to_have~been_there_before_the_writing_and_are_accommodated_by_the_scribe})
@@ -77,7 +77,7 @@
                                                              (NP-OB2 (PRO hym-him))
                                                              (VAN-RH Be=rEw=yd-bere:afian))))))))
           (LINEBREAK \))
-          (ID ADDE6AT.3))
+  (ID ADDE6AT.3))
 
 ( (IP-MAT (PP (PP (P In-in{p})
                   (NP (PRO$ his-his)
@@ -92,7 +92,7 @@
                   (NS worm=es-worm))
           (VB-RH bred=yn-breed)
           (LINEBREAK \))
-          (ID ADDE6AT.4))
+  (ID ADDE6AT.4))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D +te-the)
                             (N fles-flesh))
@@ -108,7 +108,7 @@
                            (VB sondr=en-sunder)
                            (NP-PRN-2 (Q+ONE-RH euerychon-evereachone))))
           (LINEBREAK \))
-          (ID ADDE6AT.5))
+  (ID ADDE6AT.5))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N Body-body))
@@ -116,7 +116,7 @@
           (VB-RH to=fy=en-tofi:en)
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.6))
+  (ID ADDE6AT.6))
 
 ( (IP-IMP (NP-SBJ (D +to-those)
                   (CP-REL (WNP-1 0)
@@ -139,7 +139,7 @@
                                     (BEP-RH Ben-be))))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.7))
+  (ID ADDE6AT.7))
 
 ( (IP-IMP (CONJ &-&)
           (VBI lok=e-look)
@@ -150,7 +150,7 @@
                           (VBP-RH ly=en-licgan)))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.8))
+  (ID ADDE6AT.8))
 
 ( (IP-MAT (NP-VOC (N Ma-man))
           (NP-SBJ (PRO +tu-thou))
@@ -160,7 +160,7 @@
                   (N-RH fom-foam)
                   (CODE {COM_LAEME:or_FEM})))
           (LINEBREAK \))
-          (ID ADDE6AT.9))
+  (ID ADDE6AT.9))
 
 ( (IP-MAT (CODE {PAGE~l20})
           (NP-SBJ *con*)
@@ -171,7 +171,7 @@
                   (ADJ seker-siker)
                   (N-RH hom-home))
           (LINEBREAK \))
-          (ID ADDE6AT.10))
+  (ID ADDE6AT.10))
 
 ( (IP-MAT (NP-SBJ (PRO I-I))
           (NEG ne-ne)
@@ -180,7 +180,7 @@
           (FP bote-bu:tan{o})
           (CODE {COM_LAEME:?SCEzE_written_over_erasure_?error_for_SCYLLE})
           (LINEBREAK \))
-          (ID ADDE6AT.11))
+  (ID ADDE6AT.11))
 
 ( (IP-MAT (NP-SBJ (PRO$ +ty-thy)
                   (ADJ rite-right)
@@ -188,7 +188,7 @@
           (BEP is-be)
           (ADVP-LOC (ADV+WADV-RH elles=wer-elsewhere))
           (LINEBREAK \))
-          (ID ADDE6AT.12))
+  (ID ADDE6AT.12))
 
 ( (IP-MAT (NP-SBJ (NPR IhESu-IhESu))
           (VBP Lete-lae:tan)
@@ -201,7 +201,7 @@
                   (ADJ suete-sweet)
                   (N-RH wylle-will)))
           (LINEBREAK \))
-          (ID ADDE6AT.13))
+  (ID ADDE6AT.13))
 
 ( (IP-MAT (NP-SBJ (PRO$ +ty-thy)
                   (N fles-flesh))
@@ -210,7 +210,7 @@
               (NP (PRO$ +ty-thy)
                   (N-RH gost-ghost)))
           (LINEBREAK \))
-          (ID ADDE6AT.14))
+  (ID ADDE6AT.14))
 
 ( (IP-MAT (CP-QUE (WADVP-1 (WADV wanne-when)
                            (NP-PRN *ICH*-2))
@@ -232,7 +232,7 @@
           (CODE {INTERPOLATION~DEY_Y})
           (CODE {INSEND})
           (LINEBREAK \))
-          (ID ADDE6AT.15))
+  (ID ADDE6AT.15))
 
 ( (IP-MAT (CONJ And-&)
           (ADVP (ADV nede=cost=es-needcostes))
@@ -240,7 +240,7 @@
           (MD scalt-shall)
           (VB-RH dey=en-die)
           (LINEBREAK \))
-          (ID ADDE6AT.16))
+  (ID ADDE6AT.16))
 
 ( (IP-MAT (NEG Ne-ne)
           (MD may-may)
@@ -249,7 +249,7 @@
           (NP-OB1 (PRO +te-thee))
           (VB-RH for=Bey=en-forbuy)
           (LINEBREAK \))
-          (ID ADDE6AT.17))
+  (ID ADDE6AT.17))
 
 ( (IP-IMP (CODE {PAGE~l30})
           (NP-SBJ (PRO +tu-thou))
@@ -261,7 +261,7 @@
                               (MD-RH myt-may)
                               (VB *))))
           (LINEBREAK \))
-          (ID ADDE6AT.18))
+  (ID ADDE6AT.18))
 
 ( (IP-MAT (NP-OB1 (D A-a)
                   (ADJ fykel-fickle)
@@ -271,7 +271,7 @@
           (NP-SBJ (PRO$ +ty-thy)
                   (N-RH Lyf-life))
           (LINEBREAK \))
-          (ID ADDE6AT.19))
+  (ID ADDE6AT.19))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (N ded-death))
@@ -281,7 +281,7 @@
                   (ADJ sarpe-sharp)
                   (N-RH cnyf-knife))
           (LINEBREAK \))
-          (ID ADDE6AT.20))
+  (ID ADDE6AT.20))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (DOI do=-do)
@@ -298,7 +298,7 @@
                               (VB lok=en-look)
                               (ADVP (ADV-RH ryt-right)))))
           (LINEBREAK \))
-          (ID ADDE6AT.21))
+  (ID ADDE6AT.21))
 
 ( (IP-MAT (NEG ne-ne)
           (HVP haw=yst-have)
@@ -313,26 +313,26 @@
                               (BEP art-be)
                               (PP (P+N-RH o=liwe-alive)))))
           (LINEBREAK \))
-          (ID ADDE6AT.22))
+  (ID ADDE6AT.22))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (NP-SBJ (PRO +tu-thou))
           (BEP art-be)
           (ADJP (ADJ wrong-wrong)))
-          (ID ADDE6AT.23))
+  (ID ADDE6AT.23))
 
 ( (IP-MAT (ADVP-TMP (ADV nu-now))
           (NP-SBJ (PRO +tu-thou))
           (BEP art-be)
           (ADJP (ADJ-RH ryt-right))
           (LINEBREAK \))
-          (ID ADDE6AT.24))
+  (ID ADDE6AT.24))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (NP-SBJ (PRO +tu-thou))
           (BEP art-be)
           (ADJP (ADJ hew=ey-heavy)))
-          (ID ADDE6AT.25))
+  (ID ADDE6AT.25))
 
 ( (IP-MAT (ADVP-TMP (ADV nu-now))
           (NP-SBJ (PRO +tu-thou))
@@ -340,7 +340,7 @@
           (ADJP (ADJ-RH ryt-right)
                 (CODE {COM_LAEME:for_LYT}))
           (LINEBREAK \))
-          (ID ADDE6AT.26))
+  (ID ADDE6AT.26))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (NP-SBJ (PRO +tu-thou))
@@ -350,32 +350,32 @@
                   (N-RH roo-roe)))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.27))
+  (ID ADDE6AT.27))
 
 ( (IP-MAT (CODE {PAGE~l40})
           (ADVP-TMP (ADV Nu-now))
           (NP-SBJ (PRO +tu-thou))
           (BEP art-be)
           (ADJP (ADJ riche-rich)))
-          (ID ADDE6AT.28))
+  (ID ADDE6AT.28))
 
 ( (IP-MAT (ADVP-TMP (ADV nu-now))
           (NP-SBJ (PRO +te-thou))
           (VBP-RH power=est-poor)
           (LINEBREAK \))
-          (ID ADDE6AT.29))
+  (ID ADDE6AT.29))
 
 ( (IP-MAT (ADVP-TMP (ADV nu-now))
           (NP-SBJ (PRO +tu-thou))
           (BEP art-be)
           (ADJP (ADJ syk-sick)))
-          (ID ADDE6AT.30))
+  (ID ADDE6AT.30))
 
 ( (IP-MAT (ADVP-TMP (ADV nu-now))
           (NP-SBJ (PRO +te-thou))
           (VBP-RH kewer=est-cover{r})
           (LINEBREAK \))
-          (ID ADDE6AT.31))
+  (ID ADDE6AT.31))
 
 ( (IP-MAT (NEG Ne-ne)
           (BEP ys-be)
@@ -384,7 +384,7 @@
                   (N-RH wo-woe))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.32))
+  (ID ADDE6AT.32))
 
 ( (IP-MAT (NP-LFD (PRO$ +ty-thy)
                   (N fles-flesh))
@@ -410,7 +410,7 @@
           (INS D_AMAn)
           (CODE {COM_LAEME:ins_in_margin})
           (LINEBREAK \))
-          (ID ADDE6AT.33))
+  (ID ADDE6AT.33))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N saule-soul))
@@ -433,14 +433,14 @@
                           (NP (NPR helle-hell)
                               (ADJP (ADJ-RH depe-deep)))))
           (LINEBREAK \))
-          (ID ADDE6AT.34))
+  (ID ADDE6AT.34))
 
 ( (IP-MAT-SPE (NP-SBJ (D +tat-that)
                       (N wo-woe))
               (VBP Last=yt-last)
               (ADVP-TMP (ADV-RH ay-ay))
               (LINEBREAK \))
-              (ID ADDE6AT.35))
+  (ID ADDE6AT.35))
 
 ( (IP-MAT (NP-SBJ (D +tys-this)
                   (N stref-strife))
@@ -449,7 +449,7 @@
               (NP (PRO hem-them)
                   (NUM-RH tuo-two)))
           (LINEBREAK \))
-          (ID ADDE6AT.36))
+  (ID ADDE6AT.36))
 
 ( (IP-MAT (NP-SBJ (CODE {PAGE~l50})
                   (D +t^t=-the)
@@ -457,7 +457,7 @@
                   (CODE {COM_LAEME:Original:_y^T-ON}))
           (VBP sey=d-say)
           (IP-IMP-SPE (VBI Let-lae:tan)))
-          (ID ADDE6AT.37))
+  (ID ADDE6AT.37))
 
 ( (IP-MAT (NP-SBJ (D +t^t=-the)
                   (OTHER o+tER-other)
@@ -465,7 +465,7 @@
           (VBP sey=d-say)
           (IP-IMP-SPE (DOI-RH do-do))
           (LINEBREAK \))
-          (ID ADDE6AT.38))
+  (ID ADDE6AT.38))
 
 ( (IP-MAT (NEG Ne-ne)
           (MD wyllen-will)
@@ -473,7 +473,7 @@
           (ADVP-TMP (ADV newerE-never))
           (VB-RH Lenn=en-linnan)
           (LINEBREAK \))
-          (ID ADDE6AT.39))
+  (ID ADDE6AT.39))
 
 ( (IP-MAT (CONJ ac-ac)
           (CODE {COM_LAEME:C_and_T_identical_so_looks_like_AT})
@@ -483,7 +483,7 @@
                   (Q all=e-all))
           (VB-RH y=se=n-see)
           (LINEBREAK \))
-          (ID ADDE6AT.40))
+  (ID ADDE6AT.40))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N saule-soul))
@@ -492,7 +492,7 @@
           (TO to-to)
           (BE-RH be=n-be)
           (LINEBREAK \))
-          (ID ADDE6AT.41))
+  (ID ADDE6AT.41))
 
 ( (IP-MAT (NP-OB1 (D +te-the)
                   (N pres-pris))
@@ -501,7 +501,7 @@
           (TO to-to)
           (VB-RH wynn=en-winnan)
           (LINEBREAK \))
-          (ID ADDE6AT.42))
+  (ID ADDE6AT.42))
 
 ( (IP-IMP (NP-VOC (N Man-man))
           (NP-SBJ (PRO +tu-thou))
@@ -510,7 +510,7 @@
                 (ADV wol-well{v})
                 (ADJ-RH coud-cu:Y))
           (LINEBREAK \))
-          (ID ADDE6AT.43))
+  (ID ADDE6AT.43))
 
 ( (IP-IMP (CONJ &-&)
           (VBI loke-look)
@@ -527,7 +527,7 @@
                           (ADVP-LOC (ADV+WADV elles=wer-elsewhere)
                                     (RP-RH a=bouten-about{p}))))
           (LINEBREAK \))
-          (ID ADDE6AT.44))
+  (ID ADDE6AT.44))
 
 ( (IP-IMP (ADVP (ADV wol-well{v})
                 (ADV ind=er=leche-innerly))
@@ -536,7 +536,7 @@
           (VBI nym-niman)
           (NP-OB1 (N-RH kep-keep))
           (LINEBREAK \))
-          (ID ADDE6AT.45))
+  (ID ADDE6AT.45))
 
 ( (IP-MAT (NEG Ne-ne)
           (VBP fynd=este-find)
@@ -556,7 +556,7 @@
                               (RP-RH a=bouten-about{p}))))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.46))
+  (ID ADDE6AT.46))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO +tu-thou))
@@ -575,7 +575,7 @@
                                   (ADJP (ADVR so-so)
                                         (ADJ-RH pREcious-precious)))))
           (LINEBREAK \))
-          (ID ADDE6AT.47))
+  (ID ADDE6AT.47))
 
 ( (IP-MAT (ADVP (ADV wol-well{v})
                 (ADV dere-dear))
@@ -583,7 +583,7 @@
           (BED was-be)
           (VAN-RH i=bo+g=t-buy)
           (LINEBREAK \))
-          (ID ADDE6AT.48))
+  (ID ADDE6AT.48))
 
 ( (IP-MAT (NP-SBJ (PRO Ich-I))
           (VBP holde-hold)
@@ -609,18 +609,18 @@
                                             (PP (P for-for)
                                                 (NP (Q-RH no+gt-naught)))))))
           (LINEBREAK \))
-          (ID ADDE6AT.49))
+  (ID ADDE6AT.49))
 
 ( (IP-IMP (NP-VOC (N man-man))
           (BEI be-be)
           (ADJP (ADJ war-ware)))
-          (ID ADDE6AT.50))
+  (ID ADDE6AT.50))
 
 ( (IP-IMP (CONJ &-&)
           (BEI be-be)
           (ADJP (ADJ-RH wys-wise))
           (LINEBREAK \))
-          (ID ADDE6AT.51))
+  (ID ADDE6AT.51))
 
 ( (IP-IMP (PP (P +gyf-if)
               (CP-ADV (C 0)
@@ -630,7 +630,7 @@
           (ADVP-TMP (ADV sone-soon))
           (VBI-RH a=rys-arise)
           (LINEBREAK \))
-          (ID ADDE6AT.52))
+  (ID ADDE6AT.52))
 
 ( (IP-IMP (NEG Ne-ne)
           (VBI le+ge-licgan)
@@ -638,7 +638,7 @@
           (NP-MSR (Q none-no)
                   (N-RH stonde-stund))
           (LINEBREAK \))
-          (ID ADDE6AT.53))
+  (ID ADDE6AT.53))
 
 ( (IP-IMP (CODE {PAGE~l70})
           (PP (P a=geyn-against)
@@ -658,7 +658,7 @@
                             (PP (P to-to)
                                 (NP (N-RH nyt-night)))))
           (LINEBREAK \))
-          (ID ADDE6AT.54))
+  (ID ADDE6AT.54))
 
 ( (IP-MAT (NP-SBJ (D +tat-that))
           (BEP ys-be)
@@ -666,7 +666,7 @@
               (NP (N bok-book)))
           (VAN-RH i=fond=en-find)
           (LINEBREAK \))
-          (ID ADDE6AT.55))
+  (ID ADDE6AT.55))
 
 ( (IP-MAT (NP-ADT (N Man-man)
                   (CP-REL (WNP-1 0)
@@ -685,7 +685,7 @@
           (VBP kan-can)
           (NP-PRN-2 (Q+ONE-RH ewerichon-evereachone))
           (LINEBREAK \))
-          (ID ADDE6AT.56))
+  (ID ADDE6AT.56))
 
 ( (IP-MAT (NP-SBJ (PRO I-I))
           (MD wylle-will)
@@ -694,7 +694,7 @@
           (Q-RH all=e-all)
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.57))
+  (ID ADDE6AT.57))
 
 ( (FRAG (NP (PRO$ +tyn-thy)
             (ADJ owene-own)
@@ -705,7 +705,7 @@
         (NP (D +te-the)
             (N-RH fend-fiend))
         (LINEBREAK \))
-        (ID ADDE6AT.58))
+  (ID ADDE6AT.58))
 
 ( (IP-MAT (NP-LFD (PRO he-he)
                   (CP-REL (WNP-1 0)
@@ -724,7 +724,7 @@
                   (RP don-down)
                   (VB-RH fall=en-fall))
           (LINEBREAK \))
-          (ID ADDE6AT.59))
+  (ID ADDE6AT.59))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP mak=est-make)
@@ -734,7 +734,7 @@
                         (CONJ &-&)
                         (ADJ-RH proud-proud)))
           (LINEBREAK \))
-          (ID ADDE6AT.60))
+  (ID ADDE6AT.60))
 
 ( (IP-MAT (CODE {PAGE~l80})
           (NP-SBJ (PRO +tu-thou))
@@ -744,7 +744,7 @@
               (NP (ADJ fayr-fair)
                   (N-RH scroud-shroud)))
           (LINEBREAK \))
-          (ID ADDE6AT.61))
+  (ID ADDE6AT.61))
 
 ( (IP-MAT (PP (P +Gyf-if)
               (CP-ADV (C 0)
@@ -760,7 +760,7 @@
                       (Q mochel-much))
                   (N-RH wrongE-wrong))
           (LINEBREAK \))
-          (ID ADDE6AT.62))
+  (ID ADDE6AT.62))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP mak=est-make)
@@ -775,7 +775,7 @@
                         (PP (NP (PRO +te-thee))
                             (P-RH a=geyn-against))))
           (LINEBREAK \))
-          (ID ADDE6AT.63))
+  (ID ADDE6AT.63))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (DOI do-do)
@@ -786,7 +786,7 @@
                      (PP (P be-by)
                          (NP (N-RH red-rae:d)))))
           (LINEBREAK \))
-          (ID ADDE6AT.64))
+  (ID ADDE6AT.64))
 
 ( (IP-IMP (VBI wyt=drau-withdraw)
           (NP-OB2 (PRO hyM-him))
@@ -795,7 +795,7 @@
                       (NP (PRO$ hys-his)
                           (N-RH bred-bread))))
           (LINEBREAK \))
-          (ID ADDE6AT.65))
+  (ID ADDE6AT.65))
 
 ( (IP-IMP (CONJ &-&)
           (VBI gif-give)
@@ -806,7 +806,7 @@
                                   (TO to-to)
                                   (VB-RH drenk=en-drink))))
           (LINEBREAK \))
-          (ID ADDE6AT.66))
+  (ID ADDE6AT.66))
 
 ( (IP-IMP (NEG Ne-ne)
           (VBI let-lae:tan)
@@ -815,7 +815,7 @@
           (ADVP (ADV idel-idle))
           (VB-RH go=n-go)
           (LINEBREAK \))
-          (ID ADDE6AT.67))
+  (ID ADDE6AT.67))
 
 ( (IP-IMP (CONJ Bote-but)
           (DOI do-do)
@@ -823,7 +823,7 @@
           (NP-OB1 (NS peyn=es-pain)
                   (NP-PRN (Q+ONE-RH man=y=on-manyone)))
           (LINEBREAK \))
-          (ID ADDE6AT.68))
+  (ID ADDE6AT.68))
 
 ( (IP-IMP (CODE {PAGE~l90})
           (CONJ &-&)
@@ -833,7 +833,7 @@
                   (TO to-to)
                   (VB-RH suenk=en-swincan))
           (LINEBREAK \))
-          (ID ADDE6AT.69))
+  (ID ADDE6AT.69))
 
 ( (IP-MAT (PP (P To-to)
               (NP (N coweytise-covetise)
@@ -846,7 +846,7 @@
                   (N world-world))
           (NP-OB1 (PRO +te-thee))
           (VBP dra+g=td-draw))
-          (ID ADDE6AT.70))
+  (ID ADDE6AT.70))
 
 ( (IP-MAT (NP-SBJ *con*)
           (PP (P to-to)
@@ -859,7 +859,7 @@
               (QR-RH morE-more))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.71))
+  (ID ADDE6AT.71))
 
 ( (IP-MAT (ADJP (ADJ fals-false))
           (NP-SBJ (PRO he-he))
@@ -869,7 +869,7 @@
                       (NP-SBJ (PRO he-he))
                       (VBP-RH sem=et-seem))
           (LINEBREAK \)
-          (ADVP-TMP (ADV al+ter=ferst-1))
+          (ADVP (ADV al+ter=ferst-first))
           (PP (P waNne-when)
               (CP-ADV (C 0)
                       (IP-SUB (NP-SBJ (PRO he-he))
@@ -877,7 +877,7 @@
                               (CODE {COM_LAEME:corrected_perhaps_from_HE})
                               (VBP-RH be=quem=et-becwe:man))))
           (LINEBREAK \))
-          (ID ADDE6AT.72))
+  (ID ADDE6AT.72))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBP byNdd=et-bind)
@@ -885,7 +885,7 @@
           (ADVP (ADV wol-well{v})
                 (ADV-RH re+te-hraDe))
           (LINEBREAK \))
-          (ID ADDE6AT.73))
+  (ID ADDE6AT.73))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP wost-witan)
@@ -895,7 +895,7 @@
                           (PP (P to-to)
                               (NP (Q-RH no+gt-naught)))))
           (LINEBREAK \))
-          (ID ADDE6AT.74))
+  (ID ADDE6AT.74))
 
 ( (IP-MAT (NEG ne-ne)
           (HVP >ha>w=este-have)
@@ -904,7 +904,7 @@
           (ADVP-DIR (ADV heder-hither))
           (VBN-RH Bro+g=td-bring)
           (LINEBREAK \))
-          (ID ADDE6AT.75))
+  (ID ADDE6AT.75))
 
 ( (IP-MAT (CONJ ne-ne)
           (NP-SBJ *con*)
@@ -915,13 +915,13 @@
               (CODE {COM_LAEME:hole_in_parchment_between_W_and_IT})
               (NP (PRO-RH +te-thee)))
           (LINEBREAK \))
-          (ID ADDE6AT.76))
+  (ID ADDE6AT.76))
 
 ( (IP-MAT (CODE {COM_LAEME:new_membrane})
           (CODE {PAGE~l100})
           (NP-SBJ (PRO +tu-thou))
           (MD schalt-shall)
-          (ADVP (ADV alone-alone))
+          (ADJP-SPR (ADJ alone-alone))
           (VB wend=en-wendan)
           (NP-OB1 (PRO$ +ty-thy)
                   (N-RH wey-way))
@@ -937,12 +937,12 @@
                   (N-RH fe-feoh)))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.77))
+  (ID ADDE6AT.77))
 
 ( (IP-MAT (NP-SBJ (D +tat-that)
                   (ADJ Lo+te-loth)
                   (CODE (CODE DEL)
-                        (XXX WYT))
+                        (MISC WYT))
                   (CODE {COM_LAEME:del,_underlined_for_removal})
                   (CODE {INSSTART})
                   (CODE {COM_LAEME:ins,_above})
@@ -964,7 +964,7 @@
                   (QP (Q-RH all=e-all))))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.78))
+  (ID ADDE6AT.78))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP wost-witan)
@@ -974,7 +974,7 @@
                           (NP-OB1 (PRO +te-thee))
                           (NEG-RH no+gt-not)))
           (LINEBREAK \))
-          (ID ADDE6AT.79))
+  (ID ADDE6AT.79))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBP fond=et-fandian)
@@ -991,7 +991,7 @@
                                          (TO @to-to)
                                          (VB-RH fall=en-fall)))))
           (LINEBREAK \))
-          (ID ADDE6AT.80))
+  (ID ADDE6AT.80))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP wost-witan)
@@ -1001,7 +1001,7 @@
                           (NP-OB1 (Q no-no)
                                   (N-RH god-good))))
           (LINEBREAK \))
-          (ID ADDE6AT.81))
+  (ID ADDE6AT.81))
 
 ( (IP-MAT (CODE {PAGE~l110})
           (NP-SBJ (PRO he-he))
@@ -1011,7 +1011,7 @@
                           (N$ hert=e-heart))
                   (N-RH blod-blood))
           (LINEBREAK \))
-          (ID ADDE6AT.82))
+  (ID ADDE6AT.82))
 
 ( (IP-IMP (ADVP-TMP (ADV nu-now))
           (BEI be-be)
@@ -1020,7 +1020,7 @@
               (NP (PRO$ hys-his)
                   (N-RH hokE-hook)))
           (LINEBREAK \))
-          (ID ADDE6AT.83))
+  (ID ADDE6AT.83))
 
 ( (IP-IMP (DOI Do-do)
           (ADVP-TMP (ADV nu-now))
@@ -1033,7 +1033,7 @@
                               (CODE {COM_LAEME:looks_like_HALBE_but_cf_WYKKE_above})
                               (VBN-RH i=se=d-say))))
           (LINEBREAK \))
-          (ID ADDE6AT.84))
+  (ID ADDE6AT.84))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (Q all=e-all)
@@ -1048,7 +1048,7 @@
                   (ADJ howene-own)
                   (N-RH crokE-crook)))
           (LINEBREAK \))
-          (ID ADDE6AT.85))
+  (ID ADDE6AT.85))
 
 ( (IP-MAT (PP (P +gyf-if)
               (CP-ADV (C 0)
@@ -1072,7 +1072,7 @@
               (ALSO ek-eke)
               (VB-RH drey=en-dre:ogan))
           (LINEBREAK \))
-          (ID ADDE6AT.86))
+  (ID ADDE6AT.86))
 
 ( (IP-MAT (NP-OB1 (D A-a)
                   (ADJ litel-little)
@@ -1082,7 +1082,7 @@
           (VBP ax=e-ask)
           (NP-OB2 (PRO-RH +te-thee))
           (LINEBREAK \))
-          (ID ADDE6AT.87))
+  (ID ADDE6AT.87))
 
 ( (IP-IMP (VBI Sey-say)
           (NP-OB2 (PRO me-me))
@@ -1097,7 +1097,7 @@
                           (NEG ne-ne)
                           (VBP-RH Lye-le:ogan)))
           (LINEBREAK \))
-          (ID ADDE6AT.88))
+  (ID ADDE6AT.88))
 
 ( (CP-QUE (WADVP-1 (WADV war-where))
           (IP-SUB (ADVP-LOC *T*-1)
@@ -1124,7 +1124,7 @@
                                                                  (CONJ &-&)
                                                                  (N-RH wode-wood))))))))
           (LINEBREAK \))
-          (ID ADDE6AT.89))
+  (ID ADDE6AT.89))
 
 ( (IP-MAT (NP-PRN (D +te-the)
                   (ADJ fayr=E-fair)
@@ -1151,7 +1151,7 @@
           (VBD (VBD hat=en-eat)
                (CONJ &-&)
                (VBD dronk=en-drink)))
-               (ID ADDE6AT.90))
+  (ID ADDE6AT.90))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -1159,7 +1159,7 @@
           (IP-SMC (NP-SBJ (PRO heM-them))
                   (ADJP (ADJ-RH glad-glad)))
           (LINEBREAK \))
-          (ID ADDE6AT.91))
+  (ID ADDE6AT.91))
 
 ( (IP-MAT (NP-SBJ (PRO$ HerE-their)
                   (N Lyf-life))
@@ -1169,14 +1169,14 @@
               (NP (N io+ge-joy)))
           (VAN-RH i=lad-lead)
           (LINEBREAK \))
-          (ID ADDE6AT.92))
+  (ID ADDE6AT.92))
 
 ( (IP-MAT (NP-SBJ (NS Men-man))
           (VBD knewel=eden-kneel)
           (PP (NP (PRO hem-them))
               (P-RH be=forn-before{p}))
           (LINEBREAK \))
-          (ID ADDE6AT.93))
+  (ID ADDE6AT.93))
 
 ( (IP-MAT (CODE {PAGE~l130})
           (NP-SBJ (PRO +ge-they))
@@ -1193,7 +1193,7 @@
                       (NP (D an-a)
                           (N-RH e+ge-eye)))))
           (LINEBREAK \))
-          (ID ADDE6AT.94))
+  (ID ADDE6AT.94))
 
 ( (IP-MAT (NP-LFD (PRO$ herE-their)
                   (N saule-soul))
@@ -1201,7 +1201,7 @@
           (BED was-be)
           (VAN-RH for=lor=n-forlose)
           (LINEBREAK \))
-          (ID ADDE6AT.95))
+  (ID ADDE6AT.95))
 
 ( (CP-QUE (WADVP-1 (WADV war-where))
           (IP-SUB (ADVP-LOC *T*-1)
@@ -1229,16 +1229,16 @@
                                                          (NP (N-RH honde-hand)))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID ADDE6AT.96))
+  (ID ADDE6AT.96))
 
 ( (IP-MAT (NP-SBJ (Q al-all)
                   (D +tat-that)
                   (N prEde-pride))
           (BEP is-be)
-          (VAN want-wendan)
+          (VBN want-wendan)
           (ADVP-DIR (ADV-RH a=wey-away))
           (LINEBREAK \))
-          (ID ADDE6AT.97))
+  (ID ADDE6AT.97))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N io+ge-joy))
@@ -1253,7 +1253,7 @@
                   (ADJ harde-hard)
                   (N-RH stounde-stund)))
           (LINEBREAK \))
-          (ID ADDE6AT.98))
+  (ID ADDE6AT.98))
 
 ( (IP-MAT (NP-OB1 (PRO$ HerE-their)
                   (N parais-paradise))
@@ -1261,7 +1261,7 @@
           (HVD haw=eden-have)
           (ADVP-LOC (ADV-RH herE-here))
           (LINEBREAK \))
-          (ID ADDE6AT.99))
+  (ID ADDE6AT.99))
 
 ( (IP-MAT (CODE {PAGE~l140})
           (CONJ and-&)
@@ -1274,7 +1274,7 @@
               (NP (NPR$ hell=e-hell)
                   (N-RH ferE-fire)))
           (LINEBREAK \))
-          (ID ADDE6AT.100))
+  (ID ADDE6AT.100))
 
 ( (IP-MAT (NP-SBJ (D +tat-that)
                   (N fer-fire))
@@ -1282,47 +1282,47 @@
           (VBP Lest=et-last)
           (ADVP-TMP (ADV-RH ewerE-ever))
           (LINEBREAK \))
-          (ID ADDE6AT.101))
+  (ID ADDE6AT.101))
 
 ( (IP-MAT (ADJP (ADJ Longe-long))
           (BEP is-be)
           (ADVP-TMP (ADV ay-ay)))
-          (ID ADDE6AT.102))
+  (ID ADDE6AT.102))
 
 ( (IP-MAT (CONJ &-&)
           (ADJP (ADJ Longe-long))
           (BEP is-be)
           (ADVP-TMP (ADV-RH +go-a:))
           (LINEBREAK \))
-          (ID ADDE6AT.103))
+  (ID ADDE6AT.103))
 
 ( (IP-MAT (ADJP (ADJ Longe-long))
           (BEP is-be)
           (NP-SBJ (N wele-weal)))
-          (ID ADDE6AT.104))
+  (ID ADDE6AT.104))
 
 ( (IP-MAT (CONJ &-&)
           (ADJP (ADJ longe-long))
           (BEP is-be)
           (NP-SBJ (N-RH wo-woe))
           (LINEBREAK \))
-          (ID ADDE6AT.105))
+  (ID ADDE6AT.105))
 
 ( (IP-MAT (ADVP-DIR (ADV +tannes-thence))
           (VBP com=et-come)
           (NP-SBJ (PRO +ge-they))
           (ADVP-TMP (ADV-RH newere-never))
           (LINEBREAK \))
-          (ID ADDE6AT.106))
+  (ID ADDE6AT.106))
 
 ( (IP-IMP (VBI drey-dre:ogan)
           (ADVP-LOC (ADV herE-here))
           (NP-VOC (N man-man))
-          (PP-PRN (P +gyf-if)
-                  (CP-ADV (C 0)
-                          (IP-SUB (NP-SBJ (PRO +tu-thou))
-                                  (MD-RH wyt-will)
-                                  (VB *))))
+          (PP (P +gyf-if)
+              (CP-ADV (C 0)
+                      (IP-SUB (NP-SBJ (PRO +tu-thou))
+                              (MD-RH wyt-will)
+                              (VB *))))
           (LINEBREAK \)
           (NP-OB1 (D a-a)
                   (ADJ lytel-little)
@@ -1334,7 +1334,7 @@
                                   (NP-OB2 (PRO +te-thee))
                                   (VBP-RH bet-be:odan))))
           (LINEBREAK \))
-          (ID ADDE6AT.107))
+  (ID ADDE6AT.107))
 
 ( (IP-IMP (VBI wyt=drau-withdraw)
           (NP-OB1 (PRO$ +tine-thy)
@@ -1348,14 +1348,14 @@
                               (BEP be-be)
                               (ADJP (ADJ-RH on=rede-unry:de)))))
           (LINEBREAK \))
-          (ID ADDE6AT.108))
+  (ID ADDE6AT.108))
 
 ( (IP-MAT (PP (P and-&{if})
               (CP-ADV (C 0)
                       (IP-SUB (NP-SBJ (PRO +tu-thou))
                               (VBP +tynke-think)
                               (CODE (CODE DEL)
-                                    (XXX OF)
+                                    (MISC OF)
                                     (CODE {COM_LAEME:del,_by_erasure}))
                               (PP (P on-on{re})
                                   (NP (D +te-the)
@@ -1368,7 +1368,7 @@
           (VB +tynk=en-Yyncan)
           (ADJP (ADJ-RH softe-soft))
           (LINEBREAK \))
-          (ID ADDE6AT.109))
+  (ID ADDE6AT.109))
 
 ( (IP-MAT (NP-SBJ (D +tat-that)
                   (ADJ Lo+te-loth)
@@ -1392,20 +1392,20 @@
           (HVP haw=yt-have)
           (VBN-RH i=cast-cast)
           (LINEBREAK \))
-          (ID ADDE6AT.110))
+  (ID ADDE6AT.110))
 
 ( (IP-IMP (VBI a=rys-arise))
-(ID ADDE6AT.111))
+  (ID ADDE6AT.111))
 
 ( (IP-IMP (CONJ and-&)
           (BEI be-be)
           (NP-SBJ (ADJ god-good)
                   (N-RH chompioun-champion))
           (LINEBREAK \))
-          (ID ADDE6AT.112))
+  (ID ADDE6AT.112))
 
 ( (IP-IMP (VBI stand-stand))
-(ID ADDE6AT.113))
+  (ID ADDE6AT.113))
 
 ( (IP-IMP (CONJ &-&)
           (VBI fal-fall)
@@ -1417,7 +1417,7 @@
                           (N$ =wynd=es-wind))
                   (N-RH blast-blast)))
           (LINEBREAK \))
-          (ID ADDE6AT.114))
+  (ID ADDE6AT.114))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI tak-take)
@@ -1427,7 +1427,7 @@
               (NP (PRO$ +ty-thy)
                   (N-RH staf-staff)))
           (LINEBREAK \))
-          (ID ADDE6AT.115))
+  (ID ADDE6AT.115))
 
 ( (IP-IMP (CONJ &-&)
           (CODE {COM:LAEME_has_VBP})
@@ -1449,7 +1449,7 @@
                                   (ADJP (ADVR so-so)
                                         (ADJ-RH lef-le:of))))))
           (LINEBREAK \))
-          (ID ADDE6AT.116))
+  (ID ADDE6AT.116))
 
 ( (IP-MAT (CODE {PAGE~l160})
           (NP-SBJ (PRO he-he))
@@ -1457,14 +1457,14 @@
           (NP-OB1 (PRO hyt-it))
           (PP (P for-for)
               (NP (PRO +te-thee))))
-              (ID ADDE6AT.117))
+  (ID ADDE6AT.117))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI iheld-gieldan)
           (NP-OB1 (PRO hyt-it))
           (NP-OB2 (PRO-RH hym-him))
           (LINEBREAK \))
-          (ID ADDE6AT.118))
+  (ID ADDE6AT.118))
 
 ( (IP-IMP (PP (P a=geyn-against)
               (NP (PRO$ +ty-thy)
@@ -1474,7 +1474,7 @@
           (NP-SBJ (PRO +tu-thou))
           (VBI-RH nym-niman)
           (LINEBREAK \))
-          (ID ADDE6AT.119))
+  (ID ADDE6AT.119))
 
 ( (IP-IMP (CONJ aN-&)
           (VBI wrek-wrecan)
@@ -1483,7 +1483,7 @@
               (NP (D +te-the)
                   (N-RH +tef-thief)))
           (LINEBREAK \))
-          (ID ADDE6AT.120))
+  (ID ADDE6AT.120))
 
 ( (IP-IMP (PP (P of-of)
               (NP (ADJ rite-right)
@@ -1493,7 +1493,7 @@
           (NP-OB1 (PRO$ +ty-thy)
                   (N-RH seld-shield))
           (LINEBREAK \))
-          (ID ADDE6AT.121))
+  (ID ADDE6AT.121))
 
 ( (IP-IMP (PP (P +tar=wyles-therewhile)
               (CP-ADV (C 0)
@@ -1510,7 +1510,7 @@
           (NP-SBJ (PRO +tu-thou))
           (VBI-RH fonde-fandian)
           (LINEBREAK \))
-          (ID ADDE6AT.122))
+  (ID ADDE6AT.122))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI wake-wake)
@@ -1520,20 +1520,20 @@
               (NP (N$ staw=es-staff)
                   (N-RH ord-ord)))
           (LINEBREAK \))
-          (ID ADDE6AT.123))
+  (ID ADDE6AT.123))
 
 ( (IP-IMP (VBI Mak-make)
           (NP-OB1 (D +te-the)
                   (N traytour-traitor)
                   (CODE {COM_LAEME:TOUR_badly_written_as_though_TOOUR})))
-                  (ID ADDE6AT.124))
+  (ID ADDE6AT.124))
 
 ( (IP-IMP (CONJ &-&)
           (VBI sey-say)
           (NP-OB1 (D +te-the)
                   (N-RH word-word))
           (LINEBREAK \))
-          (ID ADDE6AT.125))
+  (ID ADDE6AT.125))
 
 ( (IP-IMP (CONJ and-&)
           (VBI wyn-winnan)
@@ -1541,7 +1541,7 @@
                   (ADJ merie-merry)
                   (N-RH Londe-land))
           (LINEBREAK \))
-          (ID ADDE6AT.126))
+  (ID ADDE6AT.126))
 
 ( (IP-MAT (PP (ADV+P +tar=inde-therein{p}))
           (CODE {COM_LAEME:sic})
@@ -1563,7 +1563,7 @@
                                  (NP (Q eweri-evereach)
                                      (N-RH fo-foe))))))
           (LINEBREAK \))
-          (ID ADDE6AT.127))
+  (ID ADDE6AT.127))
 
 ( (IP-MAT (PP (P Myd-mid{w})
               (NP (NPR god-god)
@@ -1583,7 +1583,7 @@
                              (PP (P wyt=outen-without)
                                  (NP (N-RH wo-woe))))))
           (LINEBREAK \))
-          (ID ADDE6AT.128))
+  (ID ADDE6AT.128))
 
 ( (IP-MAT-1 (NP-VOC (N Mayd=en-maiden)
                     (N moder-mother))
@@ -1606,7 +1606,7 @@
                             (N-RH fend-fiend))))
             (PUNC .)
             (LINEBREAK \))
-            (ID ADDE6AT.129))
+  (ID ADDE6AT.129))
 
 ( (IP-IMP (VBI Help-help)
           (NP-OB1 (PRO vs-us))
@@ -1627,4 +1627,4 @@
                               (NP (N io+ge-joy)
                                   (PP (P wyd=outen-without)
                                       (NP (N-RH ende-end))))))))
-                                      (ID ADDE6AT.130))
+  (ID ADDE6AT.130))

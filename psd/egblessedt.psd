@@ -20,7 +20,7 @@
                           (PP (P of-of)
                               (NP (N-RH milder=nisse-mildness)))))
           (PUNC .))
-          (ID EGBLESSEDT.1))
+  (ID EGBLESSEDT.1))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI praie-pray)
@@ -47,7 +47,7 @@
                           (NEG ne-ne)
                           (VBP-RH i=misse-miss)))
           (PUNC .))
-          (ID EGBLESSEDT.2))
+  (ID EGBLESSEDT.2))
 
 ( (IP-MAT (PP-1 (P Of-of)
                 (NP (PRO +te-thee)))
@@ -61,7 +61,7 @@
           (MD +wile-will)
           (VB-RH bi=ginn=en-beginnan)
           (PUNC .))
-          (ID EGBLESSEDT.3))
+  (ID EGBLESSEDT.3))
 
 ( (IP-IMP (NP-1 (NP-POS (PRO$ +ti-thy)
                         (ADJ deor=e-dear)
@@ -77,19 +77,19 @@
                   (TO to-to)
                   (VB-RH +winn=en-winnan))
           (PUNC .))
-          (ID EGBLESSEDT.4))
+  (ID EGBLESSEDT.4))
 
 ( (IP-MAT (ADVP-TMP (ADV +wel-well{v})
                     (ADV ofte-often))
           (NP-SBJ (PRO ich-I))
           (VBP sike-sigh))
-          (ID EGBLESSEDT.5))
+  (ID EGBLESSEDT.5))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (NP-OB1 (N sor+we-sorrow))
           (VBP mak=e-make))
-          (ID EGBLESSEDT.6))
+  (ID EGBLESSEDT.6))
 
 ( (IP-MAT (NEG ne-ne)
           (MD mai-may)
@@ -110,33 +110,33 @@
                                   (NP (N-RH sunne-sin))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGBLESSEDT.7))
+  (ID EGBLESSEDT.7))
 
 ( (IP-MAT (ADVP-TMP (ADV Ofte-often))
           (NP-SBJ (PRO ihc-I))
           (VBP seke-seek)
           (NP-OB1 (N merci-mercy)))
-          (ID EGBLESSEDT.8))
+  (ID EGBLESSEDT.8))
 
 ( (IP-MAT (NP-OB1 (PRO$ +tin-thy)
                   (ADJ s+wete-sweet)
                   (N name-name))
           (NP-SBJ (PRO ich-I))
           (VBP-RH calle-call))
-          (ID EGBLESSEDT.9))
+  (ID EGBLESSEDT.9))
 
 ( (IP-MAT (NP-SBJ (PRO$ mi-my)
                   (N flehs-flesh))
           (BEP is-be)
           (ADJP (ADJ foul-foul))
           (LINEBREAK \))
-          (ID EGBLESSEDT.10))
+  (ID EGBLESSEDT.10))
 
 ( (IP-MAT (NP-SBJ (D +tis-this)
                   (N +world-world))
           (BEP is-be)
           (ADJP (ADJ fals-false)))
-          (ID EGBLESSEDT.11))
+  (ID EGBLESSEDT.11))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI loke-look)
@@ -146,7 +146,7 @@
                           (VBP-RH falle-fall)
                           (CODE {COM_LAEME:sj_context})))
           (PUNC .))
-          (ID EGBLESSEDT.12))
+  (ID EGBLESSEDT.12))
 
 ( (IP-IMP (NP-VOC (N Lauedi-lady)
                   (ADJP (ADJ freo-free)))
@@ -160,7 +160,7 @@
                   (PP (P of-of)
                       (NP (NPR-RH helle-hell)))))
           (PUNC .))
-          (ID EGBLESSEDT.13))
+  (ID EGBLESSEDT.13))
 
 ( (IP-IMP (CONJ And-&)
           (VBI send-send)
@@ -177,7 +177,7 @@
                                   (MD mai-may)
                                   (VB-RH tell=en-tell)))))
           (PUNC .))
-          (ID EGBLESSEDT.14))
+  (ID EGBLESSEDT.14))
 
 ( (IP-MAT (NP-LFD (PRO$ Mine-my)
                   (NS +werk=es-work))
@@ -188,7 +188,7 @@
                   (ADJP (ADV ful-full{v})
                         (ADJ-RH +won-wan)))
           (PUNC .))
-          (ID EGBLESSEDT.15))
+  (ID EGBLESSEDT.15))
 
 ( (IP-MAT (ADVP-TMP (ADV +wel-well{v})
                     (LINEBREAK \)
@@ -197,7 +197,7 @@
           (VBP (VBP clep=ie-cleopian)
                (CONJ and-&)
                (VBP-RH calle-call)))
-               (ID EGBLESSEDT.16))
+  (ID EGBLESSEDT.16))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI i=her-hear)
@@ -205,7 +205,7 @@
           (PP (P-RH for@-for)
               (NP (D @+tan-that)))
           (PUNC .))
-          (ID EGBLESSEDT.17))
+  (ID EGBLESSEDT.17))
 
 ( (IP-MAT (PP (P Bote-bu:tan)
               (CP-ADV (C 0)
@@ -220,19 +220,19 @@
           (NEG ne-ne)
           (VBP-RH kan-can)
           (PUNC .))
-          (ID EGBLESSEDT.18))
+  (ID EGBLESSEDT.18))
 
 ( (IP-IMP (VBI help-help)
           (NP-SBJ (PRO +tu-thou))
           (NP-OB1 (PRO me-me)))
-          (ID EGBLESSEDT.19))
+  (ID EGBLESSEDT.19))
 
 ( (IP-MAT (ADVP (ADV ful-full{v})
                 (ADV +wel-well{w}))
           (NP-SBJ (PRO +tu-thou))
           (MD mist-may)
           (VB *))
-          (ID EGBLESSEDT.20))
+  (ID EGBLESSEDT.20))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (VBP help=est-help)
@@ -240,7 +240,7 @@
                   (D a=-a)
                   (N-RH =man-man))
           (PUNC .))
-          (ID EGBLESSEDT.21))
+  (ID EGBLESSEDT.21))
 
 ( (IP-MAT (VAN I=bless=ed-bletsian)
           (BEP beo-be)
@@ -252,7 +252,7 @@
                                (ADJP (ADVR so-so)
                                      (ADJ-RH briht-bright)))))
           (PUNC .))
-          (ID EGBLESSEDT.22))
+  (ID EGBLESSEDT.22))
 
 ( (IP-MAT (NP-SBJ (Q al-all)
                   (PRO$ min-my)
@@ -266,7 +266,7 @@
                      (PP (P bi-by{t})
                          (NP (N-RH nicht-night)))))
           (PUNC .))
-          (ID EGBLESSEDT.23))
+  (ID EGBLESSEDT.23))
 
 ( (IP-IMP (VBI helpe-help)
           (PP (P +truh-through)
@@ -294,7 +294,7 @@
                                   (LINEBREAK \)
                                   (N-RH liht-light))))
           (PUNC .))
-          (ID EGBLESSEDT.24))
+  (ID EGBLESSEDT.24))
 
 ( (IP-MAT (NP-VOC (ADJP (ADJ Briht-bright)
                         (CONJ and-&)
@@ -309,7 +309,7 @@
                   (N-RH hore-a:r))
           (PUNC .)
           (LINEBREAK \))
-          (ID EGBLESSEDT.25))
+  (ID EGBLESSEDT.25))
 
 ( (IP-MAT (CODE {PAGE~f2v})
           (NP-OB1 (D +Te-the)
@@ -325,7 +325,7 @@
           (NP-OB2 (PRO me-me))
           (ADVP (ADV ful-full{v})
                 (ADV-RH sore-sore)))
-                (ID EGBLESSEDT.26))
+  (ID EGBLESSEDT.26))
 
 ( (IP-MAT (ADVP-TMP (ADV +wel-well{v})
                     (ADV ofte-often))
@@ -336,7 +336,7 @@
           (VBN fur=sak=en-forsake)
           (PUNC .)
           (REP (PRO +te-thee)))
-          (ID EGBLESSEDT.27))
+  (ID EGBLESSEDT.27))
 
 ( (IP-MAT (MD +til-will)
           (NP-SBJ (PRO ich-I)
@@ -353,7 +353,7 @@
           (NP-OB1 (NPR$ feond=es-fiend)
                   (N-RH lore-lore))
           (PUNC .))
-          (ID EGBLESSEDT.28))
+  (ID EGBLESSEDT.28))
 
 ( (IP-MAT (VAN I=bless=ed-bletsian)
           (BEP beo-be)
@@ -366,7 +366,7 @@
                                (ADJP (ADVR so-so)
                                      (ADJ-RH hende-hende)))))
           (PUNC .))
-          (ID EGBLESSEDT.29))
+  (ID EGBLESSEDT.29))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI praie-pray)
@@ -404,7 +404,7 @@
                           (PP (P +ti=+tuten-without)
                               (NP (N-RH ende-end)))))
           (PUNC .))
-          (ID EGBLESSEDT.30))
+  (ID EGBLESSEDT.30))
 
 ( (IP-IMP (NP-VOC (ADJP (ADJ Bricht-bright)
                         (CONJ and-&)
@@ -418,7 +418,7 @@
                (CONJ and-&)
                (LINEBREAK \)
                (VBI-RH lere-lae:ran)))
-               (ID EGBLESSEDT.31))
+  (ID EGBLESSEDT.31))
 
 ( (IP-IMP (PP (P in-in{p})
               (NP (D +tis-this)
@@ -444,12 +444,11 @@
                           (NP-OB1 (Q non-no)
                                   (N feond-fiend)
                                   (CP-EOP (WNP-1 0)
-                                          (C 0)
                                           (IP-INF (NP-OB1 *T*-1)
                                                   (TO to-to)
                                                   (VB-RH fer=e-fear))))))
           (PUNC .))
-          (ID EGBLESSEDT.32))
+  (ID EGBLESSEDT.32))
 
 ( (IP-MAT (NP-VOC (NPR ihESu-ihESu))
           (PP (P mit=-mid{w})
@@ -463,7 +462,7 @@
                 (CODE {COM_LAEME:MS_FUL_ME_marked_for_transposition})
                 (ADV-RH deore-dear))
           (PUNC .))
-          (ID EGBLESSEDT.33))
+  (ID EGBLESSEDT.33))
 
 ( (IP-IMP (NP-VOC (NPR IhESu-IhESu)
                   (NP-PRN (NP-POS (NPR seint=e-saint)
@@ -474,7 +473,7 @@
           (NP-OB1 (NP-POS (PRO$ +tin-thy)
                           (N$ moder-mother))
                   (N-RH bo\ne-boon)))
-                  (ID EGBLESSEDT.34))
+  (ID EGBLESSEDT.34))
 
 ( (IP-MAT (PP (P to-to)
               (NP (PRO +te-thee)))
@@ -484,7 +483,7 @@
           (CODE {ORIGINAL~dar=i})
           (VB clep=ien-cleopian)
           (NEG noht-not))
-          (ID EGBLESSEDT.35))
+  (ID EGBLESSEDT.35))
 
 ( (IP-MAT (PP (P to-to)
               (NP (PRO hire-her)))
@@ -494,7 +493,7 @@
                   (N-RH mene-moan)
                   (CODE {COM_LAEME:sic}))
           (PUNC .))
-          (ID EGBLESSEDT.36))
+  (ID EGBLESSEDT.36))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (DOI do-do)
@@ -515,7 +514,7 @@
                                                         (NEG noht-not)
                                                         (PP (P at-at)
                                                             (CODE (CODE DEL)
-                                                                  (XXX DAN)
+                                                                  (MISC DAN)
                                                                   (CODE {COM_LAEME:del,_subpuncted}))
                                                             (NP (N dai-day)
                                                                 (LINEBREAK \)
@@ -527,10 +526,10 @@
                                                             (NP (PRO$ +tin-thy)
                                                                 (N-RH exsene-e:ahsy:n)))))))))
           (PUNC .))
-          (ID EGBLESSEDT.37))
+  (ID EGBLESSEDT.37))
 
 ( (LATIN (FW AMen)
          (FW AMen)
          (FW AMen)
          (LINEBREAK \\))
-         (ID EGBLESSEDT.38))
+  (ID EGBLESSEDT.38))

@@ -2,7 +2,7 @@
           (TITLE <lparen>CREDO<lparen>)
           (CODE {COM_LAEME:Title_is_centred_in_the_column})
           (LINEBREAK \))
-          (ID EMMANUEL27CREED.1))
+  (ID EMMANUEL27CREED.1))
 
 ( (IP-MAT-SPE (PUNC para)
               (META (NP (NPR PetrUS-PetrUS)
@@ -20,7 +20,7 @@
                                           (NP (NPR heuene-heaven)))
                                       (CONJP (CONJ and-&)
                                              (PP (P of-of)
-                                                 (NP (N er+te-earth))))))))
+                                                 (NP (NPR er+te-earth))))))))
                   (LINEBREAK \)
                   (PUNC para)
                   (META (NP (NPR AndrES-AndrES)))
@@ -33,7 +33,7 @@
                                       (ADJ on=lup=y-a:nle:pig)
                                       (N so\ne-son))))))
               (PUNC .))
-              (ID EMMANUEL27CREED.2))
+  (ID EMMANUEL27CREED.2))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ *pro*)
                     (VAN y=ken=ed-cennan{b})
@@ -70,7 +70,7 @@
                                  (CONJ and-&)
                                  (VAN y=bur=ed-bury))))
           (PUNC .))
-          (ID EMMANUEL27CREED.3))
+  (ID EMMANUEL27CREED.3))
 
 ( (IP-MAT-SPE (PUNC para)
               (META (NP (NPR ThomS-ThomS)))
@@ -81,10 +81,10 @@
                   (NP (NPR helle-hell)))
               (PUNC .)
               (NP-TMP (D +te-the)
-                      (ADJ +tridde-3)
+                      (ADJ +tridde-third)
                       (LINEBREAK \)
                       (N day-day)))
-                      (ID EMMANUEL27CREED.4))
+  (ID EMMANUEL27CREED.4))
 
 ( (IP-MAT-SPE (NP-SBJ *con*)
               (VBD a=ros-arise)
@@ -94,7 +94,7 @@
                   (NP (N liue-life)))
               (PUNC .)
               (LINEBREAK \))
-              (ID EMMANUEL27CREED.5))
+  (ID EMMANUEL27CREED.5))
 
 ( (IP-MAT-SPE (PUNC para)
               (META (NP (NPR IacobUS=minor-IacobUS=minor)))
@@ -105,7 +105,7 @@
               (PP (P iN=to-into)
                   (NP (NPR heuene-heaven)))
               (LINEBREAK \))
-              (ID EMMANUEL27CREED.6))
+  (ID EMMANUEL27CREED.6))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (ADVP-LOC (ADV +tere-there))
@@ -126,7 +126,7 @@
                                                 (NPR god-god))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID EMMANUEL27CREED.7))
+  (ID EMMANUEL27CREED.7))
 
 ( (IP-MAT-SPE (PUNC para)
               (META (NP (NPR PhilippUS-PhilippUS)
@@ -151,7 +151,7 @@
                                                              (ADJ ded=e-dead))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID EMMANUEL27CREED.8))
+  (ID EMMANUEL27CREED.8))
 
 ( (IP-MAT-SPE (PUNC para)
               (META (NP (NPR BartholOMEUS-BartholOMEUS)))
@@ -202,7 +202,7 @@
                                              (TO to-to)
                                              (HV habb=e-have))))))
               (PUNC .))
-              (ID EMMANUEL27CREED.9))
+  (ID EMMANUEL27CREED.9))
 
 ( (LATIN (FW *AMEN)
          (FW .)
@@ -210,4 +210,4 @@
          (CODE {COM_LAEME:One_line_of_Latin_follows_at_the_foot_of_the_column})
          (CODE {PAGE~f162rb})
          (CODE {COM_LAEME:Four_and_a_bit_further_lines_of_Latin}))
-         (ID EMMANUEL27CREED.10))
+  (ID EMMANUEL27CREED.10))

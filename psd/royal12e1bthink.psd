@@ -7,7 +7,7 @@
                   (CODE {COM_LAEME:MS_MAN_with_A_expuncted_and_I_interlined_above})
                   (ADJ hard=e-hard)
                   (NS-RH stund=es-stund))))
-                  (ID ROYAL12E1BTHINK.1))
+  (ID ROYAL12E1BTHINK.1))
 
 ( (IP-IMP (VBI +tenc-think)
           (PP (P of-of)
@@ -16,7 +16,7 @@
                   (NS-RH wnd=es-wound)))
           (PUNC .)
           (LINEBREAK \))
-          (ID ROYAL12E1BTHINK.2))
+  (ID ROYAL12E1BTHINK.2))
 
 ( (IP-IMP (NP-VOC (N Man-man))
           (NP-SBJ (PRO +tu-thou))
@@ -26,7 +26,7 @@
           (PP (P one-on{p})
               (NP (PRO-RH me-me)))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.3))
+  (ID ROYAL12E1BTHINK.3))
 
 ( (IP-IMP (VBI +tenc-think)
           (CP-QUE (WADVP-1 (WADV hou-how)
@@ -38,7 +38,7 @@
                           (NP-OB1 (PRO-RH +te-thee))))
           (PUNC .)
           (LINEBREAK \))
-          (ID ROYAL12E1BTHINK.4))
+  (ID ROYAL12E1BTHINK.4))
 
 ( (IP-MAT (NP-SBJ (PRO I=-I))
           (VBD =let-lae:tan)
@@ -49,7 +49,7 @@
                       (NP (D +te-the)
                           (N-RH tre-tree))))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.5))
+  (ID ROYAL12E1BTHINK.5))
 
 ( (IP-MAT (NP-OB1 (ADJR hard=ere-hard)
                   (N deth-death))
@@ -58,12 +58,12 @@
           (NP-SBJ (Q non-none))
           (BE-RH be=n-be)
           (PUNC .))
-          (ID ROYAL12E1BTHINK.6))
+  (ID ROYAL12E1BTHINK.6))
 
 ( (IP-IMP (VBI +tenc-think)
           (NP-VOC (N maN-man))
           (LINEBREAK \))
-          (ID ROYAL12E1BTHINK.7))
+  (ID ROYAL12E1BTHINK.7))
 
 ( (IP-IMP (NP-SBJ (Q al-all)
                   (PRO hit-it))
@@ -71,20 +71,20 @@
           (PP (P for-for)
               (NP (PRO-RH +te-thee)))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.8))
+  (ID ROYAL12E1BTHINK.8))
 
 ( (IP-MAT (NP-SBJ (PRO I-I))
           (VBD gaf-give)
           (NP-OB1 (PRO$ mi-my)
                   (N fles-flesh)))
-                  (ID ROYAL12E1BTHINK.9))
+  (ID ROYAL12E1BTHINK.9))
 
 ( (IP-MAT (NP-SBJ (PRO i-I))
           (VBD gaf-give)
           (NP-OB1 (PRO$ mi-my)
                   (N-RH blod-blood))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.10))
+  (ID ROYAL12E1BTHINK.10))
 
 ( (IP-MAT (NP-SBJ *con*)
           (PP (P for-for)
@@ -97,7 +97,7 @@
                   (PP (P on-on{p})
                       (NP (N-RH rod-rood))))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.11))
+  (ID ROYAL12E1BTHINK.11))
 
 ( (IP-MAT (PP (RP+P vt=of-outof)
               (NP (PRO$ mi-my)
@@ -106,7 +106,7 @@
           (NP-SBJ (D +te-the)
                   (N-RH flod-flood))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.12))
+  (ID ROYAL12E1BTHINK.12))
 
 ( (IP-MAT (NP-SBJ (PRO I-I))
           (VBD +tol=ed-Yolian)
@@ -117,7 +117,7 @@
                   (N-RH mod-mood)))
           (PUNC .)
           (LINEBREAK \))
-          (ID ROYAL12E1BTHINK.13))
+  (ID ROYAL12E1BTHINK.13))
 
 ( (IP-MAT (NP-VOC (N Man-man))
           (NP-SBJ (PRO >h>it-it)
@@ -128,7 +128,7 @@
               (NP (PRO$ +ti-thy)
                   (N-RH god-good)))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.14))
+  (ID ROYAL12E1BTHINK.14))
 
 ( (IP-MAT (NP-SBJ (PRO$ Mine-my)
                   (NS pein=es-pain))
@@ -136,7 +136,7 @@
           (ADJP (ADJ hard=e-hard)
                 (CONJ and-&)
                 (ADJ-RH strong=e-strong)))
-                (ID ROYAL12E1BTHINK.15))
+  (ID ROYAL12E1BTHINK.15))
 
 ( (IP-MAT (NP-SBJ (PRO$ Mi-my)
                   (LINEBREAK \)
@@ -147,7 +147,7 @@
                   (ADJP (ADV swi+te-swi:De)
                         (ADJ-RH long=e-long)))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.16))
+  (ID ROYAL12E1BTHINK.16))
 
 ( (IP-IMP (VBI +tenc-think)
           (NP-VOC (N man-man))
@@ -170,7 +170,7 @@
                           (PP (P for-for)
                               (NP (N+N-RH man=kinne-mankind)))))
           (PUNC .))
-          (ID ROYAL12E1BTHINK.17))
+  (ID ROYAL12E1BTHINK.17))
 
 ( (IP-MAT (NP-SBJ (PRO$ Min-my)
                   (ADJ harde-hard)
@@ -183,4 +183,4 @@
                   (VB-RH blinn=e-blinnan))
           (LINEBREAK \\)
           (CODE {COM_LAEME:There_follows_in_the_same_hand_a_lyric_in_French_set_to_music}))
-          (ID ROYAL12E1BTHINK.18))
+  (ID ROYAL12E1BTHINK.18))

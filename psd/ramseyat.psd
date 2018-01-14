@@ -1,18 +1,18 @@
 ( (FRAG (CODE {PAGE~f52v})
         (NP (NPR kyngesdelf-kyngesdelf))
         (CODE {COM_LAEME:The_name_is_in_the_top_margin}))
-        (ID RAMSEYAT.1))
+  (ID RAMSEYAT.1))
 
 ( (FRAG (TITLE <lparen>*Pr^IMA_DIUISIO_*MARISCI_DE_KYNGESDELF_.<lparen>)
         (CODE {COM_LAEME:Title_is_at_the_right_hand_side_of_the_first_line_of_English}))
-        (ID RAMSEYAT.2))
+  (ID RAMSEYAT.2))
 
 ( (IP-MAT (PUNC para)
           (NP-SBJ (D yeise-these)
                   (NS men-man))
           (BED waren-be)
           (ADVP-LOC (ADV yer-there)))
-          (ID RAMSEYAT.3))
+  (ID RAMSEYAT.3))
 
 ( (IP-MAT (NP-SBJ (NPR Alwine-Alwine)
                   (NPR ab\bot-abbot))
@@ -64,7 +64,7 @@
                                     (PP (ADV+P yer=inne-therein{p}))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID RAMSEYAT.4))
+  (ID RAMSEYAT.4))
 
 ( (IP-MAT (NP-SBJ (NP (NPR Alwine-Alwine)
                       (NPR abbot-abbot)
@@ -164,7 +164,7 @@
                                                         (LINEBREAK \)
                                                         (PP (ADV+P yer=inne-therein{p})))))))))
           (PUNC .))
-          (ID RAMSEYAT.5))
+  (ID RAMSEYAT.5))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (D yeise-these)
@@ -190,14 +190,14 @@
                               (NP (NPR Ramseye-Ramseye))))
                   (CONJP (CONJ &-&)
                          (IP-ABS (NP-SBJ (D ye-the)
-                                         (ADJ yridden=-3)
+                                         (ADJ yridden=-third)
                                          (N =del-deal)
                                          (NP-PRN (NPR sNcTe-saint)
                                                  (NPR botulfe-botulfe)))
                                  (PP (P in=to-into)
                                      (NP (NPR Yorneiye-Yorneiye))))))
           (LINEBREAK \))
-          (ID RAMSEYAT.6))
+  (ID RAMSEYAT.6))
 
 ( (IP-MAT (Q al-all)
           (BEP beo-be)
@@ -222,7 +222,7 @@
                                     (NP (N half-half)
                                         (NP-COM (NPR Rawereholt-Rawereholt))))))))
           (PUNC .))
-          (ID RAMSEYAT.7))
+  (ID RAMSEYAT.7))
 
 ( (IP-MAT (NP-LFD (NP (NPR yurulf-yurulf)
                       (NP-PRN (D ye-the)
@@ -237,13 +237,13 @@
           (NP-SBJ-RSP (PRO heo-they))
           (VBD swor=en-swear)
           (NP-OB1 (D ye-the)
-                  (ADJ yridden=-3)
+                  (ADJ yridden=-third)
                   (N =del-deal))
           (PP (P in=to-into)
               (NP (NPR yorneiye-yorneiye)))
           (PUNC .)
           (LINEBREAK \))
-          (ID RAMSEYAT.8))
+  (ID RAMSEYAT.8))
 
 ( (IP-MAT (NP-LFD (NP (NPR lefsi=crevleta-lefsi=crevleta)
                       (PUNC .)
@@ -275,7 +275,7 @@
                            (NP (Q man=i-many)
                                (OTHERS oyer=e-other)))))
           (PUNC .))
-          (ID RAMSEYAT.9))
+  (ID RAMSEYAT.9))
 
 ( (LATIN (FW id)
          (FW est)
@@ -302,7 +302,7 @@
          (FW *EDWARDI)
          (FW REGIS)
          (LINEBREAK \\))
-         (ID RAMSEYAT.10))
+  (ID RAMSEYAT.10))
 
 ( (IP-MAT (NP-SBJ (NPR Edward-Edward)
                   (NPR king-king))
@@ -334,7 +334,7 @@
           (ADVP (ADV frend=lik~-friendly)
                 (CODE {COM_LAEME:Here_~_represents_a_stroke_through_the_limb_of_K,_et_passim}))
           (LINEBREAK \))
-          (ID RAMSEYAT.11))
+  (ID RAMSEYAT.11))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO Ik-I))
@@ -372,7 +372,7 @@
                                                    (DON se\=do=n-do))
                                               (PP (NP (PRO hem-them))
                                                   (P bi=twenen-between))))))))
-                                                  (ID RAMSEYAT.12))
+  (ID RAMSEYAT.12))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO Ik-I))
@@ -478,7 +478,7 @@
                                                          (PP (P to-to)
                                                              (NP (ADJ fulle-full)
                                                                  (N wharf-hwearf))))))))))
-                                                                 (ID RAMSEYAT.13))
+  (ID RAMSEYAT.13))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P to=eken-teke)
@@ -570,7 +570,7 @@
                                       (NP (NPR RamesE-RamesE)))
                                   (NP-MSR (ADV+QR auere=mare-evermore))))))
           (PUNC .))
-          (ID RAMSEYAT.14))
+  (ID RAMSEYAT.14))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO heo-they))
@@ -610,7 +610,7 @@
                                                                        (NP (PRO hom-them)))
                                                                    (BED weren-be))))))))))
           (PUNC .))
-          (ID RAMSEYAT.15))
+  (ID RAMSEYAT.15))
 
 ( (IP-MAT (NP-SBJ *pro*)
           (ADVP-TMP (ADV Nu-now))
@@ -639,7 +639,7 @@
                                                             (LINEBREAK \)
                                                             (N for=ward-foreweard))
                                                     (VBN i=ghet=ed-ge:atan)))))))
-                                                    (ID RAMSEYAT.16))
+  (ID RAMSEYAT.16))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO ik-I))
@@ -674,7 +674,7 @@
               (CONJP (CONJ ant-&)
                      (PP (P with-with{w})
                          (NP (NS vn=\bor=ene-unborn))))))
-                         (ID RAMSEYAT.17))
+  (ID RAMSEYAT.17))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO ik-I))
@@ -706,7 +706,7 @@
                                   (CONJ ne-nor)
                                   (ADJ leawed-lewd))))
           (PUNC .))
-          (ID RAMSEYAT.18))
+  (ID RAMSEYAT.18))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO ik-I))
@@ -736,7 +736,7 @@
                                                 (VBP deru=en-deorfan)
                                                 (CODE {COM_LAEME:sj_context}))))))
           (PUNC .))
-          (ID RAMSEYAT.19))
+  (ID RAMSEYAT.19))
 
 ( (IP-MAT (CONJ ac-ac)
           (NP-OB1 (NP-POS (NPR$ god=es-god)
@@ -757,7 +757,7 @@
                      (PP (P bi-by{re})
                          (NP (N lande-land)))))
           (PUNC .))
-          (ID RAMSEYAT.20))
+  (ID RAMSEYAT.20))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO ik-I))
@@ -810,8 +810,8 @@
                                                         (N+N west=half-westhalf))))))
                               (CONJP (PP (P bi-by{p})
                                          (NP (NPR hyndelak~-hyndelak~))))
-                              (CONJP (PP (ADVP-TMP (ADV swa-so)
-                                                   (ADV onan-anon))
+                              (CONJP (PP (ADVP (ADV swa-so))
+                                         (ADVP-DIR (ADV onan-anon))
                                          (P to-to)
                                          (NP (NPR wendlesmere-wendlesmere))))
                               (CONJP (CONJ and-&)
@@ -850,7 +850,7 @@
                                                                                     (P mid-mid{w}))
                                                                                 (BED weren-be))))))))))))
           (PUNC .))
-          (ID RAMSEYAT.21))
+  (ID RAMSEYAT.21))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P if-if)
@@ -883,11 +883,11 @@
                                           (IP-SUB (NP-SBJ (PRO he-he))
                                                   (ADVP-DIR (ADV hethen-hence))
                                                   (VBP wende-wendan))))))))
-                                                  (ID RAMSEYAT.22))
+  (ID RAMSEYAT.22))
 
 ( (FRAG (FW *AMen)
         (FW .))
-        (ID RAMSEYAT.23))
+  (ID RAMSEYAT.23))
 
 ( (IP-MAT (NP-SBJ (D yis-this)
                   (N writ-writ))
@@ -924,7 +924,7 @@
                                (N$ Bour=theyn=es-bu:rthane)))))
           (PUNC .)
           (LINEBREAK \\))
-          (ID RAMSEYAT.24))
+  (ID RAMSEYAT.24))
 
 ( (IP-MAT (CODE {COM_LAEME:Latin_for_the_rest_of_fol._53r-59v})
           (CODE {PAGE~f59v})
@@ -967,7 +967,7 @@
                         (ADJ leawed-lewd)
                         (CODE {COM_LAEME:HADED_&_LEAWED_underlined_with_dashes_by_a_later_hand})))
           (ADVP (ADV frend=lik~-friendly)))
-          (ID RAMSEYAT.25))
+  (ID RAMSEYAT.25))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO ik-I))
@@ -1049,7 +1049,7 @@
                                                                      (NP-PRN (PRO+N me=self-self)))
                                                              (ADVP-LOC (ADV yare-there))
                                                              (VBD aght-a:gan)))))))))
-                                                             (ID RAMSEYAT.26))
+  (ID RAMSEYAT.26))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik-I))
@@ -1125,7 +1125,7 @@
                                                                        (NP-OB1 (D ya-the)
                                                                                (NS men-man))
                                                                        (VBP ahe-a:gan))))))))))
-                                                                       (ID RAMSEYAT.27))
+  (ID RAMSEYAT.27))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NP (FW SanCtE)
                                 (LINEBREAK \)
@@ -1250,7 +1250,7 @@
                                (CONJP (CONJ &-&)
                                       (PP (P bi-by{re})
                                           (NP (N felde-field))))))))
-                                          (ID RAMSEYAT.28))
+  (ID RAMSEYAT.28))
 
 ( (IP-MAT (NP-LFD (CP-FRL (WNP-1 (ADV+WD swa=yilk=-sowhich)
                                  (N =man-man))
@@ -1345,7 +1345,7 @@
                      (PP (P bi-by{re})
                          (NP (N lande-land)))))
           (PUNC .))
-          (ID RAMSEYAT.29))
+  (ID RAMSEYAT.29))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO Ik-I))
@@ -1365,7 +1365,7 @@
                           (VBP (VBP litlige-ly:tlian)
                                (CONJ ne-nor)
                                (VBP a=wende-wendan)))))
-                               (ID RAMSEYAT.30))
+  (ID RAMSEYAT.30))
 
 ( (IP-MAT (CONJ &-&)
           (PP (P yif-if)
@@ -1401,11 +1401,11 @@
                          (NP (Q all=e-all)
                              (PRO$ his-his)
                              (NS halw=en-ha:lga))))))
-                             (ID RAMSEYAT.31))
+  (ID RAMSEYAT.31))
 
 ( (FRAG (FW AMen)
         (FW .))
-        (ID RAMSEYAT.32))
+  (ID RAMSEYAT.32))
 
 ( (IP-MAT (NP-SBJ (D this-this)
                   (N writ-writ))
@@ -1415,7 +1415,7 @@
           (PP (P at-at)
               (NP (NPR wyndlesouere-wyndlesouere)))
           (PP (P on-on{t})
-              (NP (ADJ feorth-4)
+              (NP (ADJ feorth-fourth)
                   (NPR+N estre=day-easterday)))
           (PP (P on-in{m})
               (NP (NP-POS (NP (NPR$ Eadgode-Eadgode)
@@ -1433,7 +1433,7 @@
                                (NPR$ Eorl=es-earl)))))
           (PUNC .)
           (LINEBREAK \\))
-          (ID RAMSEYAT.33))
+  (ID RAMSEYAT.33))
 
 ( (FRAG (CODE {COM_LAEME:Latin_till_fol._165v})
         (CODE {PAGE~f165v})
@@ -1477,7 +1477,7 @@
             (PUNC .))
         (CODE {COM_LAEME:Document_continues_in_Latin})
         (LINEBREAK \\))
-        (ID RAMSEYAT.34))
+  (ID RAMSEYAT.34))
 
 ( (IP-MAT (NP-SBJ (NPR Edward-Edward)
                   (NPR kyng~-king))
@@ -1506,7 +1506,7 @@
                         (CONJ &-&)
                         (ADJ leawed-lewd)))
           (ADVP (ADV freNd=lik~-friendly)))
-          (ID RAMSEYAT.35))
+  (ID RAMSEYAT.35))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO Ik~-I))
@@ -1650,7 +1650,7 @@
                                                                                             (NP (ADJ ful-full)
                                                                                                 (N wharf-hwearf)))))))))))))
           (PUNC .))
-          (ID RAMSEYAT.36))
+  (ID RAMSEYAT.36))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P to=eken-teke)
@@ -1743,7 +1743,7 @@
                                       (NP (NPR RamesE-RamesE)))
                                   (ADVP-TMP (ADV+QR auere=mare-evermore))))))
           (PUNC .))
-          (ID RAMSEYAT.37))
+  (ID RAMSEYAT.37))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO he-they))
@@ -1783,7 +1783,7 @@
                                                                        (NP (PRO hem-them)))
                                                                    (BED weren-be))))))))))
           (PUNC .))
-          (ID RAMSEYAT.38))
+  (ID RAMSEYAT.38))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (VBP kiden-cy:Yan)
@@ -1809,7 +1809,7 @@
                                                   (ADJ @ilke-ilk)
                                                   (N for=ward-foreweard))
                                           (VBN i=ghet=ud-ge:atan))))))
-                                          (ID RAMSEYAT.39))
+  (ID RAMSEYAT.39))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik~-I))
@@ -1842,7 +1842,7 @@
               (CONJP (CONJ &-&)
                      (PP (P with~-with{w})
                          (NP (NS vn=bor=ene-unborn))))))
-                         (ID RAMSEYAT.40))
+  (ID RAMSEYAT.40))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO ik~-I))
@@ -1875,7 +1875,7 @@
                                   (CONJ ne-nor)
                                   (ADJ leawed-lewd))))
           (PUNC .))
-          (ID RAMSEYAT.41))
+  (ID RAMSEYAT.41))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik~-I))
@@ -1904,7 +1904,7 @@
                                                 (VBP deryen-derian)
                                                 (CODE {COM_LAEME:Y_corrected_from_U}))))))
           (PUNC .))
-          (ID RAMSEYAT.42))
+  (ID RAMSEYAT.42))
 
 ( (IP-MAT (INS KYNGESDELFF)
           (CODE {COM_LAEME:ins,_in_right_hand_margin_in_a_later_hand_with_a_pointing_hand_beneath})
@@ -1927,7 +1927,7 @@
                      (PP (P bi-by{re})
                          (NP (N lande-land)))))
           (PUNC .))
-          (ID RAMSEYAT.43))
+  (ID RAMSEYAT.43))
 
 ( (IP-MAT (PUNC para)
           (CONJ And-&)
@@ -1981,8 +1981,8 @@
                              (N+N west=half~-westhalf)))))
           (PP (P bi-by{p})
               (NP (NPR hyndelak~e-hyndelak~e)))
-          (PP (ADVP-TMP (ADV swa-so)
-                        (ADV onan-anon))
+          (PP (ADVP (ADV swa-so))
+              (ADVP-DIR (ADV onan-anon))
               (P to-to)
               (NP (NP (NPR wendlesmere-wendlesmere))
                   (CONJP (CONJ and-&)
@@ -2022,7 +2022,7 @@
                                                                     (P mid-mid{w}))
                                                                 (BED weren-be))))))))))
           (PUNC .))
-          (ID RAMSEYAT.44))
+  (ID RAMSEYAT.44))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P if-if)
@@ -2054,11 +2054,11 @@
                                           (IP-SUB (NP-SBJ (PRO he-he))
                                                   (ADVP-DIR (ADV he\then-hence))
                                                   (VBP wende-wendan))))))))
-                                                  (ID RAMSEYAT.45))
+  (ID RAMSEYAT.45))
 
 ( (FRAG (FW *AMen)
         (FW .))
-        (ID RAMSEYAT.46))
+  (ID RAMSEYAT.46))
 
 ( (IP-MAT (NP-SBJ (D yis-this)
                   (N writ-writ))
@@ -2071,7 +2071,7 @@
                           (NPR$ petres-petres))
                   (N+N mas=dai-massday)))
           (PUNC .))
-          (ID RAMSEYAT.47))
+  (ID RAMSEYAT.47))
 
 ( (IP-MAT (PP (P on-in{m})
               (NP (NP-POS (NP (NPR$ Stigandes-Stigandes)
@@ -2097,7 +2097,7 @@
                            (NP (NPR$ Hugelines-Hugelines)
                                (NP-PRN (N+N$ bour\=theyn=es-bu:rthane))))))
           (PUNC .))
-          (ID RAMSEYAT.48))
+  (ID RAMSEYAT.48))
 
 ( (FRAG (FW *INSPEXIMUS)
         (FW IN)
@@ -2112,7 +2112,7 @@
         (FW HEC)
         (FW UERBA)
         (LINEBREAK \\))
-        (ID RAMSEYAT.49))
+  (ID RAMSEYAT.49))
 
 ( (IP-MAT (INS *CART^A_.III_DE_\_HUNDRe_CLAK~)
           (CODE {COM_LAEME:ins,_in_right_margin_in_a_later_hand})
@@ -2155,7 +2155,7 @@
           (LINEBREAK \)
           (ADVP (ADV frend=lik~-friendly))
           (PUNC .))
-          (ID RAMSEYAT.50))
+  (ID RAMSEYAT.50))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik-I))
@@ -2245,7 +2245,7 @@
                                                        (ADVP-LOC (ADV yare-there))
                                                        (VBD aght-a:gan)))))))
           (PUNC .))
-          (ID RAMSEYAT.51))
+  (ID RAMSEYAT.51))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik~-I))
@@ -2317,7 +2317,7 @@
                                                      (NP-OB1 (D ya-the)
                                                              (NS men-man))
                                                      (VBP ahe-a:gan))))))))
-                                                     (ID RAMSEYAT.52))
+  (ID RAMSEYAT.52))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NP (NPR sNcTe-saint)
                                 (NPR Marie-Marie))
@@ -2442,7 +2442,7 @@
                                (CONJP (CONJ &-&)
                                       (PP (P bi-by{re})
                                           (NP (N felde-field))))))))
-                                          (ID RAMSEYAT.53))
+  (ID RAMSEYAT.53))
 
 ( (IP-MAT (NP-ADT (CP-FRL (WNP-1 (ADV+WPRO swa=yilk=-sowhich)
                                  (N =man-man)
@@ -2545,7 +2545,7 @@
                      (PP (P bi-by{re})
                          (NP (N lande-land)))))
           (PUNC .))
-          (ID RAMSEYAT.54))
+  (ID RAMSEYAT.54))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik~-I))
@@ -2566,7 +2566,7 @@
                                            (CONJ ne-nor)
                                            (VBP a=wende-wendan)))))
           (PUNC .))
-          (ID RAMSEYAT.55))
+  (ID RAMSEYAT.55))
 
 ( (IP-MAT (CONJ &-&)
           (PP (P yif~-if)
@@ -2604,11 +2604,11 @@
                          (NP (Q all=e-all)
                              (PRO$ his-his)
                              (NS halew=en-ha:lga))))))
-                             (ID RAMSEYAT.56))
+  (ID RAMSEYAT.56))
 
 ( (FRAG (FW AMen)
         (FW .))
-        (ID RAMSEYAT.57))
+  (ID RAMSEYAT.57))
 
 ( (IP-MAT (NP-SBJ (D yis-this)
                   (N writ-writ))
@@ -2617,7 +2617,7 @@
           (PP (P at-at)
               (NP (NPR windlesouERe-windlesouERe)))
           (PP (P on-on{t})
-              (NP (ADJ feorth-4)
+              (NP (ADJ feorth-fourth)
                   (NPR+N estre=day-easterday)))
           (PP (P in-in{m})
               (NP (NP-POS (NP (NPR Etdgide-Etdgide)
@@ -2636,4 +2636,4 @@
           (PUNC .)
           (CODE {COM_LAEME:Text_continues_in_Latin})
           (LINEBREAK \\))
-          (ID RAMSEYAT.58))
+  (ID RAMSEYAT.58))

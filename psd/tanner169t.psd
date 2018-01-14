@@ -3,8 +3,8 @@
           (NP-SBJ (PRO ho-she)
                   (NP-PRN *ICH*-1)
                   (NP-PRN *ICH*-2))
-          (ADVP-LOC (ADVP (ADV +tere-there))
-                    (ADV neh-nigh))
+          (PP (ADVP (ADV +tere-there))
+              (P neh-nigh))
           (NP-PRN-1 (D +Tat-that)
                     (CODE {COM_LAEME:Enlarged_coloured_capital_thorn})
                     (ADJ leue=li-le:ofli:c)
@@ -19,14 +19,14 @@
                               (NP (NS s[]g=es-scourge)
                                   (CODE {COM_LAEME:Letters_lost_because_of_hole_in_MS})))
                           (VAN-RH rend-rend))))
-                          (ID TANNER169T.1))
+  (ID TANNER169T.1))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N blod-blood))
           (VBD out=strem=ed-outstream)
           (ADVP (ADV-RH ouer=al-overall))
           (PUNC .))
-          (ID TANNER169T.2))
+  (ID TANNER169T.2))
 
 ( (IP-MAT (NP-LFD (NP (N Skoarn-scorn)
                       (CODE {COM_LAEME:Enlarged_coloured_capital_*S}))
@@ -44,7 +44,7 @@
               (NP (N$ sorh=es-sorrow)
                   (N-RH eche-e:aca)))
           (PUNC .))
-          (ID TANNER169T.3))
+  (ID TANNER169T.3))
 
 ( (IP-MAT (PP (P .i.-in{c})
               (NP (N +woa-woe)))
@@ -54,7 +54,7 @@
           (VAN bi=luk=en-belu:can)
           (Q-RH al-all)
           (PUNC .))
-          (ID TANNER169T.4))
+  (ID TANNER169T.4))
 
 ( (IP-MAT (PP (P I-in{m})
               (CODE {COM_LAEME:Enlarged_coloured_capital_*I})
@@ -70,7 +70,7 @@
               (NP (NS$ wommon=e-woman)
                   (N-RH wirde-wyrd)))
           (PUNC .))
-          (ID TANNER169T.5))
+  (ID TANNER169T.5))
 
 ( (IP-MAT (CONJ ah-ac)
           (NP-SBJ (N kuinde-kind))
@@ -79,13 +79,13 @@
           (NP-OB1 (D +te-the)
                   (N-RH riht-right))
           (PUNC .))
-          (ID TANNER169T.6))
+  (ID TANNER169T.6))
 
 ( (IP-MAT (ADVP-TMP (ADV +Tenne-then)
                     (CODE {COM_LAEME:Enlarged_coloured_capital_*y}))
           (NP-SBJ (PRO +tu-thou))
           (VBD loch-laugh))
-          (ID TANNER169T.7))
+  (ID TANNER169T.7))
 
 ( (IP-MAT (CONJ ah-ac)
           (ADVP-TMP (ADV nou-now))
@@ -93,7 +93,7 @@
           (VBD-RH wep-weep)
           (CODE {COM_LAEME:MS_WEP_yU_marked_for_transposition})
           (PUNC .))
-          (ID TANNER169T.8))
+  (ID TANNER169T.8))
 
 ( (IP-MAT (NP-SBJ (PRO$ +ti-thy)
                   (N wa-woe)
@@ -105,7 +105,7 @@
                     (IP-SUB (NP-SBJ *T*-2)
                             (ADVP-TMP (ADV tenne-then))
                             (VBD-RH slep-sleep))))
-                            (ID TANNER169T.9))
+  (ID TANNER169T.9))
 
 ( (IP-MAT (NP-SBJ (N+N child=ing=pine-childingpi:ne))
           (HVP hau=es-have)
@@ -113,7 +113,7 @@
           (ADVP-TMP (ADV nou-now))
           (VBN-RH pich=t-picchen)
           (PUNC .))
-          (ID TANNER169T.10))
+  (ID TANNER169T.10))
 
 ( (IP-MAT (ADVP-TMP (ADV Nou-now)
                     (CODE {COM_LAEME:Enlarged_coloured_capital_*N}))
@@ -139,7 +139,7 @@
                                      (ADJ bal=e-bealo)
                                      (NS-RH +treh=es-throe)))))
           (PUNC .))
-          (ID TANNER169T.11))
+  (ID TANNER169T.11))
 
 ( (IP-MAT (CONJ For-for)
           (CODE {COM_LAEME:Enlarged_coloured_capital_*F})
@@ -163,7 +163,7 @@
                                           (ADJ kuinde=lich=e-kindly)
                                           (NS-RH lah=es-law)))))))
           (PUNC .))
-          (ID TANNER169T.12))
+  (ID TANNER169T.12))
 
 ( (IP-MAT (CONJ Ah-ac)
           (CODE {COM_LAEME:Enlarged_coloured_capital_*A})
@@ -186,7 +186,7 @@
           (BED weren-be)
           (ADJP (ADJ-RH laste=les-laestless))
           (PUNC .))
-          (ID TANNER169T.13))
+  (ID TANNER169T.13))
 
 ( (IP-MAT (NP-SBJ (PRO$ +Ti-thy)
                   (CODE {COM_LAEME:Enlarged_coloured_capital_*y})
@@ -209,7 +209,7 @@
                                                 (CONJP (CONJ and-&)
                                                        (ADJX (ADJ-RH le+w-hle:owe))))))))
           (PUNC .))
-          (ID TANNER169T.14))
+  (ID TANNER169T.14))
 
 ( (IP-MAT (NP-SBJ (ADJP (ADVR swa-so)
                         (ADJ sar=i-sorry))
@@ -218,7 +218,7 @@
           (NEG-RH n@-ne)
           (BED @eas-be)
           (PUNC .))
-          (ID TANNER169T.15))
+  (ID TANNER169T.15))
 
 ( (IP-MAT (IP-MAT-1 (CONJ Ah-ac)
                     (CODE {COM_LAEME:Enlarged_coloured_capital_*A})
@@ -228,7 +228,7 @@
                     (VAN-RH ouer=com=en-overcome))
           (PUNC .)
           (CONJP (IP-MAT=1 (NP-TMP (D +te-the)
-                                   (ADJ +tridde-3)
+                                   (ADJ +tridde-third)
                                    (N dai-day))
                            (NP-SBJ (PRO$ +ti-thy)
                                    (N ioie-joy))
@@ -240,7 +240,7 @@
                            (VAN driu=en-drive)
                            (RP-RH doun-down)))
           (PUNC .))
-          (ID TANNER169T.16))
+  (ID TANNER169T.16))
 
 ( (IP-MAT (PP (P +T+wen-when)
               (CODE {COM_LAEME:Enlarged_coloured_capital_*y})
@@ -263,7 +263,7 @@
               (NP (Q icha-each)
                   (N-RH toun-town)))
           (PUNC .))
-          (ID TANNER169T.17))
+  (ID TANNER169T.17))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO$ +Ti-thy)
                           (CODE {COM_LAEME:Enlarged_coloured_capital_*y})
@@ -277,7 +277,7 @@
                           (NP (PRO$ his-his)
                               (N-RH bird=inge-birth)))))
           (PUNC .))
-          (ID TANNER169T.18))
+  (ID TANNER169T.18))
 
 ( (IP-MAT (PP (P bi=t+wene-between)
               (NP (NUM t+wa-two)))
@@ -285,7 +285,7 @@
           (NP-SBJ (ADJ litel-little)
                   (N-RH schead-sce:ad))
           (PUNC .))
-          (ID TANNER169T.19))
+  (ID TANNER169T.19))
 
 ( (IP-MAT (CONJ For-for)
           (CODE {COM_LAEME:Enlarged_coloured_capital_*F})
@@ -306,7 +306,7 @@
           (NP-SBJ (PRO he-he))
           (BED-RH was-be)
           (PUNC .))
-          (ID TANNER169T.20))
+  (ID TANNER169T.20))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P +turt-through)
@@ -316,7 +316,7 @@
           (NP-SBJ (PRO he-he))
           (VBD-RH gload-gli:dan)
           (PUNC .))
-          (ID TANNER169T.21))
+  (ID TANNER169T.21))
 
 ( (IP-MAT (NP-VOC (ADJ Milde-mild)
                   (CODE {COM_LAEME:Enlarged_coloured_capital_*M})
@@ -338,7 +338,7 @@
                               (VBN ris=e-rise)
                               (BED-RH +wes-be))))
           (PUNC .))
-          (ID TANNER169T.22))
+  (ID TANNER169T.22))
 
 ( (IP-IMP (NP-VOC (N Leuedi-lady)
                   (CODE {COM_LAEME:Enlarged_coloured_capital_*L}))
@@ -367,8 +367,8 @@
                                   (BEP his-be)
                                   (ADJP (ADJ-RH ende=les-endless))))))
           (PUNC .))
-          (ID TANNER169T.23))
+  (ID TANNER169T.23))
 
 ( (LATIN (FW AM[])
          (LINEBREAK \\))
-         (ID TANNER169T.24))
+  (ID TANNER169T.24))

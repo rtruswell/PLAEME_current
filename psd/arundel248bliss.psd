@@ -6,7 +6,7 @@
           (VBP last-last)
           (NP-MSR (Q no-no)
                   (N-RH throwe-Yra:g)))
-                  (ID ARUNDEL248BLISS.1))
+  (ID ARUNDEL248BLISS.1))
 
 ( (IP-MAT (NP-SBJ (PRO it-it))
           (VBP (VBP went-wendan)
@@ -15,7 +15,7 @@
           (ADVP-DIR (ADV a=wey-away))
           (ADVP-TMP (ADV-RH anon-anon))
           (PUNC .))
-          (ID ARUNDEL248BLISS.2))
+  (ID ARUNDEL248BLISS.2))
 
 ( (IP-MAT (NP-ADT (ADVP (D +te-the)
                         (ADVR lang=er-long)
@@ -32,7 +32,7 @@
           (NP-OB1 (N pris-pris))
           (PP (ADV+P-RH +tar=on-therein{m}))
           (PUNC .))
-          (ID ARUNDEL248BLISS.3))
+  (ID ARUNDEL248BLISS.3))
 
 ( (IP-MAT (CONJ for-for)
           (Q al-all)
@@ -48,7 +48,7 @@
                          (NP (ADJ iuel-evil)
                              (N-RH fare-faru)))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.4))
+  (ID ARUNDEL248BLISS.4))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P at=-at)
@@ -66,7 +66,7 @@
                               (VBP gin=th-ginnan{a})
                               (IP-INF (VB-RH a=go=N-ago)))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.5))
+  (ID ARUNDEL248BLISS.5))
 
 ( (IP-MAT (NP-SBJ (Q al-all)
                   (D +te-the)
@@ -85,7 +85,7 @@
                   (CONJ aNd-&)
                   (N-RH moN-moan))
           (LINEBREAK \))
-          (ID ARUNDEL248BLISS.6))
+  (ID ARUNDEL248BLISS.6))
 
 ( (IP-MAT (NP-OB1 (Q Al-all)
                   (D +te-the)
@@ -108,7 +108,7 @@
                                  (NP (N child-child)
                                      (CONJ and-&)
                                      (N-RH wiue-wife))))))))
-                                     (ID ARUNDEL248BLISS.7))
+  (ID ARUNDEL248BLISS.7))
 
 ( (IP-IMP (NP-VOC (ADJ sal=i-sae:lig)
                   (N man-man))
@@ -116,7 +116,7 @@
           (PP (ADV+P +tar=of-thereof))
           (NP-OB1 (N-RH kep-keep))
           (PUNC .))
-          (ID ARUNDEL248BLISS.8))
+  (ID ARUNDEL248BLISS.8))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (MD salt-shall)
@@ -133,7 +133,7 @@
                                   (NP-SBJ (PRO +tu-thou))
                                   (LINEBREAK \)
                                   (BED-RH were-be)))))
-                                  (ID ARUNDEL248BLISS.9))
+  (ID ARUNDEL248BLISS.9))
 
 ( (IP-MAT (PP (P wan-when)
               (CP-ADV (C 0)
@@ -165,7 +165,7 @@
                               (NP (D a-a)
                                   (N-RH hep-heap))))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.10))
+  (ID ARUNDEL248BLISS.10))
 
 ( (IP-MAT (NP-SBJ (Q Al-all)
                   (CP-REL *ICH*-1))
@@ -179,7 +179,7 @@
                             (ADVP-LOC (ADV hier-here))
                             (MD houet-a:gan)
                             (VB *))))
-                            (ID ARUNDEL248BLISS.11))
+  (ID ARUNDEL248BLISS.11))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (Q al-all)
@@ -188,7 +188,7 @@
           (VB bi=com=e-become)
           (PP (P to-to)
               (Q-RH naut-naught)))
-              (ID ARUNDEL248BLISS.12))
+  (ID ARUNDEL248BLISS.12))
 
 ( (IP-MAT (NP-LFD (PRO +te-he)
                   (CP-REL (WNP-1 0)
@@ -208,7 +208,7 @@
           (VBP wrth-weorYan)
           (VAN-RH bi=kau=t-becatch)
           (PUNC .))
-          (ID ARUNDEL248BLISS.13))
+  (ID ARUNDEL248BLISS.13))
 
 ( (IP-IMP (VBI +tinc-think)
           (NP-VOC (N man-man))
@@ -241,7 +241,7 @@
                                                                  (NP (N liue-life)))
                                                              (VAN-RH lau=t-laeccan))))))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.14))
+  (ID ARUNDEL248BLISS.14))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou))
           (NEG n@-ne)
@@ -261,7 +261,7 @@
                                                   (HVP +tau=et-have)
                                                   (VBN-RH bi=tau=t-betae:can))))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.15))
+  (ID ARUNDEL248BLISS.15))
 
 ( (CP-QUE (NP-VOC (N Man-man))
           (WADVP-1 (WADV wi-why))
@@ -284,7 +284,7 @@
                                           (NEG ne-ne)
                                           (VBP-RH last-last))))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.16))
+  (ID ARUNDEL248BLISS.16))
 
 ( (CP-QUE (WADVP-1 (WADV Wi-why))
           (IP-SUB (ADVP *T*-1)
@@ -295,7 +295,7 @@
                                   (C +tat-that)
                                   (IP-SUB (NP-SBJ *T*-2)
                                           (NP-OB2 (PRO +te-thee))
-                                          (ADVP-TMP (ADV s=-so)
+                                          (ADVP-TMP (ADVR s=-so)
                                                     (ADV =ofte-often))
                                           (VBP-RH i=smerte-smart))))
                   (PUNC .')
@@ -307,7 +307,7 @@
                                           (BEP is-be)
                                           (ADJP (ADJ-RH un=stede=fast-unsteadfast)))))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.17))
+  (ID ARUNDEL248BLISS.17))
 
 ( (IP-MAT (NP-SBJ (PRO +tu-thou)
                   (CP-REL *ICH*-1))
@@ -329,7 +329,7 @@
                                 (NP (N$ werld=es-world)
                                     (N-RH blis-bliss)))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.18))
+  (ID ARUNDEL248BLISS.18))
 
 ( (IP-MAT (CODE {COM_LAEME:line_of_verse_apparently_missing_here_-_no_gap_in_MS})
           (ADVP (ADV ful-full{v})
@@ -355,7 +355,7 @@
                       (NP (NPR elle-hell)))
                   (VAN-RH cast-cast))
           (PUNC .))
-          (ID ARUNDEL248BLISS.19))
+  (ID ARUNDEL248BLISS.19))
 
 ( (IP-IMP (VBI +Tinc-think)
           (NP-VOC (N man-man))
@@ -366,7 +366,7 @@
                           (NP-OB1 (PRO +te-thee))
                           (VBD-RH wrou\=te-work)))
           (PUNC .'))
-          (ID ARUNDEL248BLISS.20))
+  (ID ARUNDEL248BLISS.20))
 
 ( (IP-IMP (CONJ and-&)
           (DOI do-do)
@@ -377,7 +377,7 @@
                   (CONJ and-&)
                   (N-RH mud-mood))
           (PUNC .))
-          (ID ARUNDEL248BLISS.21))
+  (ID ARUNDEL248BLISS.21))
 
 ( (IP-IMP (VBI +tinc-think)
           (CP-QUE (WADVP-1 (WADV wu-how)
@@ -394,7 +394,7 @@
                                   (ADJ swete-sweet)
                                   (N-RH blud-blood)))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.22))
+  (ID ARUNDEL248BLISS.22))
 
 ( (IP-MAT (NP-OB1 (PRO+N im=self-self))
           (NP-SBJ (PRO he-he))
@@ -409,7 +409,7 @@
                       (NP-OB2 (PRO +te-thee))
                       (NP-OB1 (N blis-bliss)))
           (LINEBREAK \))
-          (ID ARUNDEL248BLISS.23))
+  (ID ARUNDEL248BLISS.23))
 
 ( (IP-IMP (PP (P +tif-if)
               (CP-ADV (C 0)
@@ -420,14 +420,14 @@
           (VBI bi=+tinc-bethink)
           (NP-OB1 (PRO +te-thee))
           (ADVP-TMP (ADV +tan-then)))
-          (ID ARUNDEL248BLISS.24))
+  (ID ARUNDEL248BLISS.24))
 
 ( (IP-IMP (CONJ and-&)
           (VBI-RH up=a=ris-uparise)
           (PUNC .')
           (PP (P of-of{f})
               (NP (N senne-sin))))
-              (ID ARUNDEL248BLISS.25))
+  (ID ARUNDEL248BLISS.25))
 
 ( (IP-IMP (CONJ and-&)
           (VBI a=gin-aginnan)
@@ -437,13 +437,13 @@
           (ADVP-LOC (ADV +tar-there))
           (PP (P wils-while)
               (CP-ADV (C 0)
-                      (IP-SUB (NP-SBJ *exp*)
-                              (NP (N time-time)
-                                  (IP-INF (TO to-to)
-                                          (VB werch=en-work)))
+                      (IP-SUB (NP-SBJ-1 *exp*)
+                              (NP-1 (N time-time)
+                                    (IP-INF (TO to-to)
+                                            (VB werch=en-work)))
                               (BEP-RH is-be))))
           (PUNC .'))
-          (ID ARUNDEL248BLISS.26))
+  (ID ARUNDEL248BLISS.26))
 
 ( (IP-MAT (CONJ for-for)
           (ADVP (ADV siker-siker))
@@ -452,7 +452,7 @@
           (BEP art-be)
           (ADJP (ADJ-RH wud-wo:d))
           (PUNC .))
-          (ID ARUNDEL248BLISS.27))
+  (ID ARUNDEL248BLISS.27))
 
 ( (IP-MAT (MD Scal-shall)
           (LINEBREAK \)
@@ -460,7 +460,7 @@
                   (N gud-good))
           (BE be=n-be)
           (VAN-RH un=for=iold=en-unforgieldan))
-          (ID ARUNDEL248BLISS.28))
+  (ID ARUNDEL248BLISS.28))
 
 ( (IP-MAT (CONJ ne-nor)
           (NP-SBJ (Q no-no)
@@ -469,7 +469,7 @@
           (VBP wrth-weorYan)
           (VAN-RH un=bou=t-unbuy)
           (PUNC .))
-          (ID ARUNDEL248BLISS.29))
+  (ID ARUNDEL248BLISS.29))
 
 ( (IP-MAT (PP (P wan-when)
               (CP-ADV (C 0)
@@ -489,7 +489,7 @@
                               (HVP au=est-have)
                               (VBN-RH wrou=t-work))))
           (PUNC .))
-          (ID ARUNDEL248BLISS.30))
+  (ID ARUNDEL248BLISS.30))
 
 ( (IP-IMP (VBI bi=+tinc-bethink)
           (ADVP (ADV wel-well{w}))
@@ -498,7 +498,7 @@
           (IP-MAT-PRN (NP-SBJ (PRO ics-I))
                       (VBP-RH rede-rae:dan))
           (LINEBREAK \))
-          (ID ARUNDEL248BLISS.31))
+  (ID ARUNDEL248BLISS.31))
 
 ( (IP-IMP (CONJ and-&)
           (VBI clanse-cleanse)
@@ -544,4 +544,4 @@
                                                                                             (NEG-RH nout-not)))))))))))
           (PUNC .)
           (LINEBREAK \\))
-          (ID ARUNDEL248BLISS.32))
+  (ID ARUNDEL248BLISS.32))

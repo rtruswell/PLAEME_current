@@ -11,7 +11,7 @@
         (FW OUT)
         (FW NOUN)
         (FW PLACIDAS'))
-        (ID DIGBY86EUSTACE.1))
+  (ID DIGBY86EUSTACE.1))
 
 ( (IP-IMP (NP-VOC (Q All=e-all)
                   (CODE {COM_LAEME:Four-line_coloured_initial_*A_with_the_first_element_descending_a~further_five_lines_in_the_left_margin._Guide_letter_A_in_the_left_margin})
@@ -59,14 +59,14 @@
                                                   (NS ponew=es-penny)
                                                   (ADJP (ADJ-RH round=e-round)))))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.2))
+  (ID DIGBY86EUSTACE.2))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (BED was-be)
           (VAN I=hot=en-ha:tan{n})
           (NP-OB1 (NPR placidas-placidas))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.3))
+  (ID DIGBY86EUSTACE.3))
 
 ( (IP-MAT (PP (P Wi+t-with{w})
               (NP (NPR troian-troian)
@@ -81,7 +81,7 @@
                   (PP (P of-of)
                       (NP (N-RH rede-rae:d))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.4))
+  (ID DIGBY86EUSTACE.4))
 
 ( (IP-MAT (IP-MAT-1 (PP (P Wi+t-with{w})
                         (NP (D +te-the)
@@ -102,7 +102,7 @@
                                    (PP (P of-of)
                                        (NP (N-RH dede-deed))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.5))
+  (ID DIGBY86EUSTACE.5))
 
 ( (IP-MAT (PP (P Of-of)
               (NP (N hont=ing-hunt)))
@@ -110,7 +110,7 @@
           (VBP cou+te-can)
           (ADVP (ADV-RH I=nou-enough))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.6))
+  (ID DIGBY86EUSTACE.6))
 
 ( (IP-MAT (PP (PP (P In-in{p})
                   (NP (ADJ heye-high)
@@ -132,7 +132,7 @@
               (NP (D a=-a)
                   (N-RH =day-day)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.7))
+  (ID DIGBY86EUSTACE.7))
 
 ( (IP-MAT (NP-OB1 (D On-a)
                   (N hert-hart)
@@ -151,7 +151,7 @@
               (NP (D on-a)
                   (N-RH helde-hylde)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.8))
+  (ID DIGBY86EUSTACE.8))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N hert-hart))
@@ -161,7 +161,7 @@
               (NP (ADJ heie-high)
                   (N-RH cinde-kind)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.9))
+  (ID DIGBY86EUSTACE.9))
 
 ( (IP-MAT (ADVP-LOC (ADV +Ter-there))
           (NP-SBJ (PRO he-he))
@@ -170,7 +170,7 @@
               (NP (N wode-wood)
                   (NP-COM (N-RH linde-lind))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.10))
+  (ID DIGBY86EUSTACE.10))
 
 ( (IP-MAT (ADJP (ADJS Mest-most)
                 (PP *ICH*-1))
@@ -186,7 +186,7 @@
                     (NS hind=es-hind)
                     (ADJP (ADJR-RH mo-more))
                     (LINEBREAK \))))
-                    (ID DIGBY86EUSTACE.11))
+  (ID DIGBY86EUSTACE.11))
 
 ( (IP-MAT (NP-1 (ADJ Mor=e-more)
                 (CONJ and-&)
@@ -195,7 +195,7 @@
           (BED wereN-be)
           (ALSO-RH also-also)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.12))
+  (ID DIGBY86EUSTACE.12))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD stod-stand)
@@ -203,7 +203,7 @@
           (PP (P of-of)
               (NP (Q-RH all=e-all)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.13))
+  (ID DIGBY86EUSTACE.13))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (ADJ muchele-much)
@@ -211,7 +211,7 @@
           (VBD at=orn-atrun)
           (ADVP-DIR (ADV-RH a=way-away))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.14))
+  (ID DIGBY86EUSTACE.14))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N kni+gt-knight))
@@ -232,7 +232,7 @@
                           (N$ king=es-king))
                   (N-RH londe-land)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.15))
+  (ID DIGBY86EUSTACE.15))
 
 ( (IP-MAT (CODE {PAGE~f122vb})
           (ADVP-LOC (ADV +Ter-there))
@@ -250,7 +250,7 @@
                           (PP (P of-of)
                               (NP (N-RH stone-stone))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.16))
+  (ID DIGBY86EUSTACE.16))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N hert-hart))
@@ -259,7 +259,7 @@
                   (NS horn=es-horn))
           (ADJP (ADJ-RH hey=e-high))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.17))
+  (ID DIGBY86EUSTACE.17))
 
 ( (IP-MAT (ADVP-LOC (ADV +Tere-there))
           (NP-SBJ (PRO he-he))
@@ -267,7 +267,7 @@
           (PP (P ounder-under)
               (NP (N+N-RH wode=leye-woodle:ah)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.18))
+  (ID DIGBY86EUSTACE.18))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -282,19 +282,19 @@
                                   (NP (N hount=ing-hunt)))
                               (ADJP (ADJ-RH fre-free)))
                       (LINEBREAK \)))
-                      (ID DIGBY86EUSTACE.19))
+  (ID DIGBY86EUSTACE.19))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO +Tou-thou))
               (NP-OB1 (PRO me-me))
               (VBP driu=est-drive))
-              (ID DIGBY86EUSTACE.20))
+  (ID DIGBY86EUSTACE.20))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO I-I))
           (NP-OB1 (PRO +te-thee))
           (VBP-RH fle-flee)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.21))
+  (ID DIGBY86EUSTACE.21))
 
 ( (IP-IMP-SPE (VBI Rid-ride)
               (ADVP-TMP (ADV nou-now))
@@ -302,7 +302,7 @@
                       (ADJ softe-soft)
                       (N-RH pas-pas))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.22))
+  (ID DIGBY86EUSTACE.22))
 
 ( (IP-MAT-SPE (PP (P Bi=tuene-between)
                   (NP (PRO$ min-my)
@@ -322,7 +322,7 @@
                                               (PP (P in-in{p})
                                                   (NP (N-RH boke-book))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.23))
+  (ID DIGBY86EUSTACE.23))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Wel-well{v})
                         (ADV sone-soon))
@@ -352,7 +352,7 @@
                                                            (PP (P after-after)
                                                                (NP (PRO-RH +te-thee)))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.24))
+  (ID DIGBY86EUSTACE.24))
 
 ( (IP-MAT (NP-SBJ (NP (D +Te-the)
                       (N li+gt-light)
@@ -373,7 +373,7 @@
                   (N hert-hart)))
           (VBD-RH a=li+gtte-alight{d})
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.25))
+  (ID DIGBY86EUSTACE.25))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N hert-hart))
@@ -391,7 +391,7 @@
                   (N kni+gte-knight)))
           (ADVP-LOC (ADV-RH +tere-there))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.26))
+  (ID DIGBY86EUSTACE.26))
 
 ( (IP-MAT (NP-SBJ (PRO Ich-I))
           (VBP wot-witan)
@@ -402,7 +402,7 @@
                                   (N-RH dri+gte-dryhten))))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.27))
+  (ID DIGBY86EUSTACE.27))
 
 ( (IP-MAT-SPE (NP-VOC (NPR Placidas-Placidas)
                       (CODE {COM_LAEME:Four-line_coloured_initial_*P}))
@@ -411,7 +411,7 @@
               (NP-OB1 (PRO hit-it))
               (NP-OB2 (PRO-RH +te-thee))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.28))
+  (ID DIGBY86EUSTACE.28))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ +Ti-thy)
                       (N nome-name))
@@ -419,14 +419,14 @@
               (VAN I=chauNg=ed-change)
               (BE-RH be-be)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.29))
+  (ID DIGBY86EUSTACE.29))
 
 ( (IP-MAT-SPE (NP-OB1 (N Crist=iN=dom-christendom))
               (NP-SBJ (PRO +tou-thou))
               (MD shat-shall)
               (VB-RH fong=e-fo:n)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.30))
+  (ID DIGBY86EUSTACE.30))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I))
               (BEP am-be)
@@ -446,7 +446,7 @@
                                                       (N-RH ste\uene-stefn)
                                                       (CODE {COM_LAEME:UENE_taken_down_a_line_and_marked_for_insertion}))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.31))
+  (ID DIGBY86EUSTACE.31))
 
 ( (IP-IMP-SPE (NEG Ne-ne)
               (VBI dwel-dwell)
@@ -456,7 +456,7 @@
                         (ADV-RH longe-long))
               (PUNC .)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.32))
+  (ID DIGBY86EUSTACE.32))
 
 ( (IP-IMP-SPE (NP-SBJ (PRO +Tou-thou))
               (VBI nim-niman)
@@ -466,7 +466,7 @@
                              (NP (PRO$ +ti-thy)
                                  (N-RH wif-wife))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.33))
+  (ID DIGBY86EUSTACE.33))
 
 ( (IP-IMP-SPE (CONJ And-&)
               (VBI wend=e+t-wendan)
@@ -474,14 +474,14 @@
                   (P wi+t=oute-without)
                   (NP (N-RH strif-strife)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.34))
+  (ID DIGBY86EUSTACE.34))
 
 ( (IP-IMP-SPE (CONJ And-&)
               (VBI cR^istin=e+t-christen)
               (NP-OB1 (PRO ou-you))
               (ADVP-TMP (ADV-RH bi=time-betimes))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.35))
+  (ID DIGBY86EUSTACE.35))
 
 ( (IP-MAT-SPE (ADVP (ADV I=nou-enough))
               (NP-SBJ (PRO +ge-you)
@@ -504,7 +504,7 @@
                       (PP (P of-of)
                           (NP (PRO$-RH mine-my)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.36))
+  (ID DIGBY86EUSTACE.36))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD nom-niman)
@@ -514,7 +514,7 @@
                          (NP (PRO$ is-his)
                              (N-RH wif-wife))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.37))
+  (ID DIGBY86EUSTACE.37))
 
 ( (IP-MAT (CODE {PAGE~f123ra})
           (CONJ And-&)
@@ -528,7 +528,7 @@
               (NP (D +tat-the)
                   (N+N-RH follov=stone-fulluhtstone)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.38))
+  (ID DIGBY86EUSTACE.38))
 
 ( (IP-MAT (ADVP-LOC (ADV +Tere-there))
           (NP-SBJ (PRO hy-they)
@@ -544,7 +544,7 @@
                                (NS children-child)
                                (NUMP (NUM-RH tweine-two)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.39))
+  (ID DIGBY86EUSTACE.39))
 
 ( (IP-MAT (ADVP-TMP (ADV +To-Ya:))
           (NEG n@-ne)
@@ -553,7 +553,7 @@
           (NEG nout-not)
           (ADJP (ADJ-RH alone-alone))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.40))
+  (ID DIGBY86EUSTACE.40))
 
 ( (IP-MAT (PP (P Wilen-while)
               (CP-ADV (C 0)
@@ -568,13 +568,13 @@
           (VAN cR^istn=ed-christen)
           (NP-OB1 (NPR ewstas-ewstas))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.41))
+  (ID DIGBY86EUSTACE.41))
 
 ( (IP-MAT (VAN I=her=d-herian)
           (BEP be-be)
           (NP-SBJ (NPR+ADJ-RH god=al=mi+gtt=e-godalmighty))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.42))
+  (ID DIGBY86EUSTACE.42))
 
 ( (IP-MAT (PP (P In=to-into)
               (NP (D +tat-that)
@@ -588,7 +588,7 @@
           (BED weren-be)
           (VAN-RH a=go=n-ago)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.43))
+  (ID DIGBY86EUSTACE.43))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -596,7 +596,7 @@
           (NP-OB1 (PRO$ oure-our)
                   (N-RH dri+gtte-dryhten))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.44))
+  (ID DIGBY86EUSTACE.44))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N kni+gt-knight)
@@ -614,7 +614,7 @@
           (NP-MSR (D hone-a)
                   (N-RH stounde-stund))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.45))
+  (ID DIGBY86EUSTACE.45))
 
 ( (IP-MAT (PP (P Alse-as)
               (CP-ADV (C 0)
@@ -637,7 +637,7 @@
               (NP (D +te-the)
                   (N-RH grounde-ground)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.46))
+  (ID DIGBY86EUSTACE.46))
 
 ( (IP-MAT (NP-SBJ (D On-a)
                   (N aungele-angel)
@@ -659,7 +659,7 @@
                       (NP-SBJ (PRO +tou-thou))
                       (BE-RH be-be))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.47))
+  (ID DIGBY86EUSTACE.47))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (NP (PRO$ +Tine-thy)
                                         (NS children-child))
@@ -678,7 +678,7 @@
                                            (N blisse-bliss))
                                    (VB-RH I=se-see)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.48))
+  (ID DIGBY86EUSTACE.48))
 
 ( (IP-IMP-SPE (PP (P +Tey-though)
                   (CP-ADV-SPE (C 0)
@@ -702,7 +702,7 @@
               (NEG nout-not)
               (ADJP (ADJ-RH sor=i-sorry))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.49))
+  (ID DIGBY86EUSTACE.49))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO +Tou-thou))
               (BEP art-be)
@@ -710,7 +710,7 @@
               (PP (P to-to)
                   (NP (N-RH cR^ist=in=dome-christendom)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.50))
+  (ID DIGBY86EUSTACE.50))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (D +Te-the)
                                     (N fend-fiend))
@@ -724,7 +724,7 @@
                                    (NP-OB1 (PRO +te-thee))
                                    (VB-RH fond=i-fandian)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.51))
+  (ID DIGBY86EUSTACE.51))
 
 ( (IP-IMP-SPE (VBI Wend=e+t-wendan)
               (IP-MAT-PRN (VBD qU^a+t-cweYan)
@@ -733,7 +733,7 @@
               (NP-OB1 (NPR$ god=es-god)
                       (N-RH way-way))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.52))
+  (ID DIGBY86EUSTACE.52))
 
 ( (IP-IMP-SPE (VBI Wyt=ie+t-witian)
               (NP-OB1 (PRO$ oure-your)
@@ -743,7 +743,7 @@
                       (N-RH day-day))
               (PUNC .)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.53))
+  (ID DIGBY86EUSTACE.53))
 
 ( (IP-IMP-SPE (CONJ And-&)
               (DOI do=+t-do)
@@ -751,7 +751,7 @@
                   (NP (PRO$ mine-my)
                       (N-RH rede-rae:d)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.54))
+  (ID DIGBY86EUSTACE.54))
 
 ( (IP-MAT-SPE (NP-SBJ (Q All=e-all)
                       (PRO +ge-you))
@@ -772,7 +772,7 @@
               (BE be=n-be)
               (ADJP (ADJ-RH ded=e-dead))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.55))
+  (ID DIGBY86EUSTACE.55))
 
 ( (IP-MAT (PP (P To-to)
               (NP (PRO$ his-his)
@@ -798,7 +798,7 @@
                   (NP (NS children-child)
                       (NUMP (NUM-RH two-two)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.56))
+  (ID DIGBY86EUSTACE.56))
 
 ( (IP-MAT (ADVP-TMP (ADV +To-Ya:))
           (BED weren-be)
@@ -807,7 +807,7 @@
           (ADVP-LOC (ADV a=felde-afield))
           (VAN-RH I=bit=en-bite)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.57))
+  (ID DIGBY86EUSTACE.57))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N +tonre-thunder))
@@ -816,14 +816,14 @@
                   (N hors-horse))
           (VBN-RH for=smit=en-forsmite)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.58))
+  (ID DIGBY86EUSTACE.58))
 
 ( (IP-MAT (PP (P+N A=fote-afoot))
           (NP-SBJ (PRO he-he))
           (MD moste-mo:t)
           (VB-RH go-go)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.59))
+  (ID DIGBY86EUSTACE.59))
 
 ( (IP-MAT (NP-SBJ (Q Al-all)
                   (CP-REL (WNP-1 0)
@@ -845,7 +845,7 @@
                                (NS children-child)
                                (NUMP (NUM-RH twam-two))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.60))
+  (ID DIGBY86EUSTACE.60))
 
 ( (IP-MAT (PP (P Hof-of{f})
               (NP (N londe-land)))
@@ -853,7 +853,7 @@
           (MD mosten-mo:t)
           (VB-RH wend=e-wendan)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.61))
+  (ID DIGBY86EUSTACE.61))
 
 ( (IP-MAT (PP (P Er-ere)
               (CP-ADV (C 0)
@@ -874,7 +874,7 @@
                           (N$ wod=es-wood))
                   (N-RH ende-end)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.62))
+  (ID DIGBY86EUSTACE.62))
 
 ( (IP-MAT (PP-1 (P To=ward-toward)
                 (NP (NPR egipte-egipte)))
@@ -927,7 +927,7 @@
                                                                                                            (VB-RH sting=e-sting)
                                                                                                            (CODE {COM_LAEME:It_looks_as_if_a_final_N_may_have_been_erased})))))))))))))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.63))
+  (ID DIGBY86EUSTACE.63))
 
 ( (IP-MAT (PP-1 (P To-to)
                 (CODE {COM_LAEME:Four-line_coloured_initial_*T._Guide_letter_T_visible_under_it})
@@ -938,7 +938,7 @@
                   (VB com=en-come))
           (VBD-RH gon-ginnan{a})
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.64))
+  (ID DIGBY86EUSTACE.64))
 
 ( (IP-MAT (NP-OB1 (D A-a)
                   (N ship-ship))
@@ -947,14 +947,14 @@
           (ADVP-LOC (ADV +ter-there))
           (ADVP-TMP (ADV-RH anon-anon))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.65))
+  (ID DIGBY86EUSTACE.65))
 
 ( (IP-MAT (PP (ADV+P +Ter=houer-thereover))
           (NP-SBJ (PRO hy-they))
           (MD mosten-mo:t)
           (VB-RH seyl=e-sail)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.66))
+  (ID DIGBY86EUSTACE.66))
 
 ( (IP-MAT (PP (P In=to-into)
               (NP (D +tat-that)
@@ -973,7 +973,7 @@
                        (NS children-child)
                        (NUMP (NUM-RH two-two))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.67))
+  (ID DIGBY86EUSTACE.67))
 
 ( (IP-MAT (NP-SBJ (D +Tat-that)
                   (N water-water))
@@ -982,7 +982,7 @@
                 (CONJ and-&)
                 (ADJ-RH eille-egle))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.68))
+  (ID DIGBY86EUSTACE.68))
 
 ( (IP-MAT (NP-SBJ (NP-POS (D +Te-the)
                           (N$ shipp=es-ship))
@@ -1002,7 +1002,7 @@
                                              (BED wes-be)
                                              (ADJP (ADJ-RH bri+gt-bright)))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.69))
+  (ID DIGBY86EUSTACE.69))
 
 ( (IP-MAT (NP-SBJ (PRO Hoe-she))
           (VBD +touh=te-Yyncan)
@@ -1011,7 +1011,7 @@
                         (CONJ and-&)
                         (ADJ-RH shene-sce:ne)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.70))
+  (ID DIGBY86EUSTACE.70))
 
 ( (IP-MAT (PP (P To-to)
               (NP (PRO him-him)))
@@ -1021,7 +1021,7 @@
               (NP (D @+tan-that)))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.71))
+  (ID DIGBY86EUSTACE.71))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Wer-where))
               (IP-SUB-SPE (ADVP-LOC *T*-1)
@@ -1033,7 +1033,7 @@
                                   (CODE {COM_LAEME:AN_taken_to_line_above_and_marked_for_insertion})))
               (PUNC .)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.72))
+  (ID DIGBY86EUSTACE.72))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Hoe-she))
               (MD shal-shall)
@@ -1042,7 +1042,7 @@
               (IP-MAT-PRN-SPE (NP-SBJ (PRO ich-I))
                               (VBP-RH wene-we:nan))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.73))
+  (ID DIGBY86EUSTACE.73))
 
 ( (IP-MAT (PP (P+RP A=doun-adown))
           (NP-SBJ (PRO he-he))
@@ -1052,7 +1052,7 @@
               (NP (D an-a)
                   (N-RH ston-stone)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.74))
+  (ID DIGBY86EUSTACE.74))
 
 ( (IP-MAT (CODE {PAGE~f123va})
           (CONJ And-&)
@@ -1062,7 +1062,7 @@
                   (ADJ wer=i=e-weary)
                   (NS-RH bon-bone))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.75))
+  (ID DIGBY86EUSTACE.75))
 
 ( (IP-MAT (NP-SBJ *con*)
           (VBD Bi=oeld-behold)
@@ -1070,7 +1070,7 @@
                   (NS children-child)
                   (NUMP (NUM-RH two-two)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.76))
+  (ID DIGBY86EUSTACE.76))
 
 ( (IP-MAT-SPE (NP-SBJ-1 *exp*)
               (NP-OB2 (PRO Me-me))
@@ -1081,7 +1081,7 @@
                                         (MD wile-will)
                                         (VB-RH bled=en-bleed)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.77))
+  (ID DIGBY86EUSTACE.77))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hou-how))
               (IP-SUB-SPE (ADVP *T*-1)
@@ -1091,7 +1091,7 @@
                           (ADJP-SPR (ADJ moder=les=e-motherless))
                           (VB-RH fed=en-feed))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.78))
+  (ID DIGBY86EUSTACE.78))
 
 ( (IP-MAT-SPE (NP-SBJ *exp*)
               (NEG Ne-ne)
@@ -1101,7 +1101,7 @@
               (ADVP (ADV +tus-thus))
               (NP-OB1 (N-RH wo-woe))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.79))
+  (ID DIGBY86EUSTACE.79))
 
 ( (IP-MAT (ADVP-TMP (ADVR So-so)
                     (ADV longe-long))
@@ -1119,26 +1119,26 @@
                           (NP-SBJ (PRO he-he))
                           (VBD-RH com-come)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.80))
+  (ID DIGBY86EUSTACE.80))
 
 ( (IP-MAT (PP (ADV+P +Ter=ouer-thereover))
           (NP-SBJ (PRO he-he))
           (MD moste-mo:t)
           (VB-RH far=e-faran)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.81))
+  (ID DIGBY86EUSTACE.81))
 
 ( (IP-MAT (VB Wad=en-wade)
           (NP-SBJ (PRO he-he))
           (MD moste-mo:t))
-          (ID DIGBY86EUSTACE.82))
+  (ID DIGBY86EUSTACE.82))
 
 ( (IP-MAT (NP-SBJ (D +te-the)
                   (N water-water))
           (BED wes-be)
           (ADJP (ADJ-RH cheld-cold))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.83))
+  (ID DIGBY86EUSTACE.83))
 
 ( (IP-MAT (PP (P In-on{p})
               (NP (Q ey+ter-either)
@@ -1147,7 +1147,7 @@
           (NP-SBJ (ADJ wilde-wild)
                   (N-RH feld-field))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.84))
+  (ID DIGBY86EUSTACE.84))
 
 ( (IP-MAT (ADJP (D +te-the)
                 (ADJR more-more))
@@ -1155,7 +1155,7 @@
           (NP-SBJ (PRO$ his-his)
                   (N-RH care-care))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.85))
+  (ID DIGBY86EUSTACE.85))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD nom-niman)
@@ -1166,7 +1166,7 @@
               (NP (PRO$ his-his)
                   (N-RH arm-arm)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.86))
+  (ID DIGBY86EUSTACE.86))
 
 ( (IP-MAT (NP-SBJ (PRO Ich-I))
           (VBP wot-witan)
@@ -1177,7 +1177,7 @@
                           (NP-OB1 (Q non-no)
                                   (N-RH harm-harm))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.87))
+  (ID DIGBY86EUSTACE.87))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *pro*)
@@ -1187,7 +1187,7 @@
           (PP (P to-to)
               (NP (N-RH londe-land)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.88))
+  (ID DIGBY86EUSTACE.88))
 
 ( (IP-MAT (ADVP-TMP (ADV Sone-soon))
           (NP-SBJ (PRO he-he))
@@ -1202,14 +1202,14 @@
                       (ADVP-TMP (ADV euere-ever))
                       (ADJP (ADJ-RH god-good)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.89))
+  (ID DIGBY86EUSTACE.89))
 
 ( (IP-MAT-SPE (NP-OB1 (D +Tat-that))
               (NP-SBJ (PRO ich-I))
               (ADVP (ADV wel-well{w}))
               (VBP-RH ounder=stonde-understand)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.90))
+  (ID DIGBY86EUSTACE.90))
 
 ( (IP-IMP-SPE (VBI Sitte-sit)
               (ADVP-TMP (ADV nou-now))
@@ -1224,7 +1224,7 @@
                                           (NP-OB1 (N bro+ter-brother)
                                                   (NP-POS (PRO$-RH +tin-thy))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.91))
+  (ID DIGBY86EUSTACE.91))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO tou-thou))
@@ -1233,7 +1233,7 @@
               (NP-OB1 (PRO$ +ti-thy)
                       (N-RH mede-meed))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.92))
+  (ID DIGBY86EUSTACE.92))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I))
               (MD wille-will)
@@ -1253,7 +1253,7 @@
                                                     (MD may-may)
                                                     (DO-RH do=n-do)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.93))
+  (ID DIGBY86EUSTACE.93))
 
 ( (IP-MAT-SPE (NP-SBJ *exp*)
               (NEG Ne-ne)
@@ -1262,7 +1262,7 @@
               (NEG nout-not)
               (VB-RH a=dred=e-adread)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.94))
+  (ID DIGBY86EUSTACE.94))
 
 ( (IP-MAT (PP (P In=to-into)
               (NP (D +tat-that)
@@ -1280,7 +1280,7 @@
                                       (ADJ depe-deep)
                                       (N-RH strem-stream))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.95))
+  (ID DIGBY86EUSTACE.95))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1289,7 +1289,7 @@
               (NP (Q hey+ter-either)
                   (N-RH side-side)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.96))
+  (ID DIGBY86EUSTACE.96))
 
 ( (IP-MAT (NP-SBJ (D A-a)
                   (ADJ wilde-wild)
@@ -1298,7 +1298,7 @@
                   (VB com-come))
           (VBD-RH gon-ginnan{a})
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.97))
+  (ID DIGBY86EUSTACE.97))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1309,7 +1309,7 @@
                   (N sone-son))
           (ADVP-TMP (ADV-RH anon-anon))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.98))
+  (ID DIGBY86EUSTACE.98))
 
 ( (IP-MAT (PP (P On-on{p})
               (NP (PRO him-him)))
@@ -1317,7 +1317,7 @@
           (VBD +gen=ede-yawn)
           (ADVP (ADV-RH wide-wide))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.99))
+  (ID DIGBY86EUSTACE.99))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N lioun-lion))
@@ -1328,7 +1328,7 @@
           (PP (P wi+t-with{w})
               (NP (PRO-RH him-him)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.100))
+  (ID DIGBY86EUSTACE.100))
 
 ( (IP-MAT (ADVP-DIR (ADV A=wey-away))
           (NP-SBJ (PRO he-he))
@@ -1337,7 +1337,7 @@
                     (CONJ and-&)
                     (ADJ-RH grim-grim))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.101))
+  (ID DIGBY86EUSTACE.101))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N kni+gt-knight))
@@ -1345,7 +1345,7 @@
           (ADVP (ADV ney-nigh))
           (VAN-RH I=swow=e-swo:gan)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.102))
+  (ID DIGBY86EUSTACE.102))
 
 ( (IP-MAT (ADVP-DIR (ADV Wore-fore{p})
                     (CODE {GLOSS~out,_forth}))
@@ -1356,7 +1356,7 @@
                   (N water-water)
                   (ADJP (ADJ-RH depe-deep))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.103))
+  (ID DIGBY86EUSTACE.103))
 
 ( (IP-MAT (CODE {PAGE~f123vb})
           (NP-SBJ (PRO Hit-it))
@@ -1369,7 +1369,7 @@
                       (IP-SUB (NP-SBJ (PRO he-he))
                               (VBD-RH wepe-weep))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.104))
+  (ID DIGBY86EUSTACE.104))
 
 ( (IP-MAT (PP-1 (P Of-of)
                 (NP (N care-care)))
@@ -1378,7 +1378,7 @@
           (NP-OB1 (N-RH I=nowe-enough)
                   (PP *ICH*-1))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.105))
+  (ID DIGBY86EUSTACE.105))
 
 ( (IP-MAT (PP (P +to-Ya:)
               (CP-ADV (C 0)
@@ -1390,14 +1390,14 @@
           (NP-SBJ (PRO He-he))
           (VBD lok=ede-look)
           (RP oup-up))
-          (ID DIGBY86EUSTACE.106))
+  (ID DIGBY86EUSTACE.106))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (NP-OB2 (PRO him-him))
           (VBD-RH a=gros-agri:san)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.107))
+  (ID DIGBY86EUSTACE.107))
 
 ( (IP-MAT (PP (P To-to)
               (NP (N londe-land)))
@@ -1405,7 +1405,7 @@
           (MD moste-mo:t)
           (VB-RH te-te:on)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.108))
+  (ID DIGBY86EUSTACE.108))
 
 ( (IP-MAT (NP-OB1 (D A-a)
                   (ADJ wonder-wonder)
@@ -1415,7 +1415,7 @@
           (NP-OB2 (PRO him-him))
           (ADVP-LOC (ADV-RH +tar-there))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.109))
+  (ID DIGBY86EUSTACE.109))
 
 ( (IP-MAT (NP-SBJ (D A-a)
                   (N wolf-wolf))
@@ -1424,7 +1424,7 @@
                   (N child-child))
           (VBD-RH at=bar-atbear)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.110))
+  (ID DIGBY86EUSTACE.110))
 
 ( (IP-MAT (ADJP-SPR (VAN I=swow=en-swo:gan))
           (NP-SBJ (PRO he-he))
@@ -1432,7 +1432,7 @@
           (PP (P on-on{m})
               (NP (N-RH kne-knee)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.111))
+  (ID DIGBY86EUSTACE.111))
 
 ( (IP-MAT (PP (P +to-Ya:)
               (CP-ADV (C 0)
@@ -1444,14 +1444,14 @@
           (NP-SBJ (PRO He-he))
           (VBD lok=ede-look)
           (RP oup-up))
-          (ID DIGBY86EUSTACE.112))
+  (ID DIGBY86EUSTACE.112))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (NP-OB2 (PRO him-him))
           (VBD-RH a=gros-agri:san)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.113))
+  (ID DIGBY86EUSTACE.113))
 
 ( (IP-MAT (NP-SBJ (PRO$ His-his)
                   (N wit-wit))
@@ -1459,7 +1459,7 @@
           (ADVP (ADV ney-nigh))
           (VAN-RH for=lor=en-forlose)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.114))
+  (ID DIGBY86EUSTACE.114))
 
 ( (IP-MAT (ADVP-TMP (ADV Euere-ever))
           (NP-SBJ (PRO he-he))
@@ -1485,7 +1485,7 @@
                             (VAN-RH I=bor=en-born)
                             (CODE {COM_LAEME:A_coloured_oblique_stroke_perhaps_to_define_the_end_of_a_section})))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.115))
+  (ID DIGBY86EUSTACE.115))
 
 ( (IP-MAT-SPE (NP-VOC (N God=al=mi+gtt=en-godalmighty))
               (CODE {COM_LAEME:Four-line_coloured_initial_*G._Guide_letter_*G_visible_at_its_top_left_corner})
@@ -1493,7 +1493,7 @@
               (NP-OB1 (PRO hit-it))
               (VBP-RH wost-witan)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.116))
+  (ID DIGBY86EUSTACE.116))
 
 ( (IP-MAT-SPE (NP-VOC (NP (N Fader-father))
                       (CONJP (CONJ and-&)
@@ -1527,7 +1527,7 @@
                                     (PP (P of-of)
                                         (NP (N-RH hewe-hue)))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.117))
+  (ID DIGBY86EUSTACE.117))
 
 ( (IP-MAT-SPE (INTJ Welle-weila:)
               (NP-SBJ (N wo-woe))
@@ -1551,7 +1551,7 @@
                                (ADVP-DIR (ADV a=wey-away))
                                (VAN-RH I=bor=en-bear))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.118))
+  (ID DIGBY86EUSTACE.118))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (VBP bide-bi:dan)
@@ -1560,7 +1560,7 @@
                         (CODE {COM_LAEME:F_written_on_erasure?}))
               (NP-MSR (Q-RH none-none))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.119))
+  (ID DIGBY86EUSTACE.119))
 
 ( (CP-QUE-SPE (WPP-1 (P To-to)
                      (WNP (WD wecche-which)
@@ -1571,7 +1571,7 @@
                           (VB-RH toe-te:on)
                           (CODE {COM_LAEME:O_written_on_erasure}))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.120))
+  (ID DIGBY86EUSTACE.120))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hou-how)
                        (ADV longe-long))
@@ -1582,7 +1582,7 @@
                           (CODE {COM_LAEME:I_corrected_from_E}))
                       (BE-RH boe-be))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.121))
+  (ID DIGBY86EUSTACE.121))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (VB con-can)
@@ -1591,7 +1591,7 @@
               (NP-OB1 (Q no-no)
                       (N-RH wone-va:n{h}))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.122))
+  (ID DIGBY86EUSTACE.122))
 
 ( (IP-MAT-SPE (PP (P Of-of)
                   (NP (NPR iop-iop)
@@ -1617,7 +1617,7 @@
                                                            (PP (P in=to-into)
                                                                (NP (N-RH care-care)))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.123))
+  (ID DIGBY86EUSTACE.123))
 
 ( (IP-MAT-SPE (NP-VOC (N Louerd-lord))
               (PP (P for-for)
@@ -1643,7 +1643,7 @@
                                               (VBP-RSP-RH fare-faran)
                                               (CODE {COM_LAEME:sj_context}))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.124))
+  (ID DIGBY86EUSTACE.124))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I)
                       (CODE {COM_LAEME:*I_taken_into_some_curly_decorations_in_the_bottom_margin}))
@@ -1653,21 +1653,21 @@
                       (PRO$ mine-my)
                       (N-RH fille-fill))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.125))
+  (ID DIGBY86EUSTACE.125))
 
 ( (IP-MAT-SPE (CODE {PAGE~f124ra})
               (NP-SBJ (PRO I-I))
               (NEG n@-ne)
               (MD @elle-will)
               (NP-MSR (Q+QR nam=more-nomore)))
-              (ID DIGBY86EUSTACE.126))
+  (ID DIGBY86EUSTACE.126))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ich-I))
               (MD wile-will)
               (BE be-be)
               (ADJP (ADJ-RH stille-still))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.127))
+  (ID DIGBY86EUSTACE.127))
 
 ( (IP-MAT-SPE (NP-SBJ (NPR$ God=es-god)
                       (N help-help))
@@ -1675,7 +1675,7 @@
               (ADJP (ADV ful=-full{v})
                     (ADJ-RH =ney-nigh))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.128))
+  (ID DIGBY86EUSTACE.128))
 
 ( (IP-MAT (ADVP-TMP (ADV +To-Ya:))
           (VBD com-come)
@@ -1685,7 +1685,7 @@
                   (PP (P of-of{f})
                       (NP (NPR-RH heuene-heaven))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.129))
+  (ID DIGBY86EUSTACE.129))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1706,7 +1706,7 @@
                                   (PP (P on-on{p})
                                       (ADJP (ADJ-RH hey-high)))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.130))
+  (ID DIGBY86EUSTACE.130))
 
 ( (IP-IMP-SPE (BEI Be-be)
               (ADVP-TMP (ADV nou-now))
@@ -1715,7 +1715,7 @@
                     (ADJ glad-glad))
               (NP-VOC (NPR eustace-eustace))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.131))
+  (ID DIGBY86EUSTACE.131))
 
 ( (IP-MAT-SPE (PP (P In-in{p})
                   (NP (NPR heuene-heaven)))
@@ -1732,7 +1732,7 @@
                                       (ADJP (ADJ murie-merry))
                                       (BE-RH boe=n-be))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.132))
+  (ID DIGBY86EUSTACE.132))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (NP (PRO$ +Tine-thy)
                                         (NS children-child))
@@ -1751,7 +1751,7 @@
                                            (N blisse-bliss))
                                    (VB-RH I=soe=n-see)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.133))
+  (ID DIGBY86EUSTACE.133))
 
 ( (IP-MAT (ADVP-TMP (ADVR So-so)
                     (CODE {COM_LAEME:Four-line_coloured_initial_*S._Guide_letter_S_in_left_margin})
@@ -1771,7 +1771,7 @@
                           (N-RH day-day)))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.134))
+  (ID DIGBY86EUSTACE.134))
 
 ( (IP-MAT (CP-ADV (PP-1 (P To-to)
                         (NP (N toune-town)))
@@ -1788,7 +1788,7 @@
           (ADVP-TMP (ADV-RH +to-Ya:))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.135))
+  (ID DIGBY86EUSTACE.135))
 
 ( (IP-MAT (CONJ Wor-for)
           (NP-SBJ (PRO$ his-his)
@@ -1797,7 +1797,7 @@
           (Q al-all)
           (VAN-RH at=go-atgo)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.136))
+  (ID DIGBY86EUSTACE.136))
 
 ( (IP-MAT (ADVP (ADV Wel-well{v})
                 (ADV evene-even)
@@ -1836,7 +1836,7 @@
                                    (TO to-to)
                                    (VB-RH puind=e-pyndan))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.137))
+  (ID DIGBY86EUSTACE.137))
 
 ( (IP-MAT (PP (ADV+P +Tere=to-thereto))
           (NEG n@-ne)
@@ -1845,7 +1845,7 @@
           (NEG nout-not)
           (NP-SBJ (N-RH I=cunde-gecynd))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.138))
+  (ID DIGBY86EUSTACE.138))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (BED wes-be)
@@ -1853,7 +1853,7 @@
                   (CONJ and-&)
                   (N-RH kni+gt-knight))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.139))
+  (ID DIGBY86EUSTACE.139))
 
 ( (IP-MAT (NP-MSR (NUM Fiftene-fifteen)
                   (NS +ger-year))
@@ -1871,7 +1871,7 @@
                                               (NP-SBJ (PRO he-he))
                                               (BED-RH were-be))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.140))
+  (ID DIGBY86EUSTACE.140))
 
 ( (IP-MAT (VAN I=sou=t-seek)
           (NP-SBJ (PRO he-he))
@@ -1880,7 +1880,7 @@
                 (CODE {COM_LAEME:Letter_erased})
                 (ADV-RH +gerne-georne))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.141))
+  (ID DIGBY86EUSTACE.141))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N enpERour-emperor))
@@ -1906,7 +1906,7 @@
                         (CONJ and-&)
                         (ADJ-RH stern=e-stern)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.142))
+  (ID DIGBY86EUSTACE.142))
 
 ( (IP-MAT (PP (P Ouer-over)
               (NP (D +tat-that)
@@ -1921,7 +1921,7 @@
                     (NP (ONE one-1)
                         (N-RH ble-ble:o))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.143))
+  (ID DIGBY86EUSTACE.143))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO he-he))
@@ -1929,7 +1929,7 @@
           (ADVP-LOC (ADV +tere-there))
           (VBD-RH I=mette-meet)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.144))
+  (ID DIGBY86EUSTACE.144))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (NS kni+gtt=es-knight))
@@ -1939,7 +1939,7 @@
               (NP (NS hors=e-horse)
                   (ADJP (ADJ-RH hey=e-high))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.145))
+  (ID DIGBY86EUSTACE.145))
 
 ( (IP-MAT (CODE {PAGE~f124rb})
           (NP-SBJ *con*)
@@ -1955,7 +1955,7 @@
           (VBD-RH I=grette-greet)
           (CODE {COM_LAEME:N_erased_at_end_of_*I-GRETTE})
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.146))
+  (ID DIGBY86EUSTACE.146))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N hay=ward-hayweard))
@@ -1965,7 +1965,7 @@
           (NP-OB1 (PRO$ his-his)
                   (N-RH horn-horn))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.147))
+  (ID DIGBY86EUSTACE.147))
 
 ( (IP-MAT (CONJ For-for)
           (NP-SBJ (PRO he-he))
@@ -1975,7 +1975,7 @@
                       (NP (D +tat-that)
                           (N-RH corn-corn))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.148))
+  (ID DIGBY86EUSTACE.148))
 
 ( (IP-MAT (NP-1 (PRO$ Here-their)
                 (N wed-wedd))
@@ -1985,7 +1985,7 @@
           (IP-INF (NP-OB1 *ICH*-1)
                   (VB-RH +geld=e-gieldan))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.149))
+  (ID DIGBY86EUSTACE.149))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD ax=ede-ask)
@@ -2010,14 +2010,14 @@
                                                  (N heued-head)
                                                  (N-RH felde-field)))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.150))
+  (ID DIGBY86EUSTACE.150))
 
 ( (IP-MAT-SPE (NP-VOC (N Sire-sir)
                       (CODE {COM_LAEME:Three-line_coloured_initial_*S._Guide_letter_S_partially_obscured_by_it}))
               (NP-SBJ (PRO we-we))
               (BEP ben-be)
               (NP-OB1 (NS kni+gtt=es-knight)
-                      (RRC-SPE (ADVP-DIR (ADV fer-far))
+                      (RRC-SPE (NP-MSR (ADJ fer-far))
                                (VAN-RH I=far=e-faran)
                                (LINEBREAK \)
                                (IP-INF-PRP-SPE (FOR For@-for)
@@ -2030,7 +2030,7 @@
                                                    (NP (ONE one-1)
                                                        (N-RH monne-man))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.151))
+  (ID DIGBY86EUSTACE.151))
 
 ( (IP-MAT-SPE (NP-OB1 (NP-POS (D +Te-the)
                               (N$ enperour=es-emperor))
@@ -2043,7 +2043,7 @@
                         (CONJ and-&)
                         (ADV-RH ner-near))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.152))
+  (ID DIGBY86EUSTACE.152))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (MD con-can)
@@ -2052,7 +2052,7 @@
               (NP-SBJ (Q+N no=man-noman))
               (VB-RH kenn=e-cennan{k})
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.153))
+  (ID DIGBY86EUSTACE.153))
 
 ( (IP-MAT-SPE (NP-OB1 (ADJS Wis=este-wise)
                       (N kni+gt-knight)
@@ -2061,7 +2061,7 @@
               (NP-SBJ (PRO he-he))
               (BED-RH was-be)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.154))
+  (ID DIGBY86EUSTACE.154))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ His-his)
                       (N nome-name))
@@ -2069,7 +2069,7 @@
               (VAN hot=en-ha:tan{n})
               (NP-OB1 (NPR placidas-placidas))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.155))
+  (ID DIGBY86EUSTACE.155))
 
 ( (IP-MAT-SPE (PP (P On-on{m})
                   (NP (N hont=ing-hunt)))
@@ -2077,7 +2077,7 @@
               (NP-SBJ (PRO he-he))
               (VBD-RH fer=de-fe:ran)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.156))
+  (ID DIGBY86EUSTACE.156))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV+ADV Never=eft-nevereft))
               (ADVP-TMP (ADV se+t+ten-since))
@@ -2086,7 +2086,7 @@
               (NP-SBJ (PRO he-he))
               (NP-DIR (N-RH hom-home))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.157))
+  (ID DIGBY86EUSTACE.157))
 
 ( (IP-MAT-SPE (CONJ Ne-nor)
               (NP-SBJ (Q no-no)
@@ -2103,7 +2103,7 @@
                                         (NP-SBJ (Q+N an=i=mon-anyman))
                                         (VBD-RH hy=her=de-hear)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.158))
+  (ID DIGBY86EUSTACE.158))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV Here-here))
               (NP-SBJ (PRO we-we))
@@ -2111,7 +2111,7 @@
               (VBN I=found=e-find)
               (NP-OB1 (PRO-RH +te-thee))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.159))
+  (ID DIGBY86EUSTACE.159))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO We-we))
               (VBP wen=en-we:nan)
@@ -2126,7 +2126,7 @@
                       (ADJ fayre-fair)
                       (N-RH chere-chere)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.160))
+  (ID DIGBY86EUSTACE.160))
 
 ( (IP-MAT-SPE (PP (P Ovpon-upon{p})
                   (NP (PRO$ +ti-thy)
@@ -2135,7 +2135,7 @@
               (NP-SBJ (D an-a)
                       (N-RH wonde-wound))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.161))
+  (ID DIGBY86EUSTACE.161))
 
 ( (IP-MAT-SPE (PP (ADV+P +Tere=bi-thereby))
               (NP-SBJ (PRO we-we))
@@ -2149,7 +2149,7 @@
                                       (NP-OB1 (PRO$ oure-our)
                                               (N-RH I=fere-gefe:ra))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.162))
+  (ID DIGBY86EUSTACE.162))
 
 ( (CP-QUE-SPE (INTJ Nay-nay)
               (IP-MAT-PRN (VBD qU^a+t-cweYan)
@@ -2160,7 +2160,7 @@
                           (NP-SBJ (PRO hit-it))
                           (BE-RH be-be))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.163))
+  (ID DIGBY86EUSTACE.163))
 
 ( (CP-QUE-SPE (WQ Were-whether)
               (IP-SUB-SPE (MD suld-shall)
@@ -2170,7 +2170,7 @@
                                   (N fere-fe:ra))
                           (BE-RH be-be))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.164))
+  (ID DIGBY86EUSTACE.164))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (BEP am-be)
@@ -2179,7 +2179,7 @@
                       (ADJ pouere-poor)
                       (N-RH mon-man))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.165))
+  (ID DIGBY86EUSTACE.165))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO +Tou-thou))
               (MD most-mo:t)
@@ -2202,7 +2202,7 @@
                                                               (PP (P-RH on-in{c})
                                                                   (NP *T*-1))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.166))
+  (ID DIGBY86EUSTACE.166))
 
 ( (IP-MAT (ADVP-TMP (ADV +To-Ya:))
           (VBD nom-niman)
@@ -2214,7 +2214,7 @@
                   (N leue-le:af))
           (ADVP-LOC (ADV-RH +tare-there))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.167))
+  (ID DIGBY86EUSTACE.167))
 
 ( (IP-MAT (CODE {PAGE~f124va})
           (PP (P Mid-mid{w})
@@ -2224,7 +2224,7 @@
           (BEP is-be)
           (VAN-RH I=far=e-faran)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.168))
+  (ID DIGBY86EUSTACE.168))
 
 ( (IP-MAT (PP (P To-to)
               (NP (N$ kingg=es-king)
@@ -2233,7 +2233,7 @@
           (NP-SBJ (PRO he-he))
           (VBD-RH com-come)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.169))
+  (ID DIGBY86EUSTACE.169))
 
 ( (IP-MAT (ADVP-LOC (ADV +Tere-there))
           (BED wes-be)
@@ -2242,7 +2242,7 @@
                   (N blisse-bliss)
                   (ADJP (ADJ-RH I=nouh-enough)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.170))
+  (ID DIGBY86EUSTACE.170))
 
 ( (IP-MAT (NP-LFD (D +Te-the)
                   (N enpERour-emperor)
@@ -2259,7 +2259,7 @@
                    (CONJ and-&)
                    (N-RH grom-groom))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.171))
+  (ID DIGBY86EUSTACE.171))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD tol=de-tell)
@@ -2305,7 +2305,7 @@
                               (MD wolde-will)
                               (VB-RH send=e-send))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.172))
+  (ID DIGBY86EUSTACE.172))
 
 ( (IP-MAT (NP-SBJ-1 (PRO Hit-it)
                     (CODE {COM_LAEME:Four-line_coloured_initial_*H_with_a_cross_between_its_limbs,_its~ascender_extending_two_further_lines_up_in_the_left_margin._Guide_letter~*H_in_left_margin}))
@@ -2328,7 +2328,7 @@
               (NP (D +te-the)
                   (N-RH enpereour-emperor)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.173))
+  (ID DIGBY86EUSTACE.173))
 
 ( (IP-MAT (ADVP-DIR (ADV +Tidere-thither))
           (VBD wente-wendan)
@@ -2349,14 +2349,14 @@
                       (NP-OB1 (PRO$ his-his)
                               (N-RH honour-honour)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.174))
+  (ID DIGBY86EUSTACE.174))
 
 ( (IP-MAT (ADVP-DIR (ADV +Tidere-thither))
           (VBD com=en-come)
           (NP-SBJ (NS kni+gtt=es-knight)
                   (NUMP (NUM-RH tweyne-two)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.175))
+  (ID DIGBY86EUSTACE.175))
 
 ( (IP-MAT (ADJP (ADV Wel-well{v})
                 (ADJ god=e-good)
@@ -2373,7 +2373,7 @@
                   (NS arm=es-arm)
                   (ADJP (ADJ-RH god=e-good))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.176))
+  (ID DIGBY86EUSTACE.176))
 
 ( (IP-MAT (NP-SBJ-1 (EX +Tere-there))
           (NEG n@-ne)
@@ -2397,7 +2397,7 @@
                                     (N dunt-dynt))
                             (VBD-RH at=stode-atstand)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.177))
+  (ID DIGBY86EUSTACE.177))
 
 ( (IP-MAT (PP (P +To-Ya:)
               (CP-ADV (C 0)
@@ -2425,7 +2425,7 @@
               (NP (PRO$ hoere-their)
                   (N-RH inne-inn)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.178))
+  (ID DIGBY86EUSTACE.178))
 
 ( (IP-MAT (NP-OB1 (ADJP (ADV Wel-well{v})
                         (ADJ god=e-good))
@@ -2433,7 +2433,7 @@
           (NP-SBJ (PRO hy-they))
           (VBD-RH bi=com=en-become)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.179))
+  (ID DIGBY86EUSTACE.179))
 
 ( (IP-MAT (PP (P At-at)
               (NP (ONE one-1)
@@ -2448,7 +2448,7 @@
               (NP (ADJ vuel-evil)
                   (N-RH enginne-engin)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.180))
+  (ID DIGBY86EUSTACE.180))
 
 ( (IP-MAT (ADVP (ADV To=gadere-together))
           (NP-SBJ (PRO hy-they))
@@ -2464,7 +2464,7 @@
                      (PP (P of-of)
                          (NP (N-RH Fisse-fish)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.181))
+  (ID DIGBY86EUSTACE.181))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -2473,7 +2473,7 @@
           (ADJP (ADV wel-well{v})
                 (ADJ-RH bli+t=e-blithe))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.182))
+  (ID DIGBY86EUSTACE.182))
 
 ( (IP-MAT (PP (P After-after)
               (NP (N mete-meat)))
@@ -2493,7 +2493,7 @@
                              (N$ liw=es-life)
                              (N-RH si+te-si:Y)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.183))
+  (ID DIGBY86EUSTACE.183))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (ADJR +gong=ore-young)
@@ -2516,24 +2516,24 @@
                           (NP-SBJ (PRO he-he))
                           (BED-RH were-be)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.184))
+  (ID DIGBY86EUSTACE.184))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD seet-sit)
           (ADVP (ADV stille-still)))
-          (ID DIGBY86EUSTACE.185))
+  (ID DIGBY86EUSTACE.185))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (VBD sih=tte-sigh)
           (ADVP (ADV-RH sore-sore))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.186))
+  (ID DIGBY86EUSTACE.186))
 
 ( (IP-MAT (NP-MSR (Q Litel-little))
           (NP-SBJ (PRO he-he))
           (VBD spak-speak))
-          (ID DIGBY86EUSTACE.187))
+  (ID DIGBY86EUSTACE.187))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -2544,7 +2544,7 @@
               (NP (VAG drowpn=inde-droop)
                   (N-RH chere-chere)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.188))
+  (ID DIGBY86EUSTACE.188))
 
 ( (IP-MAT-SPE (NP-VOC (N Sire-sir))
               (MD wil-will)
@@ -2569,7 +2569,7 @@
                                                              (NP (PRO$ mi-my)
                                                                  (N-RH sore-sore)))))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.189))
+  (ID DIGBY86EUSTACE.189))
 
 ( (IP-MAT-SPE (NP-OB1 (NP-POS (D A-a)
                               (ADJ rich=e-rich)
@@ -2578,7 +2578,7 @@
               (NP-SBJ (PRO ich-I))
               (BED-RH was-be)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.190))
+  (ID DIGBY86EUSTACE.190))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ Mi-my)
                       (N fader-father)
@@ -2594,7 +2594,7 @@
                                         (CODE {COM_LAEME:First_E_corrected_from_some_other_letter})
                                         (VBN-RH I=far=e-faran)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.191))
+  (ID DIGBY86EUSTACE.191))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-SBJ (PRO$ Mi-my)
                                     (N fader-father))
@@ -2611,7 +2611,7 @@
                                            (N =leuedi-lady)
                                            (ADJP (ADJ-RH bri+gt-bright)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.192))
+  (ID DIGBY86EUSTACE.192))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *pro*)
@@ -2619,7 +2619,7 @@
               (NP-OB1 (ADJ riche-rich)
                       (N-RH I=won-va:n{d}))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.193))
+  (ID DIGBY86EUSTACE.193))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO We-we)
                       (NP-PRN *ICH*-1))
@@ -2642,7 +2642,7 @@
                       (PP (P of-of)
                           (NP (N-RH ston-stone)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.194))
+  (ID DIGBY86EUSTACE.194))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ Mi-my)
                       (N fader-father))
@@ -2664,7 +2664,7 @@
                           (NP (PRO$ oure-our)
                               (N-RH dri+gte-dryhten)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.195))
+  (ID DIGBY86EUSTACE.195))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2674,7 +2674,7 @@
                   (NP (D +tat-the)
                       (N-RH fon=ston-fontstone)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.196))
+  (ID DIGBY86EUSTACE.196))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2690,21 +2690,21 @@
                       (PP (P of-of)
                           (NP (NPR+ADJ-RH god=al=mi+gt=e-godalmighty)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.197))
+  (ID DIGBY86EUSTACE.197))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Se+t+ten-since))
               (NP-SBJ (PRO ich-I))
               (VBP ounder=stonde-understand)
               (NP-OB1 (PRO-RH me-me))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.198))
+  (ID DIGBY86EUSTACE.198))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO We-we))
               (VBD fell=en-fall)
               (PP (P In=to-into)
                   (NP (N-RH pouerte-poverty)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.199))
+  (ID DIGBY86EUSTACE.199))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2714,7 +2714,7 @@
                   (P @of-of)
                   (NP (N-RH londe-land)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.200))
+  (ID DIGBY86EUSTACE.200))
 
 ( (IP-MAT-SPE (PP (P Ouer-over)
                   (NP (D a-a)
@@ -2725,14 +2725,14 @@
               (LINEBREAK \)
               (NP-SBJ (PRO We-we))
               (VBD seil=eden-sail))
-              (ID DIGBY86EUSTACE.201))
+  (ID DIGBY86EUSTACE.201))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (NP-SBJ (PRO$ mi-my)
                       (N moder-mother))
               (VBD-RH wep-weep)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.202))
+  (ID DIGBY86EUSTACE.202))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2740,7 +2740,7 @@
               (NP-OB1 (PRO$ hire-her)
                       (NS-RH hond=e-hand))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.203))
+  (ID DIGBY86EUSTACE.203))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ Mi-my)
                       (N moder-mother))
@@ -2749,7 +2749,7 @@
                       (ADJ =fair-fair)
                       (N-RH wimmon-woman))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.204))
+  (ID DIGBY86EUSTACE.204))
 
 ( (IP-MAT-SPE (CODE {PAGE~f125ra})
               (PP (P In-in{p})
@@ -2768,7 +2768,7 @@
                          (PP (P of-of)
                              (NP (N-RH hewe-hue)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.205))
+  (ID DIGBY86EUSTACE.205))
 
 ( (IP-MAT-SPE (NP-SBJ (NP-POS (D +Te-the)
                               (N$ ship=es-ship))
@@ -2782,7 +2782,7 @@
               (PP (P wi+t=houte-without)
                   (NP (N-RH dom-doom)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.206))
+  (ID DIGBY86EUSTACE.206))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV +To-Ya:))
               (BED wes-be)
@@ -2790,7 +2790,7 @@
                       (N care-care))
               (ADJP (ADJ-RH newe-new))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.207))
+  (ID DIGBY86EUSTACE.207))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO We-we))
               (VBD went=en-wendan)
@@ -2804,7 +2804,7 @@
                          (PP (P mid-mid{w})
                              (NP (N-RH sor=i=nesse-sorriness)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.208))
+  (ID DIGBY86EUSTACE.208))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2813,20 +2813,20 @@
                   (NP (D one-a)
                       (N-RH watere-water)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.209))
+  (ID DIGBY86EUSTACE.209))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ Mi-my)
                       (N fader-father))
               (NP-OB1 (PRO me-me))
               (VBD nom-niman))
-              (ID DIGBY86EUSTACE.210))
+  (ID DIGBY86EUSTACE.210))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (NP-SBJ *con*)
               (RP ouer-over)
               (VBD-RH ber-bear)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.211))
+  (ID DIGBY86EUSTACE.211))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2842,7 +2842,7 @@
                                           (NP-OB1 (PRO$ oure-our)
                                                   (NS-RH hater=e-haeteru))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.212))
+  (ID DIGBY86EUSTACE.212))
 
 ( (IP-MAT-SPE (NP-SBJ (D A-a)
                       (ADJ wilde-wild)
@@ -2851,7 +2851,7 @@
                           (VB com-come))
               (VBD-RH gon-ginnan{a})
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.213))
+  (ID DIGBY86EUSTACE.213))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2861,7 +2861,7 @@
                         (ADV sone-soon))
               (ADVP-TMP (ADV-RH anon-anon))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.214))
+  (ID DIGBY86EUSTACE.214))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2871,7 +2871,7 @@
                   (NP (PRO$ his-his)
                       (N-RH mou+te-mouth)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.215))
+  (ID DIGBY86EUSTACE.215))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (CODE {INSSTART})
@@ -2882,7 +2882,7 @@
               (NP-OB1 (D +tat-that))
               (VBD-RH I=sey=e-see)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.216))
+  (ID DIGBY86EUSTACE.216))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2898,7 +2898,7 @@
                         (ALSO eke-eke)
                         (ADV-RH bi=sou+te-besouthan))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.217))
+  (ID DIGBY86EUSTACE.217))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (ADVP (ADV Wel-well{v})
                                   (ADV softe=liche-softly))
@@ -2913,13 +2913,13 @@
                                            (ADJ softe-soft)
                                            (N-RH bed-bed)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.218))
+  (ID DIGBY86EUSTACE.218))
 
 ( (IP-MAT-SPE (VAN I=her=d-herian)
               (BEP be-be)
               (NP-SBJ (NPR+ADJ-RH god=al=mi+gtt=e-godalmighty))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.219))
+  (ID DIGBY86EUSTACE.219))
 
 ( (IP-MAT (NP-LFD (D A-a)
                   (ADJ riche-rich)
@@ -2940,7 +2940,7 @@
           (NP-OB2 (PRO me-me))
           (VBD-RH founde-find)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.220))
+  (ID DIGBY86EUSTACE.220))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -2949,7 +2949,7 @@
               (PP (P to-to)
                   (NP (N-RH kni+gtte-knight)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.221))
+  (ID DIGBY86EUSTACE.221))
 
 ( (IP-IMP-SPE (INTJ A-ah)
               (CODE {COM_LAEME:Four-line_coloured_initial_*A_with_first_element_descending_a_further~line_in_left_margin._Guide_letter_A_in_left_margin})
@@ -2959,13 +2959,13 @@
                           (VB tell=en-tell)
                           (NP-OB2 (PRO-RH +te-thee)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.222))
+  (ID DIGBY86EUSTACE.222))
 
 ( (IP-MAT-SPE (NP-SBJ (D A-a)
                       (N wolf-wolf))
               (ADVP-LOC (ADV +tere-there))
               (VBD com-come))
-              (ID DIGBY86EUSTACE.223))
+  (ID DIGBY86EUSTACE.223))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (NP-SBJ *con*)
@@ -2973,7 +2973,7 @@
               (NP-OB1 (PRO-RH me-me))
               (PUNC .)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.224))
+  (ID DIGBY86EUSTACE.224))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -2984,7 +2984,7 @@
                   (N-RH mou+te-mouth)))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.225))
+  (ID DIGBY86EUSTACE.225))
 
 ( (IP-MAT-SPE (NP-SBJ (D +Te-the)
                       (N+NS plou=men-ploughman))
@@ -2992,7 +2992,7 @@
               (NP-OB1 (D +tat-that))
               (VBD-RH I=sey=e-see)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.226))
+  (ID DIGBY86EUSTACE.226))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -3009,7 +3009,7 @@
                       (CONJP-1 (CONJ and-&)
                                (ADJ-RH cou+t=e-cu:Y)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.227))
+  (ID DIGBY86EUSTACE.227))
 
 ( (IP-MAT-SPE (ADVP (ADV Wel-well{v})
                     (ADV softe=liche-softly))
@@ -3017,7 +3017,7 @@
               (NP-OB1 (PRO me-me))
               (VBD-RH a=redde-ahreddan)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.228))
+  (ID DIGBY86EUSTACE.228))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (ADVP-TMP (ADV se+t+ten-since))
@@ -3026,7 +3026,7 @@
               (NP-OB1 (PRO me-me))
               (VBD-RH fedde-feed)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.229))
+  (ID DIGBY86EUSTACE.229))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ *con*)
@@ -3035,7 +3035,7 @@
               (PP (P to-to)
                   (NP (N-RH kni+gtte-knight)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.230))
+  (ID DIGBY86EUSTACE.230))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Hoe-she))
               (VBD fond-find)
@@ -3060,7 +3060,7 @@
                                  (ADJP (ADV wel-well{v})
                                        (ADJ-RH bri+gtte-bright)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.231))
+  (ID DIGBY86EUSTACE.231))
 
 ( (IP-MAT (NP-SBJ (PRO$ Here-their)
                   (N moder-mother))
@@ -3083,7 +3083,7 @@
                                                 (P for-for)
                                                 (NP (N-RH blisse-bliss)))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.232))
+  (ID DIGBY86EUSTACE.232))
 
 ( (IP-MAT (PP (P To-to)
               (NP (PRO$ hire-her)
@@ -3106,7 +3106,7 @@
               (NP (Q mikel-much)
                   (N-RH glad=nesse-gladness)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.233))
+  (ID DIGBY86EUSTACE.233))
 
 ( (IP-MAT (NP-SBJ-1 (EX +Ter-there))
           (VBD com-come)
@@ -3129,7 +3129,7 @@
                       (TO @to-to)
                       (VB-RH sech=e-seek))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.234))
+  (ID DIGBY86EUSTACE.234))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (PRO Hoe-she))
                     (VBD bi=hoeld-behold)
@@ -3152,7 +3152,7 @@
                                                            (ADJP (ADV wel-well{v})
                                                                  (ADJ-RH loue=liche-lovely)))))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.235))
+  (ID DIGBY86EUSTACE.235))
 
 ( (IP-IMP-SPE (NP-VOC (N Dame-dame))
               (IP-MAT-PRN (VBD quad-cweYan)
@@ -3176,7 +3176,7 @@
                                               (ADJS nekste-nigh)
                                               (N-RH howse-house)))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.236))
+  (ID DIGBY86EUSTACE.236))
 
 ( (QTP (NP-VOC (N Sire-sir))
        (IP-MAT-PRN (VBD quad-cweYan)
@@ -3184,7 +3184,7 @@
        (NP-SBJ (NS kni+gtt=es-knight)
                (NUMP (NUM-RH tweyne-two)))
        (LINEBREAK \))
-       (ID DIGBY86EUSTACE.237))
+  (ID DIGBY86EUSTACE.237))
 
 ( (IP-MAT-SPE (ADVP (ADV Wel-well{w}))
               (NP-SBJ (PRO +tou-thou))
@@ -3192,14 +3192,14 @@
               (VB I=cnow=en-know)
               (NP-OB1 (Q-RH beyne-both))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.238))
+  (ID DIGBY86EUSTACE.238))
 
 ( (QTP (INTJ Welcome-welcome)
        (NP-VOC (PRO$ mi-my)
                (ADJ leue-le:of)
                (N-RH spowse-spouse))
        (LINEBREAK \))
-       (ID DIGBY86EUSTACE.239))
+  (ID DIGBY86EUSTACE.239))
 
 ( (IP-MAT-SPE (NP-VOC (PRO$ Mi-my)
                       (CODE {COM_LAEME:Four-line_coloured_initial_*M._Guide_letter_M_visible_beneath})
@@ -3222,7 +3222,7 @@
                                                                 (N neb-neb)))
                                                         (ADJ-RH I=sene-gese:ne))))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.240))
+  (ID DIGBY86EUSTACE.240))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (NP-VOC (N Lem=man-leman))
                             (NP-SBJ (PRO ich-I))
@@ -3239,7 +3239,7 @@
                                            (N-RH kare-care)))))
               (PUNC .)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.241))
+  (ID DIGBY86EUSTACE.241))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I))
               (VBP wot-witan)
@@ -3248,7 +3248,7 @@
               (NEG ne-ne)
               (VBP-RH wene-we:nan)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.242))
+  (ID DIGBY86EUSTACE.242))
 
 ( (CP-QUE-SPE (NP-VOC (PRO$ Mi-my)
                       (N lef=man-leman))
@@ -3262,7 +3262,7 @@
                                   (N house-house)))
                           (ADVP-TMP (ADV-RH a=non-anon)))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.243))
+  (ID DIGBY86EUSTACE.243))
 
 ( (IP-MAT-SPE (ADVP-LOC (ADV +Tere-there))
               (NP-SBJ (PRO hy-they))
@@ -3271,7 +3271,7 @@
                     (CONJ and-&)
                     (ADJ-RH sound=e-sound))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.244))
+  (ID DIGBY86EUSTACE.244))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (VBP make-make)
@@ -3281,14 +3281,14 @@
                              (NP (Q mikel-much)
                                  (N-RH blis-bliss))))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.245))
+  (ID DIGBY86EUSTACE.245))
 
 ( (IP-MAT-SPE (VAN +Tonk=ed-thank)
               (BEP be-be)
               (NP-SBJ (ADJ swete-sweet)
                       (NPR ihesus-ihesus))
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.246))
+  (ID DIGBY86EUSTACE.246))
 
 ( (IP-MAT-SPE (PP (P Of-of{f})
                   (NP (N kare-care)))
@@ -3296,7 +3296,7 @@
               (BEP ben-be)
               (VAN-RH oun=bound=e-unbind)
               (LINEBREAK \))
-              (ID DIGBY86EUSTACE.247))
+  (ID DIGBY86EUSTACE.247))
 
 ( (IP-MAT (NP-SBJ (Q Bo+te-both)
                   (PRO hy-they))
@@ -3315,14 +3315,14 @@
                                     (MD mi+gten-may)
                                     (VB-RH go=n-go)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.248))
+  (ID DIGBY86EUSTACE.248))
 
 ( (IP-MAT (VAN Welcom=ed-welcome)
           (NP-SBJ (PRO hy-they))
           (BED weren-be)
           (ADVP (ADV-RH fayre-fair))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.249))
+  (ID DIGBY86EUSTACE.249))
 
 ( (IP-MAT (NP-SBJ (NS Men-man))
           (VBD bed=en-biddan)
@@ -3341,7 +3341,7 @@
                          (NP (N-RH maselin-mazelin)))))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.250))
+  (ID DIGBY86EUSTACE.250))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -3354,7 +3354,7 @@
                   (ADJP (ADJ-RH fayre-fair)))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.251))
+  (ID DIGBY86EUSTACE.251))
 
 ( (IP-MAT (NP-SBJ (NPR Sire-sir)
                   (NPR ewstace-ewstace))
@@ -3371,7 +3371,7 @@
                              (ADJ harde-hard)
                              (N-RH fare-faru)))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.252))
+  (ID DIGBY86EUSTACE.252))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (NS kni+gtt=es-knight))
@@ -3379,7 +3379,7 @@
           (PP (P for-for)
               (NP (N-RH blisse-bliss)))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.253))
+  (ID DIGBY86EUSTACE.253))
 
 ( (IP-MAT (IP-MAT-1 (NEG Ne-ne)
                     (MD mi+gtte-may)
@@ -3405,7 +3405,7 @@
                                (CONJ and-&)
                                (VB-RH cuss=e-kiss))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.254))
+  (ID DIGBY86EUSTACE.254))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N enpERovr-emperor))
@@ -3426,7 +3426,7 @@
                                                      (NP-SBJ (PRO hy-they))
                                                      (BED-RH were-be))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.255))
+  (ID DIGBY86EUSTACE.255))
 
 ( (IP-MAT (NP-OB1 (PRO He-he))
           (VBD sente-send)
@@ -3446,7 +3446,7 @@
                                           (VBD found=en-find)
                                           (ADVP-LOC (ADV-RH +tere-there))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.256))
+  (ID DIGBY86EUSTACE.256))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD let-lae:tan)
@@ -3470,7 +3470,7 @@
                                        (QP (ADV sui+te-swi:De)
                                            (Q-RH fele-fela))))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.257))
+  (ID DIGBY86EUSTACE.257))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (NS best=es-beast)
@@ -3492,7 +3492,7 @@
                 (ADJ-RH mild=e-mild))
           (PUNC .)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.258))
+  (ID DIGBY86EUSTACE.258))
 
 ( (IP-MAT (NEG Ne-ne)
           (MD mi+gtteN-may)
@@ -3501,7 +3501,7 @@
           (NP-OB1 (PRO hoem-them))
           (VB-RH qvell=e-cwellan)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.259))
+  (ID DIGBY86EUSTACE.259))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD let-lae:tan)
@@ -3528,7 +3528,7 @@
                                  (NP-OB1 (N fuir-fire))
                                  (RP-RH a=bouten-about{p}))))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.260))
+  (ID DIGBY86EUSTACE.260))
 
 ( (IP-MAT (NP-SBJ (Q All=e-all)
                   (PRO hy-they))
@@ -3536,7 +3536,7 @@
           (ADVP-LOC (ADV +tere-there))
           (VAN-RH I=bren=de-burn)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.261))
+  (ID DIGBY86EUSTACE.261))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (NS soul=es-soul))
@@ -3544,7 +3544,7 @@
               (NP (NPR heuene-heaven)))
           (VBD-RH wend=e-wendan)
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.262))
+  (ID DIGBY86EUSTACE.262))
 
 ( (IP-MAT (PP-1 (P Of-of)
                 (NP (N pine-pi:ne)))
@@ -3553,7 +3553,7 @@
           (PP (P wi+t=houten-without{os})
               (PP *ICH*-1))
           (LINEBREAK \))
-          (ID DIGBY86EUSTACE.263))
+  (ID DIGBY86EUSTACE.263))
 
 ( (IP-MAT (VBP Bidde-biddan)
           (NP-SBJ (PRO we-we)
@@ -3592,8 +3592,8 @@
                                          (PP (P wi+t=houten-without)
                                              (NP (N-RH hende-end)))))))
           (PUNC .))
-          (ID DIGBY86EUSTACE.264))
+  (ID DIGBY86EUSTACE.264))
 
 ( (FRAG (FW AMen.)
         (LINEBREAK \\))
-        (ID DIGBY86EUSTACE.265))
+  (ID DIGBY86EUSTACE.265))

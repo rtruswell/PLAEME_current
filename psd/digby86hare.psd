@@ -8,7 +8,7 @@
           (FW EN)
           (FW ENGLEIS')
           (LINEBREAK \))
-          (ID DIGBY86HARE.1))
+  (ID DIGBY86HARE.1))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (CODE {COM_LAEME:Four-line_coloured_initial_capital_thorn})
@@ -62,7 +62,7 @@
                                                      (NP (PRO$ his-his)
                                                          (N-RH helbowe-elbow)))))))))
           (LINEBREAK \))
-          (ID DIGBY86HARE.2))
+  (ID DIGBY86HARE.2))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P mid-mid{w})
@@ -84,7 +84,7 @@
                       (NP (D +te-the)
                           (N-RH hare-hare)))))
           (LINEBREAK \))
-          (ID DIGBY86HARE.3))
+  (ID DIGBY86HARE.3))
 
 ( (IP-MAT (ADVP-TMP (ADV +Tenne-then))
           (MD mai-may)
@@ -92,7 +92,7 @@
           (ADVP (ADV wel-well{w}))
           (VB-RH far=e-faran)
           (LINEBREAK \))
-          (ID DIGBY86HARE.4))
+  (ID DIGBY86HARE.4))
 
 ( (IP-MAT (NP-LFD (NP (D +Te-the)
                       (N hare-hare))
@@ -349,7 +349,7 @@
                   (N mi+gtte-might))
           (VAN-RH a=lai=d-alecgan)
           (LINEBREAK \))
-          (ID DIGBY86HARE.5))
+  (ID DIGBY86HARE.5))
 
 ( (IP-MAT (ADVP-TMP (ADV +Tenne-then))
           (MD mi+gtt-may)
@@ -371,7 +371,7 @@
                                     (NP-SBJ (MAN mon-man))
                                     (VBP-RH wile-will{mv}))))
           (LINEBREAK \))
-          (ID DIGBY86HARE.6))
+  (ID DIGBY86HARE.6))
 
 ( (IP-IMP (NP-SBJ (D +Te-the)
                   (N mon-man)
@@ -389,7 +389,7 @@
           (NP-VOC (NPR sire-sir)
                   (N-RH hare-hare))
           (LINEBREAK \))
-          (ID DIGBY86HARE.7))
+  (ID DIGBY86HARE.7))
 
 ( (IP-MAT (NP-SBJ (NPR God-god))
           (NP-OB2 (PRO +te-thee))
@@ -413,8 +413,8 @@
                                                (PP (P in-in{p})
                                                    (NP (N-RH bred-bread))))))))
           (PUNC .))
-          (ID DIGBY86HARE.8))
+  (ID DIGBY86HARE.8))
 
 ( (LATIN (FW AMen.)
          (LINEBREAK \\))
-         (ID DIGBY86HARE.9))
+  (ID DIGBY86HARE.9))

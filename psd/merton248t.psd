@@ -20,7 +20,7 @@
                           (ADJ hol=y-holy)
                           (N gastE-ghost)))))
           (LINEBREAK \))
-          (ID MERTON248T.1))
+  (ID MERTON248T.1))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -37,7 +37,7 @@
                   (PP (P of-of)
                       (NP (N trowe-tre:ow)))))
           (LINEBREAK \))
-          (ID MERTON248T.2))
+  (ID MERTON248T.2))
 
 ( (IP-MAT (PP (P of-of)
               (NP (D yis-these)
@@ -47,7 +47,7 @@
                   (NPR Ion-Ion)
                   (CODE {COM_LAEME:words_partially_cut_away}))
           (LINEBREAK \\))
-          (ID MERTON248T.3))
+  (ID MERTON248T.3))
 
 ( (IP-MAT (CODE {PAGE~f166r})
           (CODE {COM_LAEME:In_bottom_margin})
@@ -66,7 +66,7 @@
                               (VBD delyuER-deliver)
                               (NP-OB1 (PRO me-me)))))
           (LINEBREAK \))
-          (ID MERTON248T.4))
+  (ID MERTON248T.4))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -83,7 +83,7 @@
                               (VBD ryth=it-right)
                               (NP-OB1 (PRO me-me)))))
           (LINEBREAK \))
-          (ID MERTON248T.5))
+  (ID MERTON248T.5))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -97,7 +97,7 @@
                               (VBD brow-bring)
                               (NP-OB1 (PRO me-me)))))
           (LINEBREAK \\))
-          (ID MERTON248T.6))
+  (ID MERTON248T.6))
 
 ( (FRAG (CODE {PAGE~f166ra})
         (CODE {COM_LAEME:Text_proper_starts_here})
@@ -113,7 +113,7 @@
         (LINEBREAK \)
         (FW SuBDIUISIO)
         (FW .))
-        (ID MERTON248T.7))
+  (ID MERTON248T.7))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD sent-send)
@@ -125,7 +125,7 @@
                   (ADJP (ADJS myth=y=estE-mighty)
                         (CODE {COM_LAEME:lower_case_final_e_is_used_to_realise_a_final_downward_loop_often_used~in_later_Anglicana_for_a_plural_ending,_though_here_clearly_not_intended~as_such})))
           (PUNC .))
-          (ID MERTON248T.8))
+  (ID MERTON248T.8))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD sent-send)
@@ -135,7 +135,7 @@
                   (N leche-leech)
                   (ADJP (ADJS scil\=estE-skill)))
           (PUNC .))
-          (ID MERTON248T.9))
+  (ID MERTON248T.9))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD sent-send)
@@ -149,25 +149,25 @@
                              (N by=er-buyer)))
                   (ADJP (ADJS rych=estE-rich)))
           (PUNC .))
-          (ID MERTON248T.10))
+  (ID MERTON248T.10))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD sent-send)
           (PP (P fro-from)
               (ADVP-LOC (ADV a=boue-above)))
           (LINEBREAK \))
-          (ID MERTON248T.11))
+  (ID MERTON248T.11))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (VBD toche-take)
           (NP-OB1 (PRO me-me)))
-          (ID MERTON248T.12))
+  (ID MERTON248T.12))
 
 ( (FRAG (CODE {COM_LAEME:A_hatched_siglum_perhaps_marking_the_following_Latin_words})
         (FW PrimO)
         (FW DICO))
-        (ID MERTON248T.13))
+  (ID MERTON248T.13))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (VBD sent-send)
@@ -176,7 +176,7 @@
           (NP-OB1 (D a-a)
                   (N ouER=cuMmy=er-overcomer)
                   (ADJP (ADJS myth=i=estE-mighty))))
-                  (ID MERTON248T.14))
+  (ID MERTON248T.14))
 
 ( (FRAG (FW &)
         (FW SCilicet)
@@ -219,7 +219,7 @@
         (FW .)
         (INS DE_LIGNO)
         (CODE {COM_LAEME:ins,_in_left_hand_margin}))
-        (ID MERTON248T.15))
+  (ID MERTON248T.15))
 
 ( (IP-MAT (PP (P In-in{p})
               (NP (D ys-these)
@@ -230,13 +230,13 @@
                   (PRO$ hys-his)
                   (N-RH myth-might))
           (PUNC .))
-          (ID MERTON248T.16))
+  (ID MERTON248T.16))
 
 ( (IP-MAT (CONJ bot-bu:tan)
           (ADVP-LOC (ADV yor-there))
           (NP-SBJ (PRO he-he))
           (VBD ley-le:ogan))
-          (ID MERTON248T.17))
+  (ID MERTON248T.17))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -245,11 +245,11 @@
           (NEG nowth-not)
           (NP-OB1 (N-RH ryth-right))
           (PUNC .))
-          (ID MERTON248T.18))
+  (ID MERTON248T.18))
 
 ( (IP-IMP (VBI ette-eat)
           (PP (ADV+P yor=of-thereof)))
-          (ID MERTON248T.19))
+  (ID MERTON248T.19))
 
 ( (IP-MAT (NP-SBJ (PRO hy-I))
           (MD wil-will)
@@ -257,7 +257,7 @@
           (VB-RH plydh-plihtan)
           (PUNC :)
           (LINEBREAK \))
-          (ID MERTON248T.20))
+  (ID MERTON248T.20))
 
 ( (IP-MAT (CONJ aNd-&)
           (ADJP (ADJ witt=y-witig)
@@ -276,7 +276,7 @@
                           (PP (P as-as)
                               (NP (PRO-RH he-he)))))
           (PUNC .))
-          (ID MERTON248T.21))
+  (ID MERTON248T.21))
 
 ( (FRAG (FW In)
         (FW SerMONE)
@@ -289,7 +289,7 @@
         (FW Tib^I)
         (FW DomiNE<)
         (CODE {COM_LAEME:crossed_through]))
-        (ID MERTON248T.22))
+  (ID MERTON248T.22))
 
 ( (IP-MAT (NP-SBJ (PRO hit-it))
           (BED was-be)
@@ -341,7 +341,7 @@
                           (N deliuer=yng-deliver)))))
           (PUNC .)
           (LINEBREAK \\))
-          (ID MERTON248T.23))
+  (ID MERTON248T.23))
 
 ( (IP-MAT (INS '[DE]_AGNO')
           (CODE {COM_LAEME:ins,_in_left_hand_margin})
@@ -361,7 +361,7 @@
                   (N boke-book)))
           (PP (P of-of)
               (NP (ADJ+N derne=scew=ynd-derneshowing))))
-              (ID MERTON248T.24))
+  (ID MERTON248T.24))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -379,7 +379,7 @@
                                                  (NP (NUM seweN-seven)
                                                      (LINEBREAK \)
                                                      (NS hene-eye))))))))
-                                                     (ID MERTON248T.25))
+  (ID MERTON248T.25))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO he-he))
@@ -400,10 +400,10 @@
                                                         (NS sel=ys-seal))))))))
           (PUNC .)
           (CODE (CODE DEL)
-                (XXX W))
+                (MISC W))
           (CODE {COM_LAEME:del,_crossed_through})
           (PUNC .))
-          (ID MERTON248T.26))
+  (ID MERTON248T.26))
 
 ( (IP-MAT (INS [IN]DUCTIO)
           (CODE {COM_LAEME:ins,_in_left_margin})
@@ -413,7 +413,7 @@
           (BEP ys-be)
           (NP-OB1 (NPR ihESu-ihESu)
                   (NPR crist-christ)))
-                  (ID MERTON248T.27))
+  (ID MERTON248T.27))
 
 ( (FRAG (CONJ and-&)
         (NP-SBJ (D tat-that))
@@ -430,7 +430,7 @@
                                     (NP (D a-a)
                                         (N lombe-lamb)))))))
         (PUNC .))
-        (ID MERTON248T.28))
+  (ID MERTON248T.28))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N lombe-lamb))
@@ -438,14 +438,14 @@
           (BEP ys-be)
           (ADJP (ADJ meke-meek))
           (PUNC .))
-          (ID MERTON248T.29))
+  (ID MERTON248T.29))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N lombe-lamb))
           (BEP is-be)
           (ADJP (ADJ clene-clean))
           (PUNC .))
-          (ID MERTON248T.30))
+  (ID MERTON248T.30))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N lombe-lamb))
@@ -456,7 +456,7 @@
           (PP (P als-as)
               (NP (NPR ihESu-ihESu)
                   (NPR cristE-christ))))
-                  (ID MERTON248T.31))
+  (ID MERTON248T.31))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (BED was-be)
@@ -465,7 +465,7 @@
                 (ADJ cle\ne-clean))
           (ADJP (ADJ meke-meek))
           (PUNC .'))
-          (ID MERTON248T.32))
+  (ID MERTON248T.32))
 
 ( (FRAG (FW &)
         (FW IdeO)
@@ -475,12 +475,12 @@
         (FW AGNus)
         (FW InNO\CEnS)
         (FW .))
-        (ID MERTON248T.33))
+  (ID MERTON248T.33))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (BED was-be)
           (ADJP (ADJ clene-clean)))
-          (ID MERTON248T.34))
+  (ID MERTON248T.34))
 
 ( (FRAG (FW &)
         (FW IdeO)
@@ -493,13 +493,13 @@
         (FW CORAm)
         (FW TOnDEnTE)
         (FW .))
-        (ID MERTON248T.35))
+  (ID MERTON248T.35))
 
 ( (IP-MAT (NP-SBJ (PRO he-he))
           (BEP ys-be)
           (ADJP (ADJ nottyl=ful-notuful))
           (PUNC .))
-          (ID MERTON248T.36))
+  (ID MERTON248T.36))
 
 ( (FRAG (FW &)
         (FW IdeO)
@@ -514,7 +514,7 @@
         (FW InSTRUCTiO)
         (FW .)
         (LINEBREAK \))
-        (ID MERTON248T.37))
+  (ID MERTON248T.37))
 
 ( (IP-MAT (CONJ bot-but)
           (NP-SBJ (PRO he-he))
@@ -535,7 +535,7 @@
                                       (CODE {COM_LAEME:sic})
                                       (NS syn=is-sin)))))
           (PUNC .))
-          (ID MERTON248T.38))
+  (ID MERTON248T.38))
 
 ( (IP-MAT (CONJ for-for)
           (LINEBREAK \)
@@ -547,7 +547,7 @@
                   (FW PATer)
                   (FW NOSTer)))
           (PUNC .))
-          (ID MERTON248T.39))
+  (ID MERTON248T.39))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -555,7 +555,7 @@
           (LINEBREAK \)
           (NP-OB1 (D yis-these))
           (PUNC .))
-          (ID MERTON248T.40))
+  (ID MERTON248T.40))
 
 ( (IP-MAT (NP-VOC (PRO$ owre-our)
                   (N fader-father)
@@ -571,7 +571,7 @@
           (NP-SBJ (PRO$ yin-thy)
                   (N name-name))
           (PUNC .))
-          (ID MERTON248T.41))
+  (ID MERTON248T.41))
 
 ( (IP-MAT (MD mot-mo:t)
           (VB cuM-come)
@@ -580,7 +580,7 @@
           (NP-SBJ (PRO$ yin-thy)
                   (N kyn\gE=dome-kingdom))
           (PUNC .))
-          (ID MERTON248T.42))
+  (ID MERTON248T.42))
 
 ( (IP-MAT (ADVP (ADV ouER=al-overall))
           (BEP be-be)
@@ -596,7 +596,7 @@
                              (CODE {COM_LAEME:sic})))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.43))
+  (ID MERTON248T.43))
 
 ( (IP-IMP (NP-OB1 (PRO$ owre-our)
                   (Q+ADJ ilke=day-eachday)
@@ -606,7 +606,7 @@
           (VBI gyf-give)
           (NP-OB2 (PRO vs-us))
           (PUNC .))
-          (ID MERTON248T.44))
+  (ID MERTON248T.44))
 
 ( (IP-IMP (CONJ and-&)
           (NP-OB1 (PRO$ owre-our)
@@ -615,7 +615,7 @@
           (VBI for=gys-forgive)
           (CODE {COM_LAEME:sic})
           (CODE (CODE DEL)
-                (XXX VF))
+                (MISC VF))
           (CODE {COM_LAEME:del,_subpuncted})
           (LINEBREAK \)
           (NP-OB2 (PRO vs-us))
@@ -635,7 +635,7 @@
                                                       (PP (P a\=geyn-against)
                                                           (NP (PRO vs-us)))))))))
           (PUNC .))
-          (ID MERTON248T.45))
+  (ID MERTON248T.45))
 
 ( (IP-IMP (VBI scil-shield)
           (NP-OB1 (PRO vs-us))
@@ -652,7 +652,7 @@
                              (N =thynd-thing)
                              (CODE {COM_LAEME:sic})))))
           (PUNC .))
-          (ID MERTON248T.46))
+  (ID MERTON248T.46))
 
 ( (IP-MAT (NP-VOC (PRO$ owre-our)
                   (N fadER-father)
@@ -668,7 +668,7 @@
           (NP-SBJ (PRO$ yin-thy)
                   (N name-name))
           (PUNC .))
-          (ID MERTON248T.47))
+  (ID MERTON248T.47))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -679,7 +679,7 @@
             (PP (P a=geyn-against)
                 (NP (N lecch=ery-lechery))))
         (PUNC .))
-        (ID MERTON248T.48))
+  (ID MERTON248T.48))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (N lecch=ow-lecher))
@@ -695,7 +695,7 @@
                          (NP (ADJ fole-fol)
                              (N yingE-thing))))
           (PUNC .))
-          (ID MERTON248T.49))
+  (ID MERTON248T.49))
 
 ( (IP-MAT (MD mot-mo:t)
           (VB cuM-come)
@@ -704,7 +704,7 @@
           (NP-SBJ (PRO$ yin-thy)
                   (N kyngE=daM-kingdom))
           (PUNC .))
-          (ID MERTON248T.50))
+  (ID MERTON248T.50))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV here-here))
@@ -713,7 +713,7 @@
             (PP (P a=geyn-against)
                 (LINEBREAK \)
                 (NP (N couetys-covetise)))))
-                (ID MERTON248T.51))
+  (ID MERTON248T.51))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO yei-they))
@@ -731,7 +731,7 @@
                                     (PP (P to-to)
                                         (NP *T*-2))))))
           (PUNC .))
-          (ID MERTON248T.52))
+  (ID MERTON248T.52))
 
 ( (IP-MAT (NP-SBJ (D yat-that))
           (BEP ys-be)
@@ -740,7 +740,7 @@
                   (PP (P of-of)
                       (NP (NPR heueN-heaven))))
           (LINEBREAK \))
-          (ID MERTON248T.53))
+  (ID MERTON248T.53))
 
 ( (IP-MAT (ADVP (ADV ouER=al-overall))
           (BEP be-be)
@@ -754,7 +754,7 @@
               (PP (P iN-on{p})
                   (NP (NPR e.-e.)
                       (CODE {COM_LAEME:Abbreviation_of_repeated_word_"earth"})))))
-                      (ID MERTON248T.54))
+  (ID MERTON248T.54))
 
 ( (FRAG (INTJ lo-lo)
         (LINEBREAK \)
@@ -764,7 +764,7 @@
                 (PP (P a=geyn-against)
                     (NP (N pR^ide-pride))))
         (PUNC .))
-        (ID MERTON248T.55))
+  (ID MERTON248T.55))
 
 ( (IP-MAT (CONJ for-for)
           (NP-LFD (D ye-the)
@@ -778,7 +778,7 @@
                   (ADJ awne-own)
                   (N wyl-will))
           (PUNC .))
-          (ID MERTON248T.56))
+  (ID MERTON248T.56))
 
 ( (IP-MAT (CONJ bot-but)
           (NP-SBJ (PRO he-he))
@@ -791,7 +791,7 @@
                   (NP (NPR$ god=ys-god)
                       (N wille-will))))
           (PUNC .))
-          (ID MERTON248T.57))
+  (ID MERTON248T.57))
 
 ( (IP-IMP (NP-POS (PRO$ ore-our)
                   (ADJP (Q ylk-each)
@@ -803,7 +803,7 @@
           (CODE {COM_LAEME:Abbreviation_of_repeated_words_of_Pater_Noster_-_"day's_bread_thou_give"})
           (NP-OB2 (PRO vs-us))
           (PUNC .))
-          (ID MERTON248T.58))
+  (ID MERTON248T.58))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -812,7 +812,7 @@
                 (PP (P a=geyn-against)
                     (NP (N glotiN\ny-gluttony))))
         (PUNC .))
-        (ID MERTON248T.59))
+  (ID MERTON248T.59))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -829,11 +829,11 @@
                                               (PP (P of-of)
                                                   (NP *T*-1)))))))
           (PUNC .))
-          (ID MERTON248T.60))
+  (ID MERTON248T.60))
 
 ( (IP-MAT (CONJ aNd-&)
           (CODE (CODE DEL)
-                (XXX GODYS))
+                (MISC GODYS))
           (CODE {COM_LAEME:del,_crossed_through_and_subpuncted})
           (NP-SBJ (NPR god-god))
           (VBP geu=ys-give)
@@ -849,7 +849,7 @@
                                               (PP (P of-of)
                                                   (NP *T*-1)))))))
           (PUNC .))
-          (ID MERTON248T.61))
+  (ID MERTON248T.61))
 
 ( (IP-IMP (CONJ aNd-&)
           (NP-OB1 (PRO$ o.-o.)
@@ -880,7 +880,7 @@
                                                           (LINEBREAK \)
                                                           (NP (PRO vs-us)))))))))
           (PUNC .))
-          (ID MERTON248T.62))
+  (ID MERTON248T.62))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -889,7 +889,7 @@
                 (PP (P a=geyn-against)
                     (NP (N eN=vie-envy))))
         (PUNC .))
-        (ID MERTON248T.63))
+  (ID MERTON248T.63))
 
 ( (IP-MAT (CONJ for-for)
           (NP-LFD (ADJ en\wyus-envious)
@@ -898,7 +898,7 @@
           (NP-SBJ-RSP (PRO he-he))
           (VBP for=geu=ys-forgive)
           (PUNC .))
-          (ID MERTON248T.64))
+  (ID MERTON248T.64))
 
 ( (IP-IMP (CONJ bot-but)
           (LINEBREAK \)
@@ -919,7 +919,7 @@
                           (VB for=geu=e-forgive)
                           (NP-OB1 (PRO ye-thee))))
           (PUNC .))
-          (ID MERTON248T.65))
+  (ID MERTON248T.65))
 
 ( (IP-IMP (VBI scy-scy)
           (LINEBREAK \)
@@ -930,7 +930,7 @@
           (CODE (CODE DEL)
                 (CODE {COM_LAEME:del,_crossed_through_and_subpuncted})
                 (CONJ aNd-&)))
-                (ID MERTON248T.66))
+  (ID MERTON248T.66))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -939,7 +939,7 @@
                 (N or-a:r)
                 (PP (P a=geyn-against)
                     (NP (N slau=tE-sloth)))))
-                    (ID MERTON248T.67))
+  (ID MERTON248T.67))
 
 ( (IP-MAT (CONJ for-for)
           (LINEBREAK \)
@@ -959,7 +959,7 @@
                   (TO to-to)
                   (VB tempt=E-tempt))
           (PUNC .))
-          (ID MERTON248T.68))
+  (ID MERTON248T.68))
 
 ( (IP-IMP (CONJ aNd-&)
           (PP (ADV+P yor=for-therefore))
@@ -969,7 +969,7 @@
                   (PP (P of-of)
                       (NP (NS werc=ES-work))))
           (PUNC .))
-          (ID MERTON248T.69))
+  (ID MERTON248T.69))
 
 ( (FRAG (CONJP (CONJ aNd-&)
                (PP (P fro-from)
@@ -979,7 +979,7 @@
                        (ADJ w.-w.)
                        (CODE {COM_LAEME:Abbreviation_of_repeated_words_of_Pater_Noster_-_"all_other_wicked"})
                        (NS thing=E-thing)))))
-                       (ID MERTON248T.70))
+  (ID MERTON248T.70))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -989,7 +989,7 @@
                 (PP (P a=geynis-against)
                     (NP (N wrath=e-wrath))))
         (PUNC .))
-        (ID MERTON248T.71))
+  (ID MERTON248T.71))
 
 ( (IP-MAT (CONJ for-for)
           (PP (P waN-when)
@@ -1004,9 +1004,9 @@
           (NP-SBJ (N scyl-skill))
           (BEP is-be)
           (ADVP-DIR (ADV a=way-away))
-          (VAN weN-wendan)
+          (VBN weN-wendan)
           (PUNC .))
-          (ID MERTON248T.72))
+  (ID MERTON248T.72))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV herE-here))
@@ -1019,14 +1019,14 @@
                         (PUNC .)
                         (CONJP (CONJ aNd-&)
                                (WNP (WPRO wat-what)
-                                    (ADJP (ADJ more-more))))
+                                    (ADJP (ADJR more-more))))
                         (PUNC .)
                         (CONJP (CONJ aNd-&)
                                (NP (NUM seweN-seven)
                                    (NS ene-eye))))))
         (PUNC .)
         (LINEBREAK \))
-        (ID MERTON248T.73))
+  (ID MERTON248T.73))
 
 ( (CP-QUE (WNP-1 (WPRO wat-what)
                  (PP *ICH*-2))
@@ -1044,7 +1044,7 @@
                                 (NP (D ye-the)
                                     (ADJ hal=y=-holy)
                                     (N =gastE-ghost)))))))
-                                    (ID MERTON248T.74))
+  (ID MERTON248T.74))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO yai-they))
@@ -1073,14 +1073,14 @@
                                                                  (PP (P to-to)
                                                                      (NP (PRO ye-thee)))))))))))
           (PUNC .))
-          (ID MERTON248T.75))
+  (ID MERTON248T.75))
 
 ( (IP-IMP (CONJ for-for)
           (VBI se-see)
           (PP (P a=boweN-above)
               (NP (PRO ye-thee)))
           (PUNC .))
-          (ID MERTON248T.76))
+  (ID MERTON248T.76))
 
 ( (IP-IMP (VBI se-see)
           (CODE (CODE DEL)
@@ -1090,13 +1090,13 @@
           (PP (P wyt=hyn=-within)
               (NP (PRO =the-thee)))
           (PUNC .))
-          (ID MERTON248T.77))
+  (ID MERTON248T.77))
 
 ( (IP-IMP (VBI se-see)
           (PP (P be=ne=-beneath)
               (NP (PRO =the-thee)))
           (PUNC .))
-          (ID MERTON248T.78))
+  (ID MERTON248T.78))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1104,14 +1104,14 @@
           (PP (P be=hin=-behind)
               (NP (PRO =the-thee)))
           (PUNC .))
-          (ID MERTON248T.79))
+  (ID MERTON248T.79))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
           (PP (P be=for=-before{p})
               (NP (PRO =the-thee)))
           (PUNC .))
-          (ID MERTON248T.80))
+  (ID MERTON248T.80))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1121,7 +1121,7 @@
                   (LINEBREAK \)
                   (N alwe-half)))
           (PUNC .))
-          (ID MERTON248T.81))
+  (ID MERTON248T.81))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1129,7 +1129,7 @@
               (NP (PRO$ yi-thy)
                   (ADJ lef=-left)
                   (N =alwe-half))))
-                  (ID MERTON248T.82))
+  (ID MERTON248T.82))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1138,7 +1138,7 @@
                   (PUNC .')
                   (LINEBREAK \)
                   (NP-SBJ (NPR god-god))))
-                  (ID MERTON248T.83))
+  (ID MERTON248T.83))
 
 ( (IP-IMP (CONJ aNd-&)
           (VBI be=ald=-behold)
@@ -1160,7 +1160,7 @@
                   (PP (P of-of)
                       (NP (N wis=dome-wisdom)))))
           (PUNC .))
-          (ID MERTON248T.84))
+  (ID MERTON248T.84))
 
 ( (FRAG (FW Quia)
         (FW SAPientIA)
@@ -1170,20 +1170,20 @@
         (FW CAusIS)
         (FW ALTISSIMIS)
         (FW .))
-        (ID MERTON248T.85))
+  (ID MERTON248T.85))
 
 ( (IP-IMP (VBI be=al-behold)
           (PP (P wyt=yn=-within)
               (NP (PRO =the-thee)))
           (LINEBREAK \))
-          (ID MERTON248T.86))
+  (ID MERTON248T.86))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (D tat-that))
           (BEP es-be)
           (NP-OB1 (PRO$ yi-thy)
                   (N sawle-soul)))
-                  (ID MERTON248T.87))
+  (ID MERTON248T.87))
 
 ( (IP-IMP (CONJ for-for)
           (PP (P hyf-if)
@@ -1204,7 +1204,7 @@
                       (LINEBREAK \)
                       (NP (N vndir=staN=yngE-understand)))))
           (PUNC .))
-          (ID MERTON248T.88))
+  (ID MERTON248T.88))
 
 ( (FRAG (FW Quia)
         (FW InTeLLIGerE)
@@ -1212,7 +1212,7 @@
         (FW InTus)
         (FW LEGerE)
         (FW .))
-        (ID MERTON248T.89))
+  (ID MERTON248T.89))
 
 ( (IP-MAT (CONJ for-for)
           (LINEBREAK \)
@@ -1220,7 +1220,7 @@
           (BEP es-be)
           (NP-OB1 (N in=red=yngE-inread))
           (PUNC .))
-          (ID MERTON248T.90))
+  (ID MERTON248T.90))
 
 ( (IP-IMP (VBI lat-lae:tan)
           (IP-INF (NP-SBJ (PRO$ yi-thy)
@@ -1229,12 +1229,12 @@
                   (BE be-be)
                   (NP-SBJ (PRO$ yn-thy)
                           (N boke-book))))
-                          (ID MERTON248T.91))
+  (ID MERTON248T.91))
 
 ( (IP-IMP (CONJ aNd-&)
           (VBI rede-read)
           (PP (ADV+P yer=yngE-therein{p})))
-          (ID MERTON248T.92))
+  (ID MERTON248T.92))
 
 ( (FRAG (FW SicuD)
         (FW Pr^IUS)
@@ -1242,7 +1242,7 @@
         (FW DICTUm)
         (FW EST)
         (FW .))
-        (ID MERTON248T.93))
+  (ID MERTON248T.93))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1259,7 +1259,7 @@
                   (PP (P of-of)
                       (NP (N dreye-dread)))))
           (PUNC .))
-          (ID MERTON248T.94))
+  (ID MERTON248T.94))
 
 ( (IP-IMP (CONJ aNd-&)
           (PP (ADV+P yar=thow-therethrough)
@@ -1267,7 +1267,7 @@
           (VBI for\=sake-forsake)
           (NP-OB1 (N syn-sin))
           (PUNC .))
-          (ID MERTON248T.95))
+  (ID MERTON248T.95))
 
 ( (IP-IMP (VBI se-see)
           (PP (P be=yn=-behind)
@@ -1279,7 +1279,7 @@
                           (LINEBREAK \)
                           (IP-SUB (NP-SBJ *T*-1)
                                   (BEP is-be)
-                                  (VAN go=n-go))))
+                                  (VBN go=n-go))))
           (PUNC .)
           (ADVP (WADV+ADV war=wyt=al-wherewithal))
           (PUNC .)
@@ -1290,7 +1290,7 @@
                       (LINEBREAK \)
                       (NP (N cuNn=ygE-can)))))
           (PUNC .))
-          (ID MERTON248T.96))
+  (ID MERTON248T.96))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (N cuNn=ygE-can))
@@ -1302,7 +1302,7 @@
                       (NP (N myde-mind)
                           (CODE {COM_LAEME:sic}))))
           (LINEBREAK \))
-          (ID MERTON248T.97))
+  (ID MERTON248T.97))
 
 ( (IP-IMP (HVI aue-have)
           (NP-OB1 (N mygE-mind)
@@ -1312,9 +1312,9 @@
                                   (C yat-that)
                                   (IP-SUB (NP-SBJ *T*-1)
                                           (BEP is-be)
-                                          (VAN go=n-go))))))
+                                          (VBN go=n-go))))))
           (PUNC .))
-          (ID MERTON248T.98))
+  (ID MERTON248T.98))
 
 ( (IP-IMP (CONJ and-&)
           (PP (P hif-if)
@@ -1325,7 +1325,7 @@
                               (ADJP (ADJ gode-good)))))
           (VBI rEgowche-rejoice)
           (PUNC .'))
-          (ID MERTON248T.99))
+  (ID MERTON248T.99))
 
 ( (IP-IMP (CONJ aNd-&)
           (PP (P yf-if)
@@ -1337,7 +1337,7 @@
           (ADVP-DIR (ADV a=geny=-again{b}))
           (VBI =call=-call)
           (NP-OB1 (PRO =it-it)))
-          (ID MERTON248T.100))
+  (ID MERTON248T.100))
 
 ( (IP-IMP (CONJ aNd-&)
           (VBI chest=-cast)
@@ -1345,7 +1345,7 @@
           (PP (P fro-from)
               (NP (PRO ye-thee)))
           (PUNC .))
-          (ID MERTON248T.101))
+  (ID MERTON248T.101))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1366,7 +1366,7 @@
                   (PP (P of-of)
                       (NP (N cuNsel-counsel)))))
           (LINEBREAK \))
-          (ID MERTON248T.102))
+  (ID MERTON248T.102))
 
 ( (IP-IMP (HVI aue-have)
           (NP-OB1 (ADJ gode-good)
@@ -1382,7 +1382,7 @@
                                   (CONJ aNd-&)
                                   (N fleyt-flight))))))
           (PUNC .))
-          (ID MERTON248T.103))
+  (ID MERTON248T.103))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1405,7 +1405,7 @@
                   (PP (P of-of)
                       (NP (N pite-pity)))))
           (PUNC .))
-          (ID MERTON248T.104))
+  (ID MERTON248T.104))
 
 ( (IP-IMP (CONJ for-for)
           (PP (P waN-when)
@@ -1425,7 +1425,7 @@
                   (ADJ powr=e-poor))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.105))
+  (ID MERTON248T.105))
 
 ( (IP-IMP (VBI se-see)
           (PUNC .')
@@ -1447,7 +1447,7 @@
                   (PP (P of-of)
                       (NP (N stal\war=nescE-stalwartness)))))
           (PUNC .))
-          (ID MERTON248T.106))
+  (ID MERTON248T.106))
 
 ( (IP-IMP (CONJ for-for)
           (VBI lat-lae:tan)
@@ -1472,7 +1472,7 @@
                                   (PP (P of-of)
                                       (NP (NPR god-god)))))))
           (PUNC .))
-          (ID MERTON248T.107))
+  (ID MERTON248T.107))
 
 ( (FRAG (INTJ lo-lo)
         (ADVP-LOC (ADV here-here))
@@ -1489,9 +1489,9 @@
                     (LINEBREAK \)
                     (CONJP (CONJ bot-but)
                            (WNP (WPRO wat-what)
-                                (ADJP (ADJ mare-more)))))))
+                                (ADJP (ADJR mare-more)))))))
         (PUNC .))
-        (ID MERTON248T.108))
+  (ID MERTON248T.108))
 
 ( (IP-MAT (CODE (CODE DEL)
                 (CODE {COM_LAEME:del,_crossed_through})
@@ -1520,14 +1520,14 @@
                                                     (NP (NUM sewen-seven)
                                                         (NS sel=ys-seal))))))))
           (PUNC .))
-          (ID MERTON248T.109))
+  (ID MERTON248T.109))
 
 ( (IP-MAT (NP-SBJ (NPR mari-mari))
           (BED was-be)
           (LINEBREAK \)
           (NP-OB1 (D ye-the)
                   (N boke-book)))
-                  (ID MERTON248T.110))
+  (ID MERTON248T.110))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (PRO he-he))
@@ -1535,7 +1535,7 @@
           (NP-OB1 (D ye-the)
                   (N sele-seal))
           (PUNC .))
-          (ID MERTON248T.111))
+  (ID MERTON248T.111))
 
 ( (IP-MAT (NP-SBJ (NUM seweN-seven)
                   (NS yng=is-thing))
@@ -1553,7 +1553,7 @@
                                   (NP-OB1 (D ye-the)
                                           (N god=hede-godhood)))))
           (PUNC .))
-          (ID MERTON248T.112))
+  (ID MERTON248T.112))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (NUM seweN-seven)
@@ -1572,7 +1572,7 @@
                                                   (LINEBREAK \)
                                                   (N maN=hede-manhood)))))))
           (PUNC .))
-          (ID MERTON248T.113))
+  (ID MERTON248T.113))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P thowrw-through)
@@ -1589,7 +1589,7 @@
           (VAN hy\=schew=yt-show)
           (CODE {COM_LAEME:The_letter_S_erased_after_HY._A_dot_under_H_of_HY_perhaps_intended_for_removal})
           (PUNC .))
-          (ID MERTON248T.114))
+  (ID MERTON248T.114))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -1610,7 +1610,7 @@
                 (CONJ aNd-&)
                 (ADJ gretE-great))
           (LINEBREAK \))
-          (ID MERTON248T.115))
+  (ID MERTON248T.115))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (VBP sem=ys-seem)
@@ -1627,7 +1627,7 @@
                                 (LINEBREAK \)
                                 (NP (NPR god-god)))))
           (PUNC .))
-          (ID MERTON248T.116))
+  (ID MERTON248T.116))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1640,7 +1640,7 @@
                 (CONJ nor-nor)
                 (ADJ grethe-great))
           (PUNC .))
-          (ID MERTON248T.117))
+  (ID MERTON248T.117))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -1656,7 +1656,7 @@
           (VAN la=d-lay)
           (ADVP (ADV pore=ly-poorly))
           (PUNC .))
-          (ID MERTON248T.118))
+  (ID MERTON248T.118))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (LINEBREAK \)
@@ -1669,7 +1669,7 @@
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god))))
           (LINEBREAK \))
-          (ID MERTON248T.119))
+  (ID MERTON248T.119))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1678,7 +1678,7 @@
           (NEG nowth-not)
           (ADJP (ADJ pore-poor))
           (PUNC .))
-          (ID MERTON248T.120))
+  (ID MERTON248T.120))
 
 ( (IP-MAT (PP (P waN-when)
               (LINEBREAK \)
@@ -1698,7 +1698,7 @@
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.121))
+  (ID MERTON248T.121))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (N bap\tish=yngE-baptise))
@@ -1707,7 +1707,7 @@
                   (PP (P a=ghene-against)
                       (NP (N syn-sin))))
           (LINEBREAK \))
-          (ID MERTON248T.122))
+  (ID MERTON248T.122))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ (D ye-the)
@@ -1716,7 +1716,7 @@
           (NEG nowth-not)
           (VB syn-sin)
           (LINEBREAK \))
-          (ID MERTON248T.123))
+  (ID MERTON248T.123))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -1728,7 +1728,7 @@
           (NP-OB2 (PRO hym-him))
           (VBD vngr=Ed-hunger)
           (LINEBREAK \))
-          (ID MERTON248T.124))
+  (ID MERTON248T.124))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (VBP sem=is-seem)
@@ -1740,7 +1740,7 @@
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god))))
           (LINEBREAK \))
-          (ID MERTON248T.125))
+  (ID MERTON248T.125))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1749,7 +1749,7 @@
           (VBP vngr=ess-hunger)
           (NEG nowth-not)
           (LINEBREAK \))
-          (ID MERTON248T.126))
+  (ID MERTON248T.126))
 
 ( (IP-MAT (CODE {PAGE~f166va})
           (PP (P waN-when)
@@ -1766,7 +1766,7 @@
                   (LINEBREAK \)
                   (N well-well)))
           (PUNC .))
-          (ID MERTON248T.127))
+  (ID MERTON248T.127))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (VBP sem=is-seem)
@@ -1778,7 +1778,7 @@
                             (NEG now\th-not)
                             (NP-SBJ (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.128))
+  (ID MERTON248T.128))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1788,7 +1788,7 @@
           (LINEBREAK \)
           (ADJP (ADJ wer=y-weary))
           (PUNC .))
-          (ID MERTON248T.129))
+  (ID MERTON248T.129))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -1802,7 +1802,7 @@
           (VBD suff=ed-suffer)
           (NP-OB1 (N pyn-pi:ne))
           (PUNC .))
-          (ID MERTON248T.130))
+  (ID MERTON248T.130))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (NP-SBJ-1 *exp*)
@@ -1815,7 +1815,7 @@
                             (NEG nowth-not)
                             (NP-SBJ (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.131))
+  (ID MERTON248T.131))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1827,7 +1827,7 @@
           (NP-OB1 (Q no-no)
                   (N pyn-pi:ne))
           (PUNC .))
-          (ID MERTON248T.132))
+  (ID MERTON248T.132))
 
 ( (IP-MAT (PP (P waN-when)
               (CP-ADV (C 0)
@@ -1842,7 +1842,7 @@
           (BED was-be)
           (ADJP (ADJ ded-dead))
           (PUNC .))
-          (ID MERTON248T.133))
+  (ID MERTON248T.133))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (MISC (ADJP (ADJ ded-dead))
@@ -1858,7 +1858,7 @@
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god))))
           (LINEBREAK \))
-          (ID MERTON248T.134))
+  (ID MERTON248T.134))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D ye-the)
@@ -1870,7 +1870,7 @@
           (CODE {COM_LAEME:"be"_omitted_Or_error_for_infinitive_-_cf_SUFFRED_above})
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.135))
+  (ID MERTON248T.135))
 
 ( (IP-MAT (NP-SBJ (D yis-these)
                   (NUM seweN-seven)
@@ -1890,7 +1890,7 @@
                                   (NP-OB1 (D ye-the)
                                           (N god=hede-godhood)))))
           (PUNC .))
-          (ID MERTON248T.136))
+  (ID MERTON248T.136))
 
 ( (IP-MAT (CONJ bot-but)
           (LINEBREAK \)
@@ -1911,7 +1911,7 @@
                                                   (N maN=hede-manhood)))))))
           (PUNC .')
           (LINEBREAK \))
-          (ID MERTON248T.137))
+  (ID MERTON248T.137))
 
 ( (IP-MAT (CONJ for-for)
           (PP (P waN-when)
@@ -1929,7 +1929,7 @@
                   (NP (N sorw-sorrow)))
               (CONJP (PP (P wyt=oteN-without)
                          (NP (N carE-care))))))
-                         (ID MERTON248T.138))
+  (ID MERTON248T.138))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO sho-she))
@@ -1944,7 +1944,7 @@
                               (BED was-be)
                               (ADVP-TMP (ADV be=forne-before{t})))))
           (PUNC .))
-          (ID MERTON248T.139))
+  (ID MERTON248T.139))
 
 ( (IP-MAT (PP-1 (ADV+P he=of-hereof)
                 (CODE {COM_LAEME:sic}))
@@ -1954,14 +1954,14 @@
           (CODE {ORIGINAL~au=y})
           (NP-OB1 (N ensapel-example)
                   (PP *ICH*-1)))
-                  (ID MERTON248T.140))
+  (ID MERTON248T.140))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-OB1 (D tat-that))
           (NP-SBJ (D ys-this)
                   (CODE {COM_LAEME:Y_is_dotted_-_perhaps_in_mistake_for_"is"}))
           (BEP is-be))
-          (ID MERTON248T.141))
+  (ID MERTON248T.141))
 
 ( (FRAG (FW LuMeN)
         (FW SOLA\RI)
@@ -1978,7 +1978,7 @@
         (FW PUerPerA)
         (FW Pr^OLE)
         (FW .))
-        (ID MERTON248T.142))
+  (ID MERTON248T.142))
 
 ( (IP-MAT (IP-MAT-1 (PP (P als-as)
                         (CP-ADV (WADVP-2 0)
@@ -2019,7 +2019,7 @@
                                                        (BED was-be)
                                                        (ADVP-TMP (ADV be\=forne-before{t}))))))))
           (PUNC .))
-          (ID MERTON248T.143))
+  (ID MERTON248T.143))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (Q+N no=maN-noman))
@@ -2035,7 +2035,7 @@
                               (CODE {COM_LAEME:sj_context})
                               (BEN be=ne-be)
                               (NP-OB1 (NPR god-god))))))
-                              (ID MERTON248T.144))
+  (ID MERTON248T.144))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (VBP sem=is-seem)
@@ -2047,7 +2047,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.145))
+  (ID MERTON248T.145))
 
 ( (IP-MAT (ADVP-TMP (ADV be=fore-before{t}))
           (BED was-be)
@@ -2055,13 +2055,13 @@
                   (N sele-seal))
           (LINEBREAK \)
           (VAN sper=de-speren))
-          (ID MERTON248T.146))
+  (ID MERTON248T.146))
 
 ( (IP-MAT (ADVP-TMP (ADV now-now))
           (BEP is-be)
           (NP-SBJ (PRO it-it))
           (ADJP (ADJ opeN-open)))
-          (ID MERTON248T.147))
+  (ID MERTON248T.147))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2077,7 +2077,7 @@
           (NP-SBJ (PRO he-he))
           (VBD lay-licgan)
           (ADVP (ADV powre=ly-poorly)))
-          (ID MERTON248T.148))
+  (ID MERTON248T.148))
 
 ( (IP-MAT (ADVP-LOC (ADV he\re-here))
           (VBP sem=ys-seem)
@@ -2095,7 +2095,7 @@
                             (LINEBREAK \)
                             (NP-OB1 (NPR god-god))))
           (PUNC .'))
-          (ID MERTON248T.149))
+  (ID MERTON248T.149))
 
 ( (IP-MAT (ADVP-LOC (ADV he-here)
                     (CODE {COM_LAEME:sic}))
@@ -2104,7 +2104,7 @@
                   (N sele-seal))
           (VAN I=sper=d-speren)
           (PUNC .))
-          (ID MERTON248T.150))
+  (ID MERTON248T.150))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (VBP sem=ys-seem)
@@ -2116,7 +2116,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.151))
+  (ID MERTON248T.151))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2169,7 +2169,7 @@
                             (NP-OB1 (NPR god-god))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.152))
+  (ID MERTON248T.152))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (BED was-be)
@@ -2177,7 +2177,7 @@
                   (N sele-seal))
           (ADJP (ADJ I=opeN-open))
           (PUNC .))
-          (ID MERTON248T.153))
+  (ID MERTON248T.153))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2198,7 +2198,7 @@
                             (BED was-be)
                             (CNJCTR not)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.154))
+  (ID MERTON248T.154))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (N bapt=yngE-baptise))
@@ -2207,7 +2207,7 @@
                   (PP (P a\=geyn-against)
                       (NP (N syn-sin))))
           (PUNC .))
-          (ID MERTON248T.155))
+  (ID MERTON248T.155))
 
 ( (IP-MAT (ADVP-LOC (ADV he-here))
           (BED was-be)
@@ -2215,7 +2215,7 @@
                   (N sele-seal))
           (VAN I=sper=d-speren)
           (LINEBREAK \))
-          (ID MERTON248T.156))
+  (ID MERTON248T.156))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (VBP sem=is-seem)
@@ -2226,7 +2226,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (LINEBREAK \))
-          (ID MERTON248T.157))
+  (ID MERTON248T.157))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ-1 (D a-a)
@@ -2258,7 +2258,7 @@
                                  (FW BeNe)
                                  (FW comPLAcet)
                                  (FW &Cetera.)))))
-                                 (ID MERTON248T.158))
+  (ID MERTON248T.158))
 
 ( (IP-MAT (CONJ aNd-&)
           (LINEBREAK \)
@@ -2271,7 +2271,7 @@
                   (PP (P on-on{i})
                       (NP (PRO hym-him))))
           (LINEBREAK \))
-          (ID MERTON248T.159))
+  (ID MERTON248T.159))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (Q non-none))
@@ -2288,7 +2288,7 @@
                                   (BEN be=ne-be)
                                   (NP-OB1 (NPR god-god))))))
           (PUNC .'))
-          (ID MERTON248T.160))
+  (ID MERTON248T.160))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (VBP sem=ys-seem)
@@ -2298,14 +2298,14 @@
                     (IP-SUB (NP-SBJ (PRO he-he))
                             (BED was-be)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.161))
+  (ID MERTON248T.161))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (BED was-be)
           (NP-SBJ (D ye-the)
                   (N sele-seal))
           (ADJP (ADJ I\=opeN-open)))
-          (ID MERTON248T.162))
+  (ID MERTON248T.162))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2334,7 +2334,7 @@
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.163))
+  (ID MERTON248T.163))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (BED was-be)
@@ -2343,7 +2343,7 @@
           (LINEBREAK \)
           (VAN I=sper=d-speren)
           (PUNC .))
-          (ID MERTON248T.164))
+  (ID MERTON248T.164))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (VBP sem=ys-seem)
@@ -2353,7 +2353,7 @@
                     (IP-SUB (NP-SBJ (PRO he-he))
                             (BED was-be)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.165))
+  (ID MERTON248T.165))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2400,7 +2400,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.166))
+  (ID MERTON248T.166))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (BED was-be)
@@ -2409,7 +2409,7 @@
           (ADJP (ADJ I=opeN-open))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.167))
+  (ID MERTON248T.167))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2437,7 +2437,7 @@
                             (BED was-be)
                             (NEG nowth-not)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.168))
+  (ID MERTON248T.168))
 
 ( (IP-MAT (CODE {INSSTART})
           (CODE {COM_LAEME:ins,_in_left_hand_margin_marked_for_insertion})
@@ -2447,7 +2447,7 @@
                   (N sele-seal))
           (VAN I=sper=d-speren)
           (CODE {INSEND}))
-          (ID MERTON248T.169))
+  (ID MERTON248T.169))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (VBP sem=ys-seem)
@@ -2458,7 +2458,7 @@
                     (IP-SUB (NP-SBJ (PRO he-he))
                             (BED was-be)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.170))
+  (ID MERTON248T.170))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO he-he))
@@ -2474,7 +2474,7 @@
                                   (NP-SBJ (PRO sho-she))
                                   (HVD a=dde-have)
                                   (DON do=ne-do)))))
-                                  (ID MERTON248T.171))
+  (ID MERTON248T.171))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (D ye-the)
@@ -2487,7 +2487,7 @@
                           (N$ woMmaNd-woman))
                   (NS word=is-word)))
           (LINEBREAK \))
-          (ID MERTON248T.172))
+  (ID MERTON248T.172))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (Q non-none))
@@ -2505,7 +2505,7 @@
                                   (BEN be-be)
                                   (NP-OB1 (NPR god-god))))))
           (PUNC .'))
-          (ID MERTON248T.173))
+  (ID MERTON248T.173))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (VBP sem=is-seem)
@@ -2517,7 +2517,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.174))
+  (ID MERTON248T.174))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (BED was-be)
@@ -2527,7 +2527,7 @@
                 (CODE {COM_LAEME:del,_crossed_through})
                 (VAN sper=d-speren))
           (ADJP (ADJ i\=opeN-open)))
-          (ID MERTON248T.175))
+  (ID MERTON248T.175))
 
 ( (IP-MAT (PP (P weN-when)
               (CP-ADV (C 0)
@@ -2551,14 +2551,14 @@
                             (LINEBREAK \)
                             (CNJCTR not)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.176))
+  (ID MERTON248T.176))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (BED was-be)
           (NP-SBJ (D ye-the)
                   (N sel-seal))
           (VAN I=sper=d-speren))
-          (ID MERTON248T.177))
+  (ID MERTON248T.177))
 
 ( (IP-MAT (ADVP-LOC (ADV he-here))
           (VBP sem=ys-seem)
@@ -2568,7 +2568,7 @@
                     (IP-SUB (NP-SBJ (PRO he-he))
                             (BED was-be)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.178))
+  (ID MERTON248T.178))
 
 ( (IP-MAT (CONJ for-for)
           (PP (P waN-when)
@@ -2578,12 +2578,12 @@
           (NP-SBJ (D ye-the)
                   (N teMpil-temple))
           (VBD roue-rive))
-          (ID MERTON248T.179))
+  (ID MERTON248T.179))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N vayl-veil))
           (VBD clof=tE-cleave))
-          (ID MERTON248T.180))
+  (ID MERTON248T.180))
 
 ( (IP-MAT (NP-SBJ (D ye-the)
                   (N son-sun))
@@ -2592,7 +2592,7 @@
           (NEG nowth-not)
           (NP-OB1 (PRO$ ys-its)
                   (N lite-light)))
-                  (ID MERTON248T.181))
+  (ID MERTON248T.181))
 
 ( (IP-MAT (NP-LFD (D ye-the)
                   (NS bodi=ys-body)
@@ -2605,14 +2605,14 @@
           (NP-SBJ (PRO yai-they))
           (VBD rof-rise)
           (CODE {COM_LAEME:sic}))
-          (ID MERTON248T.182))
+  (ID MERTON248T.182))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
           (VBD tok=e-take)
           (NP-OB1 (PRO$ yare-their)
                   (N myth-might)))
-                  (ID MERTON248T.183))
+  (ID MERTON248T.183))
 
 ( (IP-MAT (CONJ aNd-&)
           (LINEBREAK \)
@@ -2631,7 +2631,7 @@
                                   (BEN be=ne-be)
                                   (NP-OB1 (NPR god-god))))))
           (PUNC .))
-          (ID MERTON248T.184))
+  (ID MERTON248T.184))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (VBP sem=is-seem)
@@ -2643,7 +2643,7 @@
                             (BED was-be)
                             (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.185))
+  (ID MERTON248T.185))
 
 ( (IP-MAT (ADVP-LOC (CP-FRL (WADVP-1 (ADV yar-there{w}))
                             (C 0)
@@ -2664,7 +2664,7 @@
                             (NEG nowth-not)
                             (LINEBREAK \)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.186))
+  (ID MERTON248T.186))
 
 ( (IP-MAT (ADVP-LOC (ADV herE-here))
           (BED was-be)
@@ -2672,7 +2672,7 @@
                   (N sele-seal))
           (VAN I=sper=d-speren)
           (PUNC .))
-          (ID MERTON248T.187))
+  (ID MERTON248T.187))
 
 ( (IP-MAT (ADVP-LOC (ADV here-here))
           (LINEBREAK \)
@@ -2683,7 +2683,7 @@
                     (IP-SUB (NP-SBJ (PRO he-he))
                             (BED was-be)
                             (NP-OB1 (NPR god-god)))))
-                            (ID MERTON248T.188))
+  (ID MERTON248T.188))
 
 ( (IP-MAT (CONJ for-for)
           (LINEBREAK \)
@@ -2697,7 +2697,7 @@
           (VBD ros-rise)
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.189))
+  (ID MERTON248T.189))
 
 ( (IP-MAT (ADVP-TMP (ADV yaN-then))
           (NP-SBJ (PRO I-I))
@@ -2708,7 +2708,7 @@
                           (BED was-be)
                           (NP-OB1 (NPR god-god))))
           (PUNC .))
-          (ID MERTON248T.190))
+  (ID MERTON248T.190))
 
 ( (IP-MAT (NP-SBJ (D yis-these)
                   (LINEBREAK \)
@@ -2718,7 +2718,7 @@
           (NP-OB1 (D ye-the)
                   (N god=hede-godhood))
           (PUNC .))
-          (ID MERTON248T.191))
+  (ID MERTON248T.191))
 
 ( (FRAG (CONJ aNd-&)
         (INTJ lo-lo)
@@ -2728,7 +2728,7 @@
         (NP-PRN-1 (Q al-all)
                   (NUM seweN-seven))
         (PUNC .))
-        (ID MERTON248T.192))
+  (ID MERTON248T.192))
 
 ( (FRAG (FW ALWS)
         (FW PreSEPE)
@@ -2747,7 +2747,7 @@
         (FW &)
         (FW EDIT)
         (FW EUm))
-        (ID MERTON248T.193))
+  (ID MERTON248T.193))
 
 ( (IP-MAT (NP-SBJ (NP (D ye-the)
                       (N bosuM-bosom))
@@ -2786,12 +2786,12 @@
                       (FOR for@-for)
                       (TO @to-to)
                       (VB con=e-can)))
-                      (ID MERTON248T.194))
+  (ID MERTON248T.194))
 
 ( (FRAG (FW &Cetera)
         (FW AMen)
         (LINEBREAK \\))
-        (ID MERTON248T.195))
+  (ID MERTON248T.195))
 
 ( (IP-MAT (INS 'DE_FALSI\TATE')
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -2801,7 +2801,7 @@
           (BEP er-be)
           (NP-OB1 (NS-RH fer=is-fe:ra))
           (PUNC .'))
-          (ID MERTON248T.196))
+  (ID MERTON248T.196))
 
 ( (IP-MAT (MD wil-will)
           (LINEBREAK \)
@@ -2809,7 +2809,7 @@
           (NP-OB1 (OTHER oyer-other))
           (VB-RH be=swek=e-beswi:can)
           (PUNC .))
-          (ID MERTON248T.197))
+  (ID MERTON248T.197))
 
 ( (IP-MAT (NP-SBJ (N lewte-leaute)
                   (CONJ and-&)
@@ -2818,7 +2818,7 @@
           (BEP ar-be)
           (NP-OB1 (NS-RH per=is-peer))
           (PUNC .'))
-          (ID MERTON248T.198))
+  (ID MERTON248T.198))
 
 ( (IP-MAT (HVP hau=e-have)
           (NP-SBJ (PRO yai-they))
@@ -2829,7 +2829,7 @@
               (NP (D ys-this)
                   (N-RH rike-rich{k})))
           (PUNC .))
-          (ID MERTON248T.199))
+  (ID MERTON248T.199))
 
 ( (IP-MAT (NP-SBJ (Q ilke-each)
                   (N maN-man)
@@ -2846,7 +2846,7 @@
                       (CONJ aNd-&)
                       (VB-RH pik=e-pick)))
           (LINEBREAK \))
-          (ID MERTON248T.200))
+  (ID MERTON248T.200))
 
 ( (IP-MAT (BEP es-be)
           (NP-SBJ-1 (EX yer-there))
@@ -2856,7 +2856,7 @@
                         (IP-SUB (NP-SBJ *T*-2)
                                 (NP-OB1 (PRO yeM-them))
                                 (VBP ster=ys-steer)))))
-                                (ID MERTON248T.201))
+  (ID MERTON248T.201))
 
 ( (IP-MAT (CONJ bot-but)
           (LINEBREAK \)
@@ -2866,7 +2866,7 @@
           (ADJP (ADJ-RH i=llyk=e-geli:c))
           (CODE {COM_LAEME:Rest_of_line_empty,_space_filled_with_a_line_of_dots})
           (LINEBREAK \\))
-          (ID MERTON248T.202))
+  (ID MERTON248T.202))
 
 ( (IP-MAT (INS 'DE_FALsitaTE')
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -2881,7 +2881,7 @@
               (P @of-of)
               (NP (N-RH laNde-land)))
           (PUNC .))
-          (ID MERTON248T.203))
+  (ID MERTON248T.203))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (N tort-tort)
@@ -2902,7 +2902,7 @@
                                           (N-RH ouER=cloye-overcloth)))))
           (CODE {COM_LAEME:Rest_of_line_empty,_space_filled_with_a_line_of_dots})
           (LINEBREAK \\))
-          (ID MERTON248T.204))
+  (ID MERTON248T.204))
 
 ( (IP-MAT (INS 'DE_CUPI\DITATE')
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -2910,14 +2910,14 @@
           (VBP yingE-think)
           (NP-MSR (Q al-all)
                   (N day-day)))
-                  (ID MERTON248T.205))
+  (ID MERTON248T.205))
 
 ( (IP-MAT (NP-SBJ (PRO I-I))
           (VBP yingE-think)
           (PP (P of-of)
               (NP (Q-RH nowth-naught)))
           (LINEBREAK \))
-          (ID MERTON248T.206))
+  (ID MERTON248T.206))
 
 ( (IP-MAT (PP (P of-of)
               (NP (Q nowth-naught)))
@@ -2927,7 +2927,7 @@
                   (PRO$ my-my)
                   (N-RH thowth-thought))
           (LINEBREAK \))
-          (ID MERTON248T.207))
+  (ID MERTON248T.207))
 
 ( (IP-MAT (NP-SBJ (Q nowth-naught)
                   (PP (P of-of{f})
@@ -2936,7 +2936,7 @@
           (NP-OB1 (PRO me-me))
           (PP (P tyl-to{til})
               (NP (Q-RH nowth-naught))))
-              (ID MERTON248T.208))
+  (ID MERTON248T.208))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NP-OB2 (PRO be-me)
@@ -2951,7 +2951,7 @@
                             (NEG-RH nowth-not)))
           (PUNC .)
           (LINEBREAK \\))
-          (ID MERTON248T.209))
+  (ID MERTON248T.209))
 
 ( (IP-MAT (INS 'DE_*MUnDO')
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -2960,26 +2960,26 @@
           (RP done-down)
           (PP (P ofuer-over)
               (NP (Q-RH al-all))))
-              (ID MERTON248T.210))
+  (ID MERTON248T.210))
 
 ( (FRAG (FW Quia)
         (FW FALLAX)
         (FW FAL\LIT)
         (FW VBIQue)
         (FW .))
-        (ID MERTON248T.211))
+  (ID MERTON248T.211))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (N loue-love))
           (BEP es-be)
           (FP bot-bu:tan{o})
           (CODE (CODE DEL)
-                (XXX SLA_THAL))
+                (MISC SLA_THAL))
           (CODE {COM_LAEME:del,_subpuncted})
           (LINEBREAK \)
           (ADJP (ADJ-RH smalyl-small)
                 (CODE {COM_LAEME:sic})))
-                (ID MERTON248T.212))
+  (ID MERTON248T.212))
 
 ( (FRAG (FW Quia)
         (FW GEnS)
@@ -2988,7 +2988,7 @@
         (FW InIQUE)
         (CODE {COM_LAEME:Rest_of_line_empty,_space_filled_with_a_line_of_dots})
         (LINEBREAK \\))
-        (ID MERTON248T.213))
+  (ID MERTON248T.213))
 
 ( (FRAG (INS 'SALR?_DE_MUnDO')
         (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3007,7 +3007,7 @@
         (FW VINciT)
         (FW AMOR)
         (FW SEPELITur))
-        (ID MERTON248T.214))
+  (ID MERTON248T.214))
 
 ( (IP-MAT (INTJ hallas-alas)
           (NP-SBJ (NS meN-man))
@@ -3016,37 +3016,37 @@
               (NP (ADJ litel-little)
                   (N-RH trw=the-truth)))
           (LINEBREAK \))
-          (ID MERTON248T.215))
+  (ID MERTON248T.215))
 
 ( (IP-MAT (NP-SBJ (PRO hit-it))
           (BEP ys-be)
           (ADJP (ADJ dede-dead)))
-          (ID MERTON248T.216))
+  (ID MERTON248T.216))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (D tat-that))
           (BEP is-be)
           (NP-OB1 (N-RH rw=the-ruth))
           (LINEBREAK \))
-          (ID MERTON248T.217))
+  (ID MERTON248T.217))
 
 ( (IP-MAT (NP-SBJ (N false=daM-falsedom))
           (VBP rEgn=is-reign))
-          (ID MERTON248T.218))
+  (ID MERTON248T.218))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
           (BEP es-be)
           (ADVP-LOC (ADV-RH a=bowe-above))
           (LINEBREAK \))
-          (ID MERTON248T.219))
+  (ID MERTON248T.219))
 
 ( (IP-MAT (CONJ aNd-&)
           (VAN byr=id-bury)
           (BEP es-be)
           (NP-SBJ (ADJ+N-RH trw=loue-truelove))
           (LINEBREAK \\))
-          (ID MERTON248T.220))
+  (ID MERTON248T.220))
 
 ( (FRAG (INS 'DE_PENIS_\_InFerNI')
         (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3078,11 +3078,11 @@
         (FW MORS)
         (FW SiNe)
         (FW MORTE))
-        (ID MERTON248T.221))
+  (ID MERTON248T.221))
 
 ( (FRAG (NP (N fyre-fire)
             (CODE (CODE DEL)
-                  (XXX CL))
+                  (MISC CL))
             (CODE {COM_LAEME:del,_expunted})
             (N colde-cold)
             (CONJ aNd-&)
@@ -3101,7 +3101,7 @@
             (N ope-hope)
             (ADJP (VAN-RH for=lor=ne-forlose))
             (LINEBREAK \)))
-            (ID MERTON248T.222))
+  (ID MERTON248T.222))
 
 ( (IP-MAT (NP-SBJ (N huNger-hunger)
                   (NS baNd=is-bond))
@@ -3109,7 +3109,7 @@
           (ADJP (ADJ eu=i-heavy))
           (ADVP-LOC (ADV-RH be=forne-before{p}))
           (LINEBREAK \))
-          (ID MERTON248T.223))
+  (ID MERTON248T.223))
 
 ( (IP-MAT (NP-LFD (NP (N waNt=yngE-want)
                       (ADVP-TMP (ADV euER-ever))
@@ -3134,7 +3134,7 @@
                   (N saule-soul))
           (VB-RH schend=e-scendan)
           (LINEBREAK \\))
-          (ID MERTON248T.224))
+  (ID MERTON248T.224))
 
 ( (FRAG (INS 'DE_MORTE')
         (CODE {COM_LAEME:ins,_in_right_margin})
@@ -3155,7 +3155,7 @@
         (FW DEUENIAM)
         (FW QUO)
         (LINEBREAK \))
-        (ID MERTON248T.225))
+  (ID MERTON248T.225))
 
 ( (IP-MAT (CODE {PAGE~f167ra})
           (NP-SBJ (NUM +gre-three)
@@ -3174,7 +3174,7 @@
                   (VB morn=e-mourn))
           (Q-RH all=e-all)
           (PUNC .'))
-          (ID MERTON248T.226))
+  (ID MERTON248T.226))
 
 ( (IP-MAT (VB dey-die)
           (CODE {INSSTART})
@@ -3182,27 +3182,27 @@
           (NP-SBJ (PRO hy-I))
           (CODE {INSEND})
           (MD sal-shall))
-          (ID MERTON248T.227))
+  (ID MERTON248T.227))
 
-( (IP-MAT (IP (NP-SBJ (PRO I=-I))
-              (NEG =ne-ne)
-              (NEG n@-ne)
-              (VBP @otte-witan)
-              (CP-QUE (WADVP-1 (WADVP (WADV weN-when))
-                               (CONJP (CONJ aNd-&)
-                                      (WADVP (WADV wore-where)))
-                               (LINEBREAK \)
-                               (CONJP (CONJ and-&)
-                                      (WADVP (WADV wydir-whither))))
-                      (C 0)
-                      (IP-SUB (ADVP *T*-1)
-                              (NP-SBJ (PRO I-I))
-                              (VB be=cuM-become)
-                              (MD-RH salle-shall))))
+( (IP-MAT (NP-SBJ (PRO I=-I))
+          (NEG =ne-ne)
+          (NEG n@-ne)
+          (VBP @otte-witan)
+          (CP-QUE (WADVP-1 (WADVP (WADV weN-when))
+                           (CONJP (CONJ aNd-&)
+                                  (WADVP (WADV wore-where)))
+                           (LINEBREAK \)
+                           (CONJP (CONJ and-&)
+                                  (WADVP (WADV wydir-whither))))
+                  (C 0)
+                  (IP-SUB (ADVP *T*-1)
+                          (NP-SBJ (PRO I-I))
+                          (VB be=cuM-become)
+                          (MD-RH salle-shall)))
           (PUNC .)
           (CODE {COM_LAEME:Rest_of_the_line_is_empty,_the_space_filled_with_dashes})
           (LINEBREAK \\))
-          (ID MERTON248T.228))
+  (ID MERTON248T.228))
 
 ( (FRAG (CODE {COM_LAEME:Latin_title_in_left_margin_illegible_on_photograph})
         (FW SI)
@@ -3224,7 +3224,7 @@
         (FW CuI)
         (FW QUOModO)
         (FW QUando))
-        (ID MERTON248T.229))
+  (ID MERTON248T.229))
 
 ( (IP-MAT (IP-IMP (PP (P If-if)
                       (CP-ADV (C 0)
@@ -3251,8 +3251,7 @@
                   (LINEBREAK \)
                   (CP-QUE-PRN-2 (CP-QUE-4 (WNP-5 (WPRO wat-what))
                                           (C 0)
-                                          (IP-SUB (NP *T*-5)
-                                                  (NP-OB1 *T*)
+                                          (IP-SUB (NP-OB1 *T*-5)
                                                   (NP-SBJ (PRO yow-thou))
                                                   (VBP say=s-say)))
                                 (CONJP (CONJ aNd-&)
@@ -3260,18 +3259,18 @@
                                                  (IP-SUB (PP (P-RH tyl-to{til})
                                                              (NP *T*-6)))))
                                 (PUNC .')
-                                (CONJP (CP-QUE (WPP (P of-of)
-                                                    (LINEBREAK \)
-                                                    (WNP (WPRO woMme-whom)))))
+                                (CONJP (CP-QUE=4 (WPP (P of-of)
+                                                      (LINEBREAK \)
+                                                      (WNP (WPRO woMme-whom)))))
                                 (PUNC .)
-                                (CONJP (CP-QUE (WPP (P to-to)
-                                                    (WNP (WPRO woMme-whom)))))
+                                (CONJP (CP-QUE=4 (WPP (P to-to)
+                                                      (WNP (WPRO woMme-whom)))))
                                 (PUNC .)
-                                (CONJP (CP-QUE (WADVP (WADV ow-how))))
+                                (CONJP (CP-QUE=4 (WADVP (WADV ow-how))))
                                 (CONJ and-&)
-                                (CONJP (CP-QUE (WADVP (WADV-RH wen-when))))))
+                                (CONJP (CP-QUE=4 (WADVP (WADV-RH wen-when))))))
           (LINEBREAK \\))
-          (ID MERTON248T.230))
+  (ID MERTON248T.230))
 
 ( (FRAG (FW *RELInQUO)
         (FW MUnDUm)
@@ -3280,13 +3279,13 @@
         (FW AD)
         (FW PatREM)
         (LINEBREAK \))
-        (ID MERTON248T.231))
+  (ID MERTON248T.231))
 
 ( (IP-MAT (NP-SBJ (PRO hy-I))
           (VBP for=sake-forsake)
           (NP-OB1 (D ye-the)
                   (N werld-world)))
-                  (ID MERTON248T.232))
+  (ID MERTON248T.232))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -3299,7 +3298,7 @@
                   (N fadir-father)))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.233))
+  (ID MERTON248T.233))
 
 ( (IP-MAT (NP-SBJ (PRO hy-I))
           (VBP for=sake-forsake)
@@ -3320,7 +3319,7 @@
                                                                   (ADJP (ADJ heu=y-heavy)))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.234))
+  (ID MERTON248T.234))
 
 ( (IP-MAT (NP-SBJ (PRO hy-I))
           (VBP for=sak=is-forsake)
@@ -3342,7 +3341,7 @@
                                                                   (ADJP (ADJ bys=y-busy)))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.235))
+  (ID MERTON248T.235))
 
 ( (IP-MAT (NP-SBJ (PRO hy-I))
           (VBP for=sake-forsake)
@@ -3364,7 +3363,7 @@
                                                                         (CONJ aNd-&)
                                                                         (ADJ sollowy-solwi:)))))))))
           (LINEBREAK \))
-          (ID MERTON248T.236))
+  (ID MERTON248T.236))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -3383,7 +3382,7 @@
                           (N humilite-humility)))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.237))
+  (ID MERTON248T.237))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -3400,7 +3399,7 @@
                              (PP (P of-of)
                                  (NP (N charite-charity)))))))
           (LINEBREAK \))
-          (ID MERTON248T.238))
+  (ID MERTON248T.238))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -3418,7 +3417,7 @@
                                  (NP (N chastite-chastity)))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID MERTON248T.239))
+  (ID MERTON248T.239))
 
 ( (FRAG (FW APPLICAnDO)
         (FW SInGuLA)
@@ -3437,7 +3436,7 @@
         (FW Primo)
         (FW ANGuLO?)
         (LINEBREAK \))
-        (ID MERTON248T.240))
+  (ID MERTON248T.240))
 
 ( (IP-MAT (CONJ and-&)
           (PP (ADV+P yar=fore-therefore))
@@ -3462,7 +3461,7 @@
           (IP-INF-PRP (TO to-to)
                       (VB be=segh=e-besiege)
                       (NP-OB1 (N maN-man))))
-                      (ID MERTON248T.241))
+  (ID MERTON248T.241))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (PRO he-he))
@@ -3479,23 +3478,23 @@
                                  (NP (NPR sire-sir)
                                      (NPR eN=wye-envy)))))
           (PUNC .))
-          (ID MERTON248T.242))
+  (ID MERTON248T.242))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ (D tys-these))
           (LINEBREAK \)
           (VBD be=seg=yt-besiege)
           (NP-OB1 (PRO$ vre-our)
-                  (ADJ form=ER-1)
+                  (ADJ form=ER-first)
                   (N fadir-father)))
-                  (ID MERTON248T.243))
+  (ID MERTON248T.243))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
           (NP-OB1 (PRO hiM-him))
           (LINEBREAK \)
           (VBD ower=cuM-overcome))
-          (ID MERTON248T.244))
+  (ID MERTON248T.244))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-SBJ *con*)
@@ -3507,7 +3506,7 @@
                 (CODE {COM_LAEME:?Error_for_"evermore"}))
           (VBP ouER=cuM-overcome)
           (PUNC .))
-          (ID MERTON248T.245))
+  (ID MERTON248T.245))
 
 ( (IP-MAT (CONJ bot-but)
           (NP-LFD (PRO he-he)
@@ -3522,14 +3521,14 @@
           (NP-OB1 (PRO vs-us))
           (VBD halpe-help)
           (PUNC .))
-          (ID MERTON248T.246))
+  (ID MERTON248T.246))
 
 ( (IP-MAT (NP-SBJ (D yat-that))
           (LINEBREAK \)
           (BED was-be)
           (NP-OB1 (NPR ihESu-ihESu)
                   (NPR cristE-christ)))
-                  (ID MERTON248T.247))
+  (ID MERTON248T.247))
 
 ( (IP-MAT (CONJ aNd-&)
           (NP-OB1 (D yat-that))
@@ -3541,9 +3540,9 @@
               (NP (D ys-this)
                   (N maNner-manner)))
           (PUNC .))
-          (ID MERTON248T.248))
+  (ID MERTON248T.248))
 
-( (FRAG (NP (N maN=kende-mankind)
+( (FRAG (NP (N+N maN=kende-mankind)
             (CP-REL (WNP-1 0)
                     (C yat-that)
                     (IP-SUB (NP-SBJ *T*-1)
@@ -3552,12 +3551,12 @@
                             (VAN en=wennym=ed-envenom)
                             (PP (P thowrw-through)
                                 (NP (NP-POS (PRO$ vrE-our)
-                                            (ADJ for\m=ER-1)
+                                            (ADJ for\m=ER-first)
                                             (N$ fadER-father))
                                     (N syn-sin))))))
         (PUNC .)
         (LINEBREAK \\))
-        (ID MERTON248T.249))
+  (ID MERTON248T.249))
 
 ( (FRAG (FW NOta)
         (FW In)
@@ -3570,7 +3569,7 @@
         (FW VerE)
         (FW EST)
         (FW CIBus))
-        (ID MERTON248T.250))
+  (ID MERTON248T.250))
 
 ( (IP-MAT (NP-SBJ (PRO$ My-my)
                   (N flesse-flesh))
@@ -3579,7 +3578,7 @@
                   (N mete-meat))
           (MISC (FW &Cetera))
           (LINEBREAK \))
-          (ID MERTON248T.251))
+  (ID MERTON248T.251))
 
 ( (IP-MAT (NP-SBJ (PRO$ My-my)
                   (N flesse-flesh)
@@ -3645,11 +3644,11 @@
                                               (VBD glad=id-glad)
                                               (NP-OB1 (PRO vs-us))))))
           (LINEBREAK \))
-          (ID MERTON248T.252))
+  (ID MERTON248T.252))
 
 ( (IP-MAT (NP-SBJ (PRO yt-it))
           (CODE (CODE DEL)
-                (XXX Qu^INED))
+                (MISC Qu^INED))
           (CODE {COM_LAEME:del,_crossed_through})
           (VBD fed-feed)
           (NP-OB1 (PRO vs-us)
@@ -3659,7 +3658,7 @@
                                   (BED war-be)
                                   (ADJP (ADJ vngr=y-hungry)))))
           (LINEBREAK \))
-          (ID MERTON248T.253))
+  (ID MERTON248T.253))
 
 ( (IP-MAT (NP-SBJ (PRO yt-it))
           (VBD quiq=Ed-quick)
@@ -3670,7 +3669,7 @@
                                   (BED war-be)
                                   (ADJP (ADJ dede=ly-deadly)))))
           (LINEBREAK \))
-          (ID MERTON248T.254))
+  (ID MERTON248T.254))
 
 ( (IP-MAT (NP-SBJ (PRO yt-it))
           (VBD glad=ed-glad)
@@ -3680,7 +3679,7 @@
                           (IP-SUB (NP-SBJ *T*-1)
                                   (BED war-be)
                                   (ADJP (ADJ sor=y-sorry))))))
-                                  (ID MERTON248T.255))
+  (ID MERTON248T.255))
 
 ( (FRAG (FW APPLICAnDO)
         (FW SInGULA)
@@ -3713,7 +3712,7 @@
         (FW POndus.)
         (FW SUSTinet)
         (LINEBREAK \))
-        (ID MERTON248T.256))
+  (ID MERTON248T.256))
 
 ( (IP-MAT (NP-VOC (ADJ stetde=fastE-steadfast)
                   (N crosse-cross)
@@ -3733,7 +3732,7 @@
                       (NP (N braw\che-branch)
                           (CONJ and-&)
                           (N flore-flower)))))
-                          (ID MERTON248T.257))
+  (ID MERTON248T.257))
 
 ( (IP-MAT (NP-1 (SUCH swil-such)
                 (D+OTHER-RH a=noyer-other))
@@ -3747,21 +3746,21 @@
               (NP (N wode-wood)
                   (CONJ no-nor)
                   (N-RH rys-hri:s))))
-                  (ID MERTON248T.258))
+  (ID MERTON248T.258))
 
 ( (IP-MAT (ADJP (ADJ swet=e-sweet))
           (BEP be-be)
           (NP-SBJ (D ye-the)
                   (NS nal=ys-nail))
           (LINEBREAK \))
-          (ID MERTON248T.259))
+  (ID MERTON248T.259))
 
 ( (IP-MAT (CONJ and-&)
           (ADJP (ADJ swete-sweet))
           (BEP be-be)
           (NP-SBJ (D ye-the)
                   (N-RH tre-tree)))
-                  (ID MERTON248T.260))
+  (ID MERTON248T.260))
 
 ( (IP-MAT (CONJ aNd-&)
           (ADJP (ADJR swet=ER-sweet))
@@ -3777,7 +3776,7 @@
                                       (NP (PRO-RH the-thee))))))
           (PUNC .)
           (LINEBREAK \\))
-          (ID MERTON248T.261))
+  (ID MERTON248T.261))
 
 ( (IP-MAT (INS '*AUE_MARIA_\_STELLA_[]_')
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3791,7 +3790,7 @@
                           (CODE {COM_LAEME:Final_S_rather_large_and_an_unusual_shape_-_like_a_modern_capital_with~the_two_opposing_bows_not_quite_linked})
                           (N modER-mother)
                           (ADJP (VAN bless=ed-bletsian)))))
-                          (ID MERTON248T.262))
+  (ID MERTON248T.262))
 
 ( (IP-MAT (INS SUMEnS_ILLE_[])
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3806,7 +3805,7 @@
                                (LINEBREAK \)
                                (PP (P of-of)
                                    (NP (NPR heweN-heaven)))))))
-                                   (ID MERTON248T.263))
+  (ID MERTON248T.263))
 
 ( (IP-MAT (NP-SBJ (PRO yow-thou))
           (BEP art-be)
@@ -3845,7 +3844,7 @@
                                                (NP (NPR heue-heue))))
                                    (ADVP (ADV-RH a=gaynd-again))))))
           (LINEBREAK \))
-          (ID MERTON248T.264))
+  (ID MERTON248T.264))
 
 ( (IP-IMP (INS V^IrGO_SInGULA)
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3868,7 +3867,7 @@
           (VBI lees-le:san)
           (PP (P iN-in{m})
               (NP (N-RH aste-haste))))
-              (ID MERTON248T.265))
+  (ID MERTON248T.265))
 
 ( (IP-IMP (CONJ aNd-&)
           (VBI make-make)
@@ -3879,7 +3878,7 @@
                         (ADJ-RH chast[]-chaste)))
           (CODE {COM_LAEME:Edge_cut_away})
           (LINEBREAK \))
-          (ID MERTON248T.266))
+  (ID MERTON248T.266))
 
 ( (IP-IMP (INS *MOnSTr^A_TE_E[]_\_MATRem)
           (VBI sew-show)
@@ -3888,7 +3887,7 @@
           (NP-OB1 (PRO$ yn-thy)
                   (N modER-mother)
                   (CNJCTR -hood)))
-                  (ID MERTON248T.267))
+  (ID MERTON248T.267))
 
 ( (IP-IMP (NP-SBJ (PRO yow-thou))
           (VBI help-help)
@@ -3923,7 +3922,7 @@
                                                 (NP (PRO$ vrre-our)
                                                     (N-RH sake-sake)))))))
           (LINEBREAK \))
-          (ID MERTON248T.268))
+  (ID MERTON248T.268))
 
 ( (IP-MAT (INS O_GLORIOSA_\_DomiNA)
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -3969,7 +3968,7 @@
                                   (VBD barE-bear)
                                   (ADVP-DIR (ADV-RH a=way-away)))))
           (LINEBREAK \))
-          (ID MERTON248T.269))
+  (ID MERTON248T.269))
 
 ( (IP-MAT (INS Quod_EUA_Tr^I[STIS]_\_ABSTULIT)
           (CODE {COM_LAEME:ins,_in_right_hand_margin})
@@ -4022,7 +4021,7 @@
                                       (NP (PRO$ is-his)
                                           (N-RH blod-blood)))))))
           (LINEBREAK \))
-          (ID MERTON248T.270))
+  (ID MERTON248T.270))
 
 ( (IP-IMP (NP-VOC (N yate-gate)
                   (PP (P of-of)
@@ -4043,7 +4042,7 @@
           (NP-SBJ (PRO yow-thou))
           (BEI-RH be-be)
           (LINEBREAK \))
-          (ID MERTON248T.271))
+  (ID MERTON248T.271))
 
 ( (IP-MAT (NP-VOC (N leche-leech)
                   (PP (P of-of)
@@ -4059,7 +4058,7 @@
           (NP-OB1 (PRO$ yi-thy)
                   (N-RH chyle-child))
           (LINEBREAK \))
-          (ID MERTON248T.272))
+  (ID MERTON248T.272))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ *pro*)
                     (NP-OB1 (N mad=eN-maiden))
@@ -4069,17 +4068,17 @@
                            (MD sal-shall)
                            (BE-RH be-be)
                            (LINEBREAK \)
-                           (PP (P has-as)
-                               (CP-ADV (WNP-2 0)
-                                       (C 0)
-                                       (IP-SUB (NP-OB1 *T*-2)
-                                               (NP-SBJ (D ye-the)
-                                                       (N angel-angel))
-                                               (VBD tal=d-tell)
-                                               (PP (P to-to)
-                                                   (NP (PRO-RH ye-thee))))))))
+                           (PP-PRN (P has-as)
+                                   (CP-ADV (WNP-2 0)
+                                           (C 0)
+                                           (IP-SUB (NP-OB1 *T*-2)
+                                                   (NP-SBJ (D ye-the)
+                                                           (N angel-angel))
+                                                   (VBD tal=d-tell)
+                                                   (PP (P to-to)
+                                                       (NP (PRO-RH ye-thee))))))))
           (LINEBREAK \))
-          (ID MERTON248T.273))
+  (ID MERTON248T.273))
 
 ( (IP-IMP (PP (P weN-when)
               (CP-ADV (C 0)
@@ -4098,4 +4097,4 @@
           (HVI haue-have)
           (NP-OB1 (N-RH mERcy-mercy))
           (LINEBREAK \\))
-          (ID MERTON248T.274))
+  (ID MERTON248T.274))

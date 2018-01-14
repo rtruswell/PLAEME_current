@@ -25,7 +25,7 @@
          (FW VENI)
          (FW \)
          (FW FORAS))
-         (ID COTFAUSTBT.1))
+  (ID COTFAUSTBT.1))
 
 ( (IP-IMP (NP-VOC (PRO you-thou)
                   (NP-PRN (NPR la+gerE-la+gerE))
@@ -40,16 +40,16 @@
           (VBI rise-rise)
           (PP (P of-of{f})
               (NP (N sin-sin)))
-          (PP (P als-as)
-              (CP-ADV (WNP-2 0)
-                      (C 0)
-                      (IP-SUB (NP-OB1 *T*-2)
-                              (NP-SBJ (PRO i-I))
-                              (NP-OB2 (PRO the-thee))
-                              (VBP-RH rede-rae:dan))))
+          (PP-PRN (P als-as)
+                  (CP-ADV (WNP-2 0)
+                          (C 0)
+                          (IP-SUB (NP-OB1 *T*-2)
+                                  (NP-SBJ (PRO i-I))
+                                  (NP-OB2 (PRO the-thee))
+                                  (VBP-RH rede-rae:dan))))
           (PUNC .)
           (LINEBREAK \))
-          (ID COTFAUSTBT.2))
+  (ID COTFAUSTBT.2))
 
 ( (IP-IMP (CODE {PAGE~f106r})
           (CONJ and-&)
@@ -59,7 +59,7 @@
           (VBI cuM-come)
           (RP-RH oute-out)
           (PUNC ,))
-          (ID COTFAUSTBT.3))
+  (ID COTFAUSTBT.3))
 
 ( (IP-IMP (CONJ and-&)
           (PP-1 (P of-of)
@@ -71,7 +71,7 @@
                   (N-RH doute-doubt)
                   (PP *ICH*-1))
           (LINEBREAK \))
-          (ID COTFAUSTBT.4))
+  (ID COTFAUSTBT.4))
 
 ( (IP-MAT (PP (P of-though)
               (CP-ADV (C 0)
@@ -83,7 +83,7 @@
           (CODE {ORIGINAL~ih=^am})
           (NP-OB1 (N-RH life-life))
           (PUNC ,))
-          (ID COTFAUSTBT.5))
+  (ID COTFAUSTBT.5))
 
 ( (IP-MAT (NP-SBJ (PRO i-I))
           (MD sal-shall)
@@ -92,7 +92,7 @@
           (PP (P with=outen-without)
               (NP (N-RH strife-strife)))
           (PUNC .))
-          (ID COTFAUSTBT.6))
+  (ID COTFAUSTBT.6))
 
 ( (LATIN (FW *LAZARE)
          (CODE {COM_LAEME:three_words_of_Latin_too_faint_to_read_on_photocopy})
@@ -115,7 +115,7 @@
          (FW IdeO)
          (FW VEnI)
          (FW FORAS))
-         (ID COTFAUSTBT.7))
+  (ID COTFAUSTBT.7))
 
 ( (FRAG (NP-VOC (PRO you-thou)
                 (NP-PRN (NPR la+ger-la+ger)
@@ -146,7 +146,7 @@
                           (VB-RH brek=e-break)))
         (PUNC ,)
         (LINEBREAK \))
-        (ID COTFAUSTBT.8))
+  (ID COTFAUSTBT.8))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P of-of)
@@ -157,7 +157,7 @@
           (NP-OB1 (PRO the-thee))
           (VB-RH wrek=e-wrecan)
           (PUNC .))
-          (ID COTFAUSTBT.9))
+  (ID COTFAUSTBT.9))
 
 ( (IP-IMP (CONJ and-&)
           (PP (ADV+P yar=for-therefore))
@@ -167,7 +167,7 @@
           (RP-RH oute-out)
           (PUNC ,)
           (LINEBREAK \))
-          (ID COTFAUSTBT.10))
+  (ID COTFAUSTBT.10))
 
 ( (IP-IMP (CONJ and-&)
           (PP-1 (P of-of)
@@ -179,7 +179,7 @@
                   (N-RH =doute-doubt)
                   (PP *ICH*-1))
           (PUNC .))
-          (ID COTFAUSTBT.11))
+  (ID COTFAUSTBT.11))
 
 ( (LATIN (FW *LAZARE)
          (FW IN)
@@ -206,7 +206,7 @@
          (FW VENI)
          (FW FORAS)
          (FW .))
-         (ID COTFAUSTBT.12))
+  (ID COTFAUSTBT.12))
 
 ( (IP-MAT (NP-LFD (PRO you-thou)
                   (NP-PRN (NPR la+garE-la+garE))
@@ -232,7 +232,7 @@
                                   (NP (N thime-time)
                                       (ADJP (ADJ-RH lange-long)))))))
           (PUNC ,))
-          (ID COTFAUSTBT.13))
+  (ID COTFAUSTBT.13))
 
 ( (IP-MAT (NP-SBJ (PRO i-I))
           (MD sal-shall)
@@ -243,7 +243,7 @@
                   (ADJP (ADJ-RH strange-strong))))
           (PUNC .)
           (LINEBREAK \))
-          (ID COTFAUSTBT.14))
+  (ID COTFAUSTBT.14))
 
 ( (IP-IMP (CONJ and-&)
           (PP (ADV+P yar=for-therefore))
@@ -252,7 +252,7 @@
           (VBI cuM-come)
           (RP-RH oute-out)
           (PUNC ,))
-          (ID COTFAUSTBT.15))
+  (ID COTFAUSTBT.15))
 
 ( (IP-IMP (CONJ and-&)
           (PP (P of-of)
@@ -264,4 +264,4 @@
                   (N-RH doute-doubt))
           (PUNC .)
           (CODE {COM_LAEME:19_further_lines_of_Latin}))
-          (ID COTFAUSTBT.16))
+  (ID COTFAUSTBT.16))

@@ -32,7 +32,7 @@
                                                                                    (N-RH benche-bench))))))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.1))
+  (ID JESLASTDAY.1))
 
 ( (IP-MAT (PP (P +Tah-though)
               (CP-ADV (C 0)
@@ -59,7 +59,7 @@
           (VB-RH at=blench=e-atblencan)
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.2))
+  (ID JESLASTDAY.2))
 
 ( (IP-MAT (NP-VOC (PRO Ye-you)
                   (CODE {COM_LAEME:Enlarged_coloured_initial_*Y})
@@ -86,7 +86,7 @@
           (VB-RH tell=e-tell)
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.3))
+  (ID JESLASTDAY.3))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N feond-fiend))
@@ -100,22 +100,22 @@
                   (VB-RH quell=e-cwellan))
           (PUNC .)
           (LINEBREAK \)
-          (PP (P As-as)
-              (CP-ADV (WADVP-1 0)
-                      (C 0)
-                      (IP-SUB (ADVP *T*-1)
-                              (NP-SBJ (PRO we-we))
-                              (NP-2 (PRO hit-it))
-                              (VBP fynd=e+t-find)
-                              (IP-SMC (NP-SBJ *ICH*-2)
-                                      (VAN i=wryt=en-write)
-                                      (PUNC .)
-                                      (PP (P in-in{p})
-                                          (NP (D +te-the)
-                                              (N-RH god=spelle-gospel)))))))
+          (PP-PRN (P As-as)
+                  (CP-ADV (WADVP-1 0)
+                          (C 0)
+                          (IP-SUB (ADVP *T*-1)
+                                  (NP-SBJ (PRO we-we))
+                                  (NP-2 (PRO hit-it))
+                                  (VBP fynd=e+t-find)
+                                  (IP-SMC (NP-SBJ *ICH*-2)
+                                          (VAN i=wryt=en-write)
+                                          (PUNC .)
+                                          (PP (P in-in{p})
+                                              (NP (D +te-the)
+                                                  (N-RH god=spelle-gospel)))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.4))
+  (ID JESLASTDAY.4))
 
 ( (IP-MAT (CONJ Ah-ac)
           (CODE {COM_LAEME:Enlarged_coloured_initial_*A})
@@ -142,7 +142,7 @@
                                                     (VBD-RH com=e-come))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.5))
+  (ID JESLASTDAY.5))
 
 ( (IP-MAT (CODE {PAGE~f183r})
           (NP-SBJ (PRO We-we))
@@ -156,7 +156,7 @@
                            (ADVX (ADV-RH i=lo'me-gelo:me))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.6))
+  (ID JESLASTDAY.6))
 
 ( (IP-MAT (NP-LFD (NP (D +Te-the)
                       (N saule-soul))
@@ -170,7 +170,7 @@
           (ADJP (ADJ-RH i=som=e-geso:m))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.7))
+  (ID JESLASTDAY.7))
 
 ( (IP-MAT (PP (P Hwenne-when)
               (CODE {COM_LAEME:Enlarged_coloured_initial_*H})
@@ -182,7 +182,7 @@
                               (PUNC .)
                               (CONJP (CONJ and-&)
                                      (IP-SUB=1 (PP (P on-on{p})
-                                                   (NP (N eor+te-earth)))
+                                                   (NP (NPR eor+te-earth)))
                                                (VAN-RH i=fall=e-fall))))))
           (PUNC .)
           (LINEBREAK \)
@@ -199,7 +199,7 @@
                   (QP (Q-RH all=e-all))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.8))
+  (ID JESLASTDAY.8))
 
 ( (IP-MAT (CONJ Ah-ac)
           (ADVP-TMP (ADV seo+t+ten-since))
@@ -210,7 +210,7 @@
                   (N-RH halle-hall))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.9))
+  (ID JESLASTDAY.9))
 
 ( (IP-MAT (PP (P+D For=+ti-forthy))
           (NP-SBJ (CNJCTR the)
@@ -222,7 +222,7 @@
           (VB-RH fall=e-fall)
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.10))
+  (ID JESLASTDAY.10))
 
 ( (IP-MAT (VBP +Tenche-think)
           (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn})
@@ -272,7 +272,7 @@
                                            (NP-OB1 (N-RH on=sware-answer))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.11))
+  (ID JESLASTDAY.11))
 
 ( (IP-MAT (NEG N@-ne)
           (HVP @abbe-have)
@@ -280,7 +280,7 @@
           (NP-OB1 (ADV so-so)
                   (Q muchel-much))
           (PUNC .))
-          (ID JESLASTDAY.12))
+  (ID JESLASTDAY.12))
 
 ( (IP-MAT (NP-SBJ (Q al-all)
                   (PRO hit-it)
@@ -303,7 +303,7 @@
                                (N-RH hom-home))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.13))
+  (ID JESLASTDAY.13))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (ADJ sor=ye-sorry)
@@ -314,7 +314,7 @@
                   (N-RH mon-moan))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.14))
+  (ID JESLASTDAY.14))
 
 ( (IP-MAT (ADVP (ADV i=wis-gewis))
           (NEG ne-ne)
@@ -326,7 +326,7 @@
                   (Q-RH no'n-none))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.15))
+  (ID JESLASTDAY.15))
 
 ( (IP-MAT (PP (P +Tenne-then{w})
               (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn})
@@ -374,7 +374,7 @@
               (NP (Q-RH nouht-naught)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.16))
+  (ID JESLASTDAY.16))
 
 ( (IP-MAT (NEG Ne-ne)
           (CODE {COM_LAEME:Enlarged_coloured_initial_*N})
@@ -437,7 +437,7 @@
                                                             (VAN-RH for=lor=en-forlose))))))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.17))
+  (ID JESLASTDAY.17))
 
 ( (IP-MAT-1 (ADVP-TMP (ADV Ano'n)
                       (PP (P so-so)
@@ -496,7 +496,7 @@
                                                              (N-RH schrud-shroud)))))))
             (PUNC .)
             (LINEBREAK \))
-            (ID JESLASTDAY.18))
+  (ID JESLASTDAY.18))
 
 ( (IP-MAT (ADVP-TMP (ADV Nv-now))
           (CODE {COM_LAEME:Enlarged_coloured_initial_*N})
@@ -509,7 +509,7 @@
                   (N-RH ston-stone)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.19))
+  (ID JESLASTDAY.19))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO$ his-his)
@@ -522,7 +522,7 @@
                           (N-RH i=won-va:n{d})))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.20))
+  (ID JESLASTDAY.20))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (ADJ sor=ie-sorry)
@@ -533,7 +533,7 @@
                   (N-RH mon-moan))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.21))
+  (ID JESLASTDAY.21))
 
 ( (IP-MAT (PP-1 (P Of-of)
                 (NP (Q all=e-all)
@@ -550,7 +550,7 @@
                   (PP *ICH*-1))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.22))
+  (ID JESLASTDAY.22))
 
 ( (IP-MAT (ADVP-TMP (ADV +Tenne-then)
                     (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn}))
@@ -569,7 +569,7 @@
                        (ADJ fole-foul)
                        (N baly-belg)))
           (PUNC .))
-          (ID JESLASTDAY.23))
+  (ID JESLASTDAY.23))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV nv-now)
                         (CP-REL-SPE (WADVP-1 0)
@@ -593,7 +593,7 @@
                           (NP (NS-RH i=ver=e-gefe:ra))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.24))
+  (ID JESLASTDAY.24))
 
 ( (QTP (INTJ Away-a:wei)
        (CP-ADV-SPE (C +tat-that)
@@ -606,7 +606,7 @@
                                (BED-RH were-be)))
        (PUNC .)
        (LINEBREAK \))
-       (ID JESLASTDAY.25))
+  (ID JESLASTDAY.25))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (CODE {COM_LAEME:Enlarged_coloured_initial_*N})
@@ -637,7 +637,7 @@
                                                          (VBP-RH schenche-scencan)))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.26))
+  (ID JESLASTDAY.26))
 
 ( (IP-MAT-SPE (PP (PP (P For-for)
                       (NP (PRO$ +tine-thy)
@@ -661,7 +661,7 @@
                       (N-RH stenche-stench)))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.27))
+  (ID JESLASTDAY.27))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwer-where)
                        (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -692,7 +692,7 @@
                                                                          (NP (N-RH strete-street)))))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.28))
+  (ID JESLASTDAY.28))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now))
               (NP-SBJ (PRO heo-they))
@@ -704,7 +704,7 @@
               (VB-RH for=let=e-forlae:tan)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.29))
+  (ID JESLASTDAY.29))
 
 ( (IP-MAT-SPE (NEG N@-ne)
               (MD @olden-will)
@@ -720,7 +720,7 @@
               (VB-RH i=met=e-meet)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.30))
+  (ID JESLASTDAY.30))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwer-where)
                        (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -735,7 +735,7 @@
                                   (N-RH sonde-sond))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.31))
+  (ID JESLASTDAY.31))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwer-where))
               (IP-SUB-SPE (ADVP-LOC *T*-1)
@@ -752,7 +752,7 @@
                                                               (NP (N-RH honde-hand)))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.32))
+  (ID JESLASTDAY.32))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwer-where))
               (IP-SUB-SPE (ADVP-LOC *T*-1)
@@ -770,7 +770,7 @@
                                              (N-RH stonde-stande{c})))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.33))
+  (ID JESLASTDAY.33))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nu-now))
               (NP-SBJ (PRO +tu-thou))
@@ -786,7 +786,7 @@
                       (CODE {COM_LAEME:This_is_unlikely_to_be_a_form_of_"fiend"_because_it_would_not_provide~a_true_rhyme._All_the_other_version_of_the_text,_Digby,_Cotton_and}~Trinity,_hand_A,_all_have_WONDE_or_wONDE_here_-_so_it_is_presumably_original})))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.34))
+  (ID JESLASTDAY.34))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Ofte-often)
                         (CODE {COM_LAEME:Enlarged_coloured_initial_*O}))
@@ -801,21 +801,21 @@
                                           (N-RH wille-will))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.35))
+  (ID JESLASTDAY.35))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Euer-ever))
               (NP-SBJ (PRO +tu-thou))
               (BED were-be)
               (ADVP (ADV a=buten-about{re}))
               (PUNC .)
-              (IP-INF-PRP (NP-OB1 (PRO vs-us)
-                                  (Q bo-both))
-                          (FOR uor@-for)
-                          (TO @to-to)
-                          (VB-RH spill=e-spill))
+              (IP-INF-PRP-SPE (NP-OB1 (PRO vs-us)
+                                      (Q bo-both))
+                              (FOR uor@-for)
+                              (TO @to-to)
+                              (VB-RH spill=e-spill))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.36))
+  (ID JESLASTDAY.36))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now))
               (NP-SBJ (PRO +tu-thou))
@@ -827,7 +827,7 @@
                     (ADV-RH stylle-still))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.37))
+  (ID JESLASTDAY.37))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO ich-I))
@@ -840,7 +840,7 @@
                     (ADV-RH ille-ill))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.38))
+  (ID JESLASTDAY.38))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwi-why)
                        (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -853,8 +853,8 @@
                                             (NP (NPR criste-christ)))
                                         (PUNC .)
                                         (VB mak=en-make)
-                                        (IP-SMC (NP-SBJ (PRO vs-us))
-                                                (ADJP (VAN-RH i=sauhte-sehtan))))
+                                        (IP-SMC-SPE (NP-SBJ (PRO vs-us))
+                                                    (ADJP (VAN-RH i=sauhte-sehtan))))
                           (PUNC .)
                           (LINEBREAK \)
                           (CONJP (IP-SUB-SPE=2 (NP-3 (NS Mass=en-mass)
@@ -872,7 +872,7 @@
                                                                                  (VBD-RH bi=tauh=te-betae:can))))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.39))
+  (ID JESLASTDAY.39))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Euer-ever))
               (NP-SBJ (PRO +tu-thou))
@@ -885,7 +885,7 @@
                                       (N-RH ayhte-ae:ht)))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.40))
+  (ID JESLASTDAY.40))
 
 ( (IP-MAT-SPE (PP (P+D For=+ti-forthy))
               (NP-SBJ (PRO we-we))
@@ -897,10 +897,10 @@
               (VAN-RH bi=pauh=te-bepae:can)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.41))
+  (ID JESLASTDAY.41))
 
-( (IP-MAT-SPE (IP-MAT-SPE-1 (ADVP (ADV Selde-seldom))
-                            (CODE {COM_LAEME:Enlarged_coloured_initial_*S})
+( (IP-MAT-SPE (IP-MAT-SPE-1 (ADVP-TMP (ADV Selde-seldom)
+                                      (CODE {COM_LAEME:Enlarged_coloured_initial_*S}))
                             (MD wule-will)
                             (NP-SBJ (MAN me-man))
                             (PP (P for-for)
@@ -922,7 +922,7 @@
                                            (N-RH offr=inge-offer))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.42))
+  (ID JESLASTDAY.42))
 
 ( (IP-MAT-SPE (IP-MAT-1 (NP-SBJ (MAN Me-man))
                         (MD wule-will)
@@ -946,7 +946,7 @@
                                                      (NS-RH +ting=e-thing))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.43))
+  (ID JESLASTDAY.43))
 
 ( (IP-IMP-SPE (VBI Ly-licgan)
               (CODE {COM_LAEME:Enlarged_coloured_initial_*L})
@@ -960,7 +960,7 @@
                                                 (VBP-RH =a=ryse-arise))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.44))
+  (ID JESLASTDAY.44))
 
 ( (IP-MAT-SPE (PP (P Hwenne-when)
                   (CP-ADV-SPE (C 0)
@@ -977,7 +977,7 @@
               (VB-RH a=grys=e-agri:san)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.45))
+  (ID JESLASTDAY.45))
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (CONJ For-for)
                             (NP-SBJ (PRO ich-I))
@@ -1004,7 +1004,7 @@
                                            (NS-RH wis=e-wi:se)))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.46))
+  (ID JESLASTDAY.46))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now)
                         (CODE {COM_LAEME:Enlarged_coloured_initial_*N}))
@@ -1018,7 +1018,7 @@
               (VAN-RH i=wrouh=t-work)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.47))
+  (ID JESLASTDAY.47))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO +tu-thou))
@@ -1030,11 +1030,11 @@
               (VAN-RH i=brouh=t-bring)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.48))
+  (ID JESLASTDAY.48))
 
 ( (IP-MAT-SPE (CODE {PAGE~f184r})
               (CODE (CODE DEL)
-                    (XXX *ME)
+                    (MISC *ME)
                     (CODE {COM_LAEME:del,_crossed_through}))
               (ADVP-TMP (ADV Nu-now))
               (MD schulle-shall)
@@ -1046,7 +1046,7 @@
               (VAN-RH i=souh=t-seek)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.49))
+  (ID JESLASTDAY.49))
 
 ( (IP-MAT-SPE (NP-SBJ (MAN Me-man))
               (MD wule-will)
@@ -1054,7 +1054,7 @@
               (NP-OB1 (PRO$ +tin-thy)
                       (N hus-house))
               (PUNC .))
-              (ID JESLASTDAY.50))
+  (ID JESLASTDAY.50))
 
 ( (QTP (CONJ and-&)
        (RP vt-out)
@@ -1063,7 +1063,7 @@
                (N-RH swofte-swoft)))
        (PUNC .)
        (LINEBREAK \))
-       (ID JESLASTDAY.51))
+  (ID JESLASTDAY.51))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO$ +Ti-thy)
                       (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn})
@@ -1082,7 +1082,7 @@
                                             (NP *T*-2))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.52))
+  (ID JESLASTDAY.52))
 
 ( (IP-MAT-SPE (NP-SBJ (NP (D +Te-the)
                           (N rof-roof))
@@ -1097,7 +1097,7 @@
                       (N-RH chynne-chin)))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.53))
+  (ID JESLASTDAY.53))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nu=-now))
               (NP-1 (PRO =+te-thee))
@@ -1108,7 +1108,7 @@
                   (NP *ICH*-1))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.54))
+  (ID JESLASTDAY.54))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (MD may-may)
@@ -1122,7 +1122,7 @@
                       (N-RH gynne-gin)))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.55))
+  (ID JESLASTDAY.55))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now))
               (CODE {COM_LAEME:Enlarged_coloured_initial_*N})
@@ -1138,7 +1138,7 @@
                                  (N-RH mowe-ma:ge))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.56))
+  (ID JESLASTDAY.56))
 
 ( (IP-MAT-SPE (NP-SBJ (Q All=e-all)
                       (PRO heo-they))
@@ -1155,7 +1155,7 @@
                                                       (ADJ-RH ow=e-own)))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.57))
+  (ID JESLASTDAY.57))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO +tu-thou))
@@ -1169,7 +1169,7 @@
                     (ADV-RH lowe-low))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.58))
+  (ID JESLASTDAY.58))
 
 ( (CP-QUE-SPE (INTJ Way-wei)
               (WADVP-1 (WADV hwi-why))
@@ -1186,7 +1186,7 @@
                           (VAN-RH i=know=e-know))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.59))
+  (ID JESLASTDAY.59))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now))
               (CODE {COM_LAEME:Enlarged_coloured_initial_*N})
@@ -1226,7 +1226,7 @@
                                                          (VBD-RH sunge-sing))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.60))
+  (ID JESLASTDAY.60))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO +tu-thou))
@@ -1240,7 +1240,7 @@
               (VAN-RH i=+trung=e-Yringan)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.61))
+  (ID JESLASTDAY.61))
 
 ( (CP-QUE-SPE (WADVP-1 (WADV Hwer-where)
                        (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -1257,7 +1257,7 @@
                                                           (BED-RH were-be)))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.62))
+  (ID JESLASTDAY.62))
 
 ( (IP-MAT-SPE (PP (P Of-of)
                   (NP (Q all=e-all)
@@ -1272,7 +1272,7 @@
                     (ADJ-RH skere-skaerr))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.63))
+  (ID JESLASTDAY.63))
 
 ( (IP-IMP-SPE (BEI Beo-be)
               (NP-SBJ (PRO +tu-thou))
@@ -1284,7 +1284,7 @@
                       (N-RH i=fe're-gefe:ra))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.64))
+  (ID JESLASTDAY.64))
 
 ( (IP-MAT (NP-SBJ (PRO Hit-it))
           (BEP bi+t-be)
@@ -1301,7 +1301,7 @@
                                       (CODE {COM_LAEME:sj_context}))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.65))
+  (ID JESLASTDAY.65))
 
 ( (IP-MAT (NP-LFD (Q Al-all)
                   (CODE {COM_LAEME:Enlarged_coloured_initial_*A})
@@ -1318,7 +1318,7 @@
                 (ADJ-RH god-good))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.66))
+  (ID JESLASTDAY.66))
 
 ( (IP-MAT-SPE (NP-OB1 (D +Tat-that))
               (VBD mak=ede-make)
@@ -1332,7 +1332,7 @@
                                               (VBD-RH bi=stod-bestand))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.67))
+  (ID JESLASTDAY.67))
 
 ( (CP-QUE-SPE (HVD Heu=edes-have)
               (NP-SBJ (PRO tu-thou))
@@ -1340,7 +1340,7 @@
               (NP-OB1 (PRO$ +ti-thy)
                       (N wille-will))
               (PUNC .))
-              (ID JESLASTDAY.68))
+  (ID JESLASTDAY.68))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO +tu-thou))
               (BED were-be)
@@ -1348,7 +1348,7 @@
                     (ADJ-RH wod-wo:d))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.69))
+  (ID JESLASTDAY.69))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (NP-SBJ (PRO ich-I))
@@ -1360,7 +1360,7 @@
                     (ADJ-RH sor=i=mod-sorrymo:d))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.70))
+  (ID JESLASTDAY.70))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nv-now)
                         (CODE {COM_LAEME:Enlarged_coloured_initial_*N}))
@@ -1368,7 +1368,7 @@
               (MD schalt-shall)
               (VB by=leu=en-belae:fan)
               (PUNC .))
-              (ID JESLASTDAY.71))
+  (ID JESLASTDAY.71))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (NP-SBJ (PRO ich-I))
@@ -1377,7 +1377,7 @@
               (ADVP (ADV-RH nede-need))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.72))
+  (ID JESLASTDAY.72))
 
 ( (IP-MAT-SPE (PP (P For-for)
                   (NP (Q all=e-all)
@@ -1390,7 +1390,7 @@
               (NP-OB1 (N-RH mede-meed))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.73))
+  (ID JESLASTDAY.73))
 
 ( (IP-MAT-SPE (NP-SBJ (D +Tat-that))
               (BEP is-be)
@@ -1403,7 +1403,7 @@
                              (N-RH glede-gle:d)))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.74))
+  (ID JESLASTDAY.74))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (ADVP (ADV so-so))
@@ -1416,7 +1416,7 @@
               (VB-RH bred=e-brae:dan)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.75))
+  (ID JESLASTDAY.75))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I)
                       (CODE {COM_LAEME:Enlarged_coloured_initial_*I}))
@@ -1430,7 +1430,7 @@
                          (PP (P bi-by{t})
                              (NP (N-RH nyht-night)))))
               (LINEBREAK \))
-              (ID JESLASTDAY.76))
+  (ID JESLASTDAY.76))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO Ich-I))
               (VBP schal-shall{mv})
@@ -1460,7 +1460,7 @@
                                                       (N-RH wiht-wight))))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.77))
+  (ID JESLASTDAY.77))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
               (MD schal-shall)
@@ -1477,7 +1477,7 @@
                                                     (ADJ-RH bryht-bright)))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.78))
+  (ID JESLASTDAY.78))
 
 ( (IP-MAT-SPE (PP (P IN-in{p})
                   (CODE {COM_LAEME:Enlarged_coloured_initial_*I})
@@ -1491,7 +1491,7 @@
               (ADJP-SPR (ADJ-RH naked-naked))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.79))
+  (ID JESLASTDAY.79))
 
 ( (IP-MAT-SPE (PP (PP (P Of-of)
                       (NP (N pych-pitch)))
@@ -1505,7 +1505,7 @@
               (VAN-RH i=mak=ed-make)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.80))
+  (ID JESLASTDAY.80))
 
 ( (IP-MAT-SPE (CODE {PAGE~f184v})
               (ADVP-LOC (ADV +Ter-there))
@@ -1520,7 +1520,7 @@
                             (N-RH rake-rake))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.81))
+  (ID JESLASTDAY.81))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (ADVP (ADV so-so))
@@ -1533,7 +1533,7 @@
                       (N-RH drake-dragon))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.82))
+  (ID JESLASTDAY.82))
 
 ( (IP-MAT-SPE (PP (P +Tah-though)
                   (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn})
@@ -1560,7 +1560,7 @@
               (NP-OB1 (Q-RH nouht-naught))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.83))
+  (ID JESLASTDAY.83))
 
 ( (IP-MAT-SPE (ADVP (ADV Wo-woe))
               (BEP is-be)
@@ -1576,7 +1576,7 @@
                                               (VAN-RH i=brouh=t-bring))))
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.84))
+  (ID JESLASTDAY.84))
 
 ( (IP-MAT-SPE (INTJ Away-a:wei)
               (PUNC .)
@@ -1589,7 +1589,7 @@
               (VBN-RH by=souh=t-beseech)
               (PUNC .)
               (LINEBREAK \))
-              (ID JESLASTDAY.85))
+  (ID JESLASTDAY.85))
 
 ( (CP-QUE (WNP-1 (WPRO Hwo-who)
                  (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -1598,7 +1598,7 @@
                   (NP-OB1 (D +tene-the)
                           (N qued-cwe:ad{d})))
           (PUNC .))
-          (ID JESLASTDAY.86))
+  (ID JESLASTDAY.86))
 
 ( (CP-EXL (WADJP-1 (WADV hw-how)
                    (ADJ lod=lich-lothly))
@@ -1608,14 +1608,14 @@
                   (BEP-RH beo-be))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.87))
+  (ID JESLASTDAY.87))
 
 ( (FRAG (NP (NS Horn=es-horn)
             (PP (P on-on{p})
                 (NP (PRO$ his-his)
                     (N heued-head))))
         (PUNC .))
-        (ID JESLASTDAY.88))
+  (ID JESLASTDAY.88))
 
 ( (FRAG (NP (NS horn=es-horn)
             (PP (P on-on{p})
@@ -1623,7 +1623,7 @@
                     (N-RH kneo-knee))))
         (PUNC .)
         (LINEBREAK \))
-        (ID JESLASTDAY.89))
+  (ID JESLASTDAY.89))
 
 ( (IP-MAT (NP-SBJ-1 *exp*)
           (NEG N@-ne)
@@ -1639,7 +1639,7 @@
                                 (BEP-RH beo-be))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.90))
+  (ID JESLASTDAY.90))
 
 ( (IP-MAT (NP-SBJ (N Wo-woe))
           (BEP is-be)
@@ -1656,7 +1656,7 @@
                                   (VB-RH i=seo-see))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.91))
+  (ID JESLASTDAY.91))
 
 ( (IP-MAT (NP-SBJ (PRO He-he)
                   (CODE {COM_LAEME:Enlarged_coloured_initial_*H}))
@@ -1665,7 +1665,7 @@
               (NP (PRO$ his-his)
                   (N mu+te-mouth)))
           (PUNC .))
-          (ID JESLASTDAY.92))
+  (ID JESLASTDAY.92))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -1675,7 +1675,7 @@
                   (N-RH eye-eye)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.93))
+  (ID JESLASTDAY.93))
 
 ( (IP-MAT (PP (P Of-of{f})
               (NP (PRO$ his-his)
@@ -1687,7 +1687,7 @@
                   (N-RH leye-le:g))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.94))
+  (ID JESLASTDAY.94))
 
 ( (IP-MAT (NP-SBJ (D +Tat-that)
                   (N fur-fire))
@@ -1700,7 +1700,7 @@
                   (N-RH breye-brow)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.95))
+  (ID JESLASTDAY.95))
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (MD moste-mo:t)
@@ -1715,7 +1715,7 @@
                                   (VBD-RH i=seye-see))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.96))
+  (ID JESLASTDAY.96))
 
 ( (IP-MAT (ALSO Al=so-also)
           (CODE {COM_LAEME:Enlarged_coloured_initial_*A})
@@ -1728,7 +1728,7 @@
                   (INS COLPUT_DUP_ANT_GRET_.)
                   (CODE {COM_LAEME:ins,_added_in_a_later_hand_to_complete_the_simile})))
           (LINEBREAK \))
-          (ID JESLASTDAY.97))
+  (ID JESLASTDAY.97))
 
 ( (IP-MAT (NP-SBJ (D +Tat-the)
                   (N fur-fire))
@@ -1740,7 +1740,7 @@
                     (ADJ-RH red-red))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.98))
+  (ID JESLASTDAY.98))
 
 ( (IP-MAT (NEG Ne-ne)
           (MD may-may)
@@ -1757,7 +1757,7 @@
                                   (N-RH qued-cwe:ad{d}))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.99))
+  (ID JESLASTDAY.99))
 
 ( (IP-MAT (NP-LFD (CP-FRL (WNP-1 (WPRO Hwo@-who)
                                  (ADV @so-so))
@@ -1775,7 +1775,7 @@
           (ADJP (ADJ-RH ded-dead))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.100))
+  (ID JESLASTDAY.100))
 
 ( (IP-MAT (VBP Holde-hold)
           (CODE {COM_LAEME:Enlarged_coloured_initial_*H})
@@ -1787,7 +1787,7 @@
               (NP (N-RH hor=dom-whoredom)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.101))
+  (ID JESLASTDAY.101))
 
 ( (IP-MAT (NP-1 (NS Mass=es-mass))
           (NP-SBJ *con*)
@@ -1800,7 +1800,7 @@
                                  (DOP-RH don-do))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.102))
+  (ID JESLASTDAY.102))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1813,7 +1813,7 @@
                   (ADJP (ADJ-RH i=som-geso:m)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.103))
+  (ID JESLASTDAY.103))
 
 ( (IP-MAT (ADVP-TMP (ADV +Tenne-then))
           (MD muwe-may)
@@ -1826,7 +1826,7 @@
                   (N-RH dom-doom)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.104))
+  (ID JESLASTDAY.104))
 
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (CODE {COM_LAEME:Enlarged_coloured_initial_capital_thorn})
@@ -1855,7 +1855,7 @@
                   (N-RH wihte-wight)))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.105))
+  (ID JESLASTDAY.105))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1872,7 +1872,7 @@
                                          (N-RH ryhte-right)))))
           (PUNC .)
           (LINEBREAK \))
-          (ID JESLASTDAY.106))
+  (ID JESLASTDAY.106))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ *con*)
@@ -1884,9 +1884,9 @@
               (NP (NPR+N$ heoue=rich=e-heavenrich{k})
                   (N-RH lyhte-light)))
           (PUNC .))
-          (ID JESLASTDAY.107))
+  (ID JESLASTDAY.107))
 
 ( (FRAG (FW *AMEN)
         (FW .)
         (LINEBREAK \\))
-        (ID JESLASTDAY.108))
+  (ID JESLASTDAY.108))
