@@ -266,7 +266,7 @@
 ( (IP-MAT (NP-OB1 (D +Tat-that))
           (VBP vn=do=s-undo)
           (NP-SBJ (PRO he-he))
-          (ADVP-LOC (Q+ADV-RH nau+ter=quar-neitherwhere)
+          (ADVP-LOC (Q+WADV-RH nau+ter=quar-neitherwhere)
                     (CODE {GLOSS~nowhere}))
           (LINEBREAK \)
           (PP (P +Toch-though)

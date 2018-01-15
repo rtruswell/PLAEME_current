@@ -2912,7 +2912,7 @@
                           (PP (P on-on{p})
                               (NP (N maN-man)))
                           (PP (P on-on{t})
-                              (NP (N-RH dom=es=dai-doomsday)))))
+                              (NP (NPR$+NPR-RH dom=es=dai-doomsday)))))
           (LINEBREAK \))
   (ID EDINCMCT.163))
 

@@ -707,7 +707,7 @@
                             (PP (P to-to)
                                 (NP (PRO me-me)))
                             (PP (P on-on{t})
-                                (NP (N-RH dom=es=day-doomsday)))
+                                (NP (NPR$+NPR-RH dom=es=day-doomsday)))
                             (LINEBREAK \))
               (CONJP (CONJ And-&)
                      (IP-SUB-SPE=1 (IP-SUB-SPE-3 (VB com=e-come)

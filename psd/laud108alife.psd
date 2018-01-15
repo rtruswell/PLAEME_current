@@ -14670,7 +14670,7 @@
               (VBI Wit=ez-witan)
               (ADVP (ADV wel-well{w}))
               (CP-THT-SPE (C +tat-that)
-                          (IP-SUB-SPE (NP-SBJ (N+N dom=es=day-doomsday))
+                          (IP-SUB-SPE (NP-SBJ (NPR$+NPR dom=es=day-doomsday))
                                       (PUNC .')
                                       (NEG ne-ne)
                                       (VBP com=eth-come)

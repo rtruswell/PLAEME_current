@@ -169,7 +169,7 @@
           (PP (P +tat-that{u})
               (CP-ADV (C 0)
                       (IP-SUB (VBP come-come)
-                              (NP-SBJ (N-RH dom=es=dai-doomsday)))))
+                              (NP-SBJ (NPR$+NPR-RH dom=es=dai-doomsday)))))
           (LINEBREAK \))
   (ID DIGBY86DOOMSDAY.10))
 
