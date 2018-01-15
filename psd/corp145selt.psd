@@ -9493,7 +9493,7 @@
           (PP (P wi+t-with{w})
               (NP (PRO hiM-him)))
           (ALSO also-also)
-          (NP-SBJ (NUM mon=y=on-manyone))
+          (NP-SBJ (Q+ONE mon=y=on-manyone))
           (PUNC .)
           (ADVP-TMP (ADV euere-ever))
           (PP (P as-as)

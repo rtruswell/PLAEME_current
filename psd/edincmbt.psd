@@ -29,7 +29,7 @@
                                   (N miht-might))
                           (PP (P iN-in{m})
                               (NP (NS pERson=s-person)
-                                  (NUM .iij.-.iij.))))
+                                  (NUM .IIJ.-three))))
                   (LINEBREAK \)
                   (PP (P With=outen-without)
                       (NP (N end-end)
