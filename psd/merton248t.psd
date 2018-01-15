@@ -2359,7 +2359,7 @@
               (CP-ADV (C 0)
                       (IP-SUB (IP-SUB (CNJCTR he)
                                       (VBD fed-feed)
-                                      (NP-OB1 (NUM+NUM fyue=thowzaNd-5000)
+                                      (NP-OB1 (NUM+NUM fyue=thowzaNd-fivethousand)
                                               (PP (P of-of)
                                                   (NP (NS meN-man))))
                                       (PP (P wyt-with{w})

@@ -1,7 +1,7 @@
 ( (FRAG (CODE {PAGE~f2r})
         (CODE {COM_LAEME:The_first_and_last_lines_of_each_four-line_stanza_are_linked_with_a~wiggly_brace})
         (PP (P Of-of)
-            (NP (ONE on-1)
+            (NP (ONE on-one)
                 (CP-REL (WNP-1 0)
                         (C +tat-that)
                         (IP-SUB (NP-SBJ *T*-1)

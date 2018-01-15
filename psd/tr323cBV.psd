@@ -42,7 +42,7 @@
    (ID TR323CBV.5))
 
 ( (IP-MAT (PP (P of-of)
-	      (NP (ONE on-1)
+	      (NP (ONE on-one)
 		  (CP-REL *ICH*-1)))
 	  (NP-SBJ (PRO ic-I))
 	  (MD wille-will)

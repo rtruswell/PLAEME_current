@@ -197,7 +197,7 @@
           (NP-TMP (Q ilke-each)
                   (N gher-year))
           (PUNC .)
-          (NP-OB1 (NUM foure=thousend-4000)
+          (NP-OB1 (NUM+NUM foure=thousend-fourthousand)
                   (NS eel-eel))
           (PUNC .)
           (PP (P in-in{t})

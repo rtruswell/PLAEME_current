@@ -186,7 +186,7 @@
           (LINEBREAK \))
   (ID DIGBY86PSALTER.10))
 
-( (IP-MAT (NP-OB1 (ONE One-1)
+( (IP-MAT (NP-OB1 (ONE One-one)
                   (N sone-son)
                   (CP-REL *ICH*-1))
           (NP-SBJ (PRO he-he))
@@ -428,7 +428,7 @@
                       (VB tell=e-tell)
                       (MD-RH may-may))
           (LINEBREAK \)
-          (NUMP-3 (NUM On=houndred-100)
+          (NUMP-3 (ONE+NUM On=houndred-onehundred)
                   (CODE {COM_LAEME:Four-line_coloured_initial_*O._Guide_letter_O_visible_beneath}))
           (NP-TMP (Q ewche-each)
                   (N-RH day-day))
@@ -547,7 +547,7 @@
           (LINEBREAK \))
   (ID DIGBY86PSALTER.31))
 
-( (IP-MAT (NUMP-1 (NUM On=houndret-100))
+( (IP-MAT (NUMP-1 (ONE+NUM On=houndret-onehundred))
           (PP (P to-to)
               (NP (D +te-the)
                   (N-RH meyde-maid)))
@@ -730,7 +730,7 @@
                    (NP (FW AUE)
                        (FW MARIES)))
                (LINEBREAK \)
-               (NP-PRN (NUM Fif>ti>-50)
+               (NP-PRN (NUM Fif>ti>-fifty)
                        (NP-TMP (CODE {COM_LAEME:TI_interlined_above})
                                (D on-a)
                                (N day-day))
@@ -1117,7 +1117,7 @@
           (NP-TMP (D +Tat-that)
                   (N day-day))
           (NP-MSR (D a=-a)
-                  (NUM+N-RH =se=ve=ni+gtte-7night))
+                  (NUM+N-RH =se=ve=ni+gtte-sevennight))
           (LINEBREAK \))
   (ID DIGBY86PSALTER.63))
 
@@ -1461,7 +1461,7 @@
   (ID DIGBY86PSALTER.84))
 
 ( (IP-MAT-SPE (CONJ Wor-for)
-              (NP-TMP (NUM seue=-7)
+              (NP-TMP (NUM seue=-seven)
                       (NS =+ger-year)
                       (PP (P after-after)
                           (NP (D-RH +tis-this))))

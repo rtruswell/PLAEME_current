@@ -770,7 +770,7 @@
           (IP-INF (TO To-to)
                   (VB mak=en-make)
                   (PP (P of-of)
-                      (NP (ONE on-1)))
+                      (NP (ONE on-one)))
                   (NP-OB1 (NUM two-two)))
           (LINEBREAK \))
   (ID DIGBY86HENDINGT.42))

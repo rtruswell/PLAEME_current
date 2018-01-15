@@ -119,7 +119,7 @@
   (ID ADDE6BXVSIGNS.7))
 
 ( (IP-MAT (NP-SBJ (D +tat-the)
-                  (OTHER o+tir-2)
+                  (OTHER o+tir-other)
                   (N day-day))
           (BEP is-be)
           (ADJP (ADJ strong-strong))
@@ -1799,7 +1799,7 @@
                   (PP (P Fram-from)
                       (NP (NPR adam-adam)
                           (NP-PRN (D +te-the)
-                                  (ADJ forme-1)
+                                  (ADJ forme-first)
                                   (N-RH manne-man))))
                   (LINEBREAK \)
                   (CP-REL (WNP-1 0)

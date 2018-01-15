@@ -615,7 +615,7 @@
           (LINEBREAK \))
   (ID EMMANUEL27MISC.27))
 
-( (IP-MAT (NP-TMP (ONE A-1)
+( (IP-MAT (NP-TMP (ONE A-one)
                   (N day-day))
           (NP-OB2 (PRO me-me))
           (VBP com=e+t-come)
@@ -626,7 +626,7 @@
   (ID EMMANUEL27MISC.28))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (D +tat-the)
-                            (ONE on-1))
+                            (ONE on-one))
                     (NP-OB2 (PRO Me-me))
                     (VBP sei=+t-say)
                     (PUNC .')
@@ -637,7 +637,7 @@
           (LINEBREAK \)
           (CONJP (CONJ And-&)
                  (IP-MAT=1 (NP-SBJ (D +tat-the)
-                                   (OTHER o+ter-2))
+                                   (OTHER o+ter-other))
                            (PUNC .')
                            (CP-THT (C +tat-that)
                                    (IP-SUB (NP-SBJ (PRO y=-I))

@@ -872,7 +872,7 @@
               (BEP am-be)
               (NP-SBJ (PRO i=-I))
               (CODE {ORIGINAL~am=i=})
-              (NP-OB1 (ONE =on-1)
+              (NP-OB1 (ONE =on-one)
                       (NP *ICH*-1))
               (LINEBREAK \)
               (CODE {COM_LAEME:fragment_breaks_off}))

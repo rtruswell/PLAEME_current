@@ -147,7 +147,7 @@
 ( (IP-MAT (NP-VOC (VAN SproNg=e-spring)
                   (N blostme-blossom)
                   (PP (P of-of{f})
-                      (NP (ONE one-1)
+                      (NP (ONE one-one)
                           (LINEBREAK \)
                           (N rote-root))))
           (NP-SBJ (D +te-the)
@@ -172,7 +172,7 @@
                                  (TO to-to)
                                  (VB a=le\s=en-ale:san)
                                  (PP (P for-for)
-                                     (NP (ONE on-1))))))
+                                     (NP (ONE on-one))))))
           (PUNC .))
   (ID CCCO59MISC.13))
 

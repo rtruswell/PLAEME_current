@@ -453,7 +453,7 @@
 
 ( (IP-MAT (NP-SBJ (CODE {PAGE~l50})
                   (D +t^t=-the)
-                  (ONE on-1)
+                  (ONE on-one)
                   (CODE {COM_LAEME:Original:_y^T-ON}))
           (VBP sey=d-say)
           (IP-IMP-SPE (VBI Let-lae:tan)))

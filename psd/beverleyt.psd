@@ -514,7 +514,7 @@
   (ID BEVERLEYT.16))
 
 ( (IP-MAT (CONJ Bot-but)
-          (NP-1 (NUM Twelue=-12)
+          (NP-1 (NUM Twelue=-twelve)
                 (NS =men-man))
           (VBP wil-will{mv})
           (NP-SBJ (PRO i-I))
