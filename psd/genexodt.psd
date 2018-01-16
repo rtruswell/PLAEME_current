@@ -3587,7 +3587,7 @@
               (LINEBREAK \))
   (ID GENEXODT.198))
 
-( (CP-QUE-SPE (INS .DOminu^S.)
+( (CP-QUE-SPE (META .DOminu^S.)
               (CODE {COM_LAEME:ins,_in_right_hand_margin})
               (WNP-1 (WPRO Quo-who))
               (IP-SUB-SPE (NP-SBJ *T*-1)
@@ -3694,7 +3694,7 @@
               (LINEBREAK \))
   (ID GENEXODT.203))
 
-( (IP-MAT-SPE (INS .DOminu^S.)
+( (IP-MAT-SPE (META .DOminu^S.)
               (CODE {COM_LAEME:ins,_in_right_margin})
               (IP-MAT-SPE-1 (CONJ And-&)
                             (CODE {COM_LAEME:Two-line_red_initial_*A_with_the_first_element_taking_up_another}_~line's_depth_in_the_left_margin})
@@ -12813,7 +12813,7 @@
           (LINEBREAK \))
   (ID GENEXODT.777))
 
-( (IP-IMP-SPE (INS .DOminus.)
+( (IP-IMP-SPE (META .DOminus.)
               (CODE {COM_LAEME:ins,_in_right_margin})
               (VBI Tac-take)
               (NP-OB1 (PRO$ +din-thy)
