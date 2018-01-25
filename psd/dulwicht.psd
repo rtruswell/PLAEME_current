@@ -147,7 +147,7 @@
                                   (N-RH schame-shame))))))
   (ID DULWICHT.11))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *IHesU)
         (FW IHesU)
         (FW ProPter)
@@ -414,7 +414,7 @@
                               (ADVP (ADV wel-well{w}))
                               (VB-RH undir=stond=e-understand))))
           (LINEBREAK \)
-          (IP-INF (NP-OB1 (N Sum=yng-something)
+          (IP-INF (NP-OB1 (Q+N Sum=yng-something)
                           (PP (P of-of)
                               (NP (PRO ye-thee))))
                   (VB (VB writ=e-write)
@@ -445,7 +445,7 @@
               (NP (D ye-the)
                   (N godspelle-gospel)))
           (MD may-may)
-          (NP-OB1 (N sum=ying-something)
+          (NP-OB1 (Q+N sum=ying-something)
                   (CP-REL *ICH*-2))
           (VB-RH ler=e-lae:ran)
           (PUNC .)
@@ -606,7 +606,7 @@
           (LINEBREAK \))
   (ID DULWICHT.28))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ACTus)
         (FW IIII)
         (FW .)
@@ -630,7 +630,7 @@
         (LINEBREAK \))
   (ID DULWICHT.29))
 
-( (FRAG (CODE {INSSTART})
+( (LATIN (CODE {INSSTART})
         (CODE {COM_LAEME:ins,_in_bottom_margin})
         (PUNC para)
         (FW *SAPientia)
@@ -870,7 +870,7 @@
           (LINEBREAK \))
   (ID DULWICHT.35))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW YSYDORus)
         (FW CERUU^S)
         (FW INQu^ID)
@@ -1223,7 +1223,7 @@
           (LINEBREAK \))
   (ID DULWICHT.45))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *SICUT)
         (FW CERUUS)
         (FW FONTES)
@@ -1488,7 +1488,7 @@
           (LINEBREAK \))
   (ID DULWICHT.51))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW PETRA)
         (FW AUTEm)
         (FW ERAT)
@@ -1535,7 +1535,7 @@
           (LINEBREAK \))
   (ID DULWICHT.53))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW AQu^ILA)
         (FW UT)
         (FW Di^Cit)
@@ -1730,7 +1730,7 @@
           (LINEBREAK \))
   (ID DULWICHT.58))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW BOETIus)
         (FW LIBro)
         (FW COnSOLationis)
@@ -1917,7 +1917,7 @@
           (LINEBREAK \))
   (ID DULWICHT.63))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW G^ENesis)
         (FW .I.)
         (FW Cr^ESCITE)
@@ -2193,7 +2193,7 @@
           (LINEBREAK \))
   (ID DULWICHT.73))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Pr^IMA)
         (FW *IONIS)
         (FW SCITIS)
@@ -2389,7 +2389,7 @@
             (PUNC .))
   (ID DULWICHT.80))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW BONI)
         (FW .')
         (FW IN)
@@ -2427,7 +2427,7 @@
         (LINEBREAK \))
   (ID DULWICHT.81))
 
-( (FRAG (CODE {PAGE~f83rb})
+( (LATIN (CODE {PAGE~f83rb})
         (PUNC para)
         (FW MARTINus)
         (FW In)
@@ -2533,7 +2533,7 @@
                 (MISC B-B)))
   (ID DULWICHT.85))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW YSAYE)
         (FW .VII.)
         (FW ECCE)
@@ -2689,7 +2689,7 @@
               (LINEBREAK \))
   (ID DULWICHT.92))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW AUGustinus)
         (FW *SCIEBAnT)
         (FW InQu^ID)
@@ -2765,7 +2765,7 @@
           (LINEBREAK \))
   (ID DULWICHT.95))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW MISSus)
         (FW Est)
         (FW ANGeLus)
@@ -2821,7 +2821,7 @@
           (LINEBREAK \))
   (ID DULWICHT.97))
 
-( (FRAG (CODE {COM_LAEME:Too_much_space_has_been_left_for_the_Latin_so_the_first_line's_space~is_half_filled_with_a_sequence_of_two_vertical_lines_and_a_dot_repeated~five_times})
+( (LATIN (CODE {COM_LAEME:Too_much_space_has_been_left_for_the_Latin_so_the_first_line's_space~is_half_filled_with_a_sequence_of_two_vertical_lines_and_a_dot_repeated~five_times})
         (PUNC para)
         (FW AUE)
         (FW GRatiA)
@@ -2880,7 +2880,7 @@
           (LINEBREAK \))
   (ID DULWICHT.103))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW QUE)
         (FW CUm)
         (FW AUDISSET)
@@ -2989,7 +2989,7 @@
               (LINEBREAK \))
   (ID DULWICHT.110))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *DABIT)
         (FW ILLI)
         (FW DOminus)
@@ -3050,7 +3050,7 @@
               (LINEBREAK \))
   (ID DULWICHT.114))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Qu^OMODO)
         (FW FIET)
         (FW ISTuD)
@@ -3154,7 +3154,7 @@
               (LINEBREAK \))
   (ID DULWICHT.119))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW SPiritus)
         (FW SANCTus)
         (FW SUPer)
@@ -3210,7 +3210,7 @@
               (LINEBREAK \))
   (ID DULWICHT.121))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ECCE)
         (FW ELISABET)
         (FW con>G>NATA)
@@ -3271,7 +3271,7 @@
           (LINEBREAK \))
   (ID DULWICHT.124))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Hi^C)
         (FW MEnSIS)
         (FW SEXTus)
@@ -3339,7 +3339,7 @@
               (LINEBREAK \))
   (ID DULWICHT.129))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *ECCE)
         (FW ANCILLA)
         (FW DomiNI)
@@ -3394,7 +3394,7 @@
           (LINEBREAK \))
   (ID DULWICHT.133))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW UT)
         (FW SOLUS)
         (FW RADIUS)
@@ -3552,7 +3552,7 @@
           (LINEBREAK \))
   (ID DULWICHT.139))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW V^IrGO)
         (FW ANte)
         (FW ParTUm)
@@ -3613,7 +3613,7 @@
           (LINEBREAK \))
   (ID DULWICHT.143))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ET)
         (FW DISCESSIT)
         (FW AB)
@@ -3718,7 +3718,7 @@
           (LINEBREAK \))
   (ID DULWICHT.148))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW UT)
         (FW AUDIUIT)
         (FW SALUTACiOneM)
@@ -3767,7 +3767,7 @@
               (LINEBREAK \))
   (ID DULWICHT.151))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW BeNeDICTA)
         (FW TU)
         (FW Inter.)
@@ -3942,7 +3942,7 @@
           (LINEBREAK \))
   (ID DULWICHT.158))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW GLOssa.)
         (FW SupeR)
         (FW ILLuD)
@@ -4002,7 +4002,7 @@
           (LINEBREAK \))
   (ID DULWICHT.160))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW &)
         (FW AIT)
         (FW MARi^A)
@@ -4066,7 +4066,7 @@
           (LINEBREAK \))
   (ID DULWICHT.162))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ECCE)
         (FW .eNim.)
         (FW EX)
@@ -4132,7 +4132,7 @@
           (LINEBREAK \))
   (ID DULWICHT.166))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *ET)
         (FW MIsericordiA)
         (FW EIus)
@@ -4296,7 +4296,7 @@
           (PUNC .))
   (ID DULWICHT.175))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *BEDA)
         (FW .In.)
         (FW GLossa)
@@ -4405,7 +4405,7 @@
           (LINEBREAK \))
   (ID DULWICHT.181))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ERANT)
         (FW Autem)
         (FW AMBO)
@@ -4468,7 +4468,7 @@
           (LINEBREAK \))
   (ID DULWICHT.185))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW CUm)
         (FW SACerDOCIO)
         (FW FUGerETur)
@@ -4581,7 +4581,7 @@
               (LINEBREAK \))
   (ID DULWICHT.191))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *NE)
         (FW TIMEAS)
         (FW .)
@@ -4644,7 +4644,7 @@
           (LINEBREAK \))
   (ID DULWICHT.195))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ET)
         (FW UOCABis)
         (FW NOMEn)
@@ -4698,7 +4698,7 @@
               (LINEBREAK \))
   (ID DULWICHT.200))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ET)
         (FW MULTI)
         (FW In)
@@ -4762,7 +4762,7 @@
               (LINEBREAK \))
   (ID DULWICHT.204))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW VNde)
         (FW Hoc)
         (FW SCIAm)
@@ -4827,7 +4827,7 @@
               (LINEBREAK \))
   (ID DULWICHT.207))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Pro)
         (FW EO)
         (FW Quod)
@@ -4918,7 +4918,7 @@
           (LINEBREAK \))
   (ID DULWICHT.213))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW EGreSSUS)
         (FW Autem)
         (FW NOn)
@@ -5056,7 +5056,7 @@
           (LINEBREAK \))
   (ID DULWICHT.220))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW POST)
         (FW DIES)
         (FW HOS)
@@ -5208,7 +5208,7 @@
           (LINEBREAK \))
   (ID DULWICHT.226))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW VICINI)
         (FW &)
         (FW COGn^ATI)
@@ -5294,7 +5294,7 @@
           (PUNC .))
   (ID DULWICHT.232))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW &)
         (FW RESPOn\DEnS)
         (FW MATer)
@@ -5354,7 +5354,7 @@
           (LINEBREAK \))
   (ID DULWICHT.237))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ET)
         (FW PosTULAnS)
         (FW ZACARIAS)
@@ -5404,7 +5404,7 @@
               (LINEBREAK \))
   (ID DULWICHT.240))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *IOHanneS)
         (FW Est)
         (FW NOMen)
@@ -5467,7 +5467,7 @@
           (LINEBREAK \))
   (ID DULWICHT.244))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW &)
         (FW MIRATI)
         (FW SUNT)
@@ -5553,7 +5553,7 @@
               (LINEBREAK \))
   (ID DULWICHT.248))
 
-( (FRAG (CODE {PAGE~f85rb})
+( (LATIN (CODE {PAGE~f85rb})
         (PUNC para)
         (FW &)
         (FW ProPHetAUIT)
@@ -5610,7 +5610,7 @@
               (LINEBREAK \))
   (ID DULWICHT.252))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ADDANDAm)
         (FW SCIEnCIAm)
         (FW SALUTis)
@@ -5680,7 +5680,7 @@
           (LINEBREAK \))
   (ID DULWICHT.255))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ANT^A)
         (FW DESERTI)
         (FW TENerIS)
@@ -5756,7 +5756,7 @@
           (LINEBREAK \))
   (ID DULWICHT.258))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW BEDA)
         (FW PreDICATUR)
         (FW InQUIT)
@@ -5827,7 +5827,7 @@
           (LINEBREAK \))
   (ID DULWICHT.262))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW CUm)
         (FW PEPerISSet)
         (FW ELIZABET)
@@ -5885,7 +5885,7 @@
           (LINEBREAK \))
   (ID DULWICHT.264))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Qu^A)
         (FW REUerSA)
         (FW In)
@@ -5982,7 +5982,7 @@
           (LINEBREAK \))
   (ID DULWICHT.267))
 
-( (FRAG (CODE {PAGE~f85va})
+( (LATIN (CODE {PAGE~f85va})
         (PUNC para)
         (FW *MA.)
         (FW Dici^T)
@@ -6082,7 +6082,7 @@
           (LINEBREAK \))
   (ID DULWICHT.270))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW NOLUIT)
         (FW EAm)
         (FW Tr^ADUCERE)
@@ -6185,7 +6185,7 @@
           (LINEBREAK \))
   (ID DULWICHT.274))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *HEC)
         (FW COGITANTE)
         (FW ECCE)
@@ -6282,7 +6282,7 @@
               (LINEBREAK \))
   (ID DULWICHT.281))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *NOLI)
         (FW TIMerE)
         (FW ACCIPerE)
@@ -6347,7 +6347,7 @@
               (LINEBREAK \))
   (ID DULWICHT.284))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *PARIET)
         (FW Autem)
         (FW FILIUm)
@@ -6403,7 +6403,7 @@
               (LINEBREAK \))
   (ID DULWICHT.288))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW ET)
         (FW UOCABis)
         (FW NOMEN)
@@ -6450,7 +6450,7 @@
               (LINEBREAK \))
   (ID DULWICHT.291))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW Hic)
         (FW FACTUm)
         (FW Est.)
@@ -6528,7 +6528,7 @@
           (LINEBREAK \))
   (ID DULWICHT.295))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW EXURGEnS)
         (FW IOSEP)
         (FW A)
@@ -6593,7 +6593,7 @@
           (LINEBREAK \))
   (ID DULWICHT.298))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW TunC)
         (FW conGn^OUIT)
         (FW IOSEP)
@@ -6695,7 +6695,7 @@
           (LINEBREAK \))
   (ID DULWICHT.303))
 
-( (FRAG (PUNC para)
+( (LATIN (PUNC para)
         (FW *IN)
         (FW DIEBus)
         (FW ILLis)

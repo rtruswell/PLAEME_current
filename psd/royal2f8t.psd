@@ -154,7 +154,7 @@
             (N-RH horee-a:r))
         (ADVP-TMP (ADV nv-now)
                   (CONJ ant-&)
-                  (ADV-RH hevre=more-evermore))
+                  (ADV+QR-RH hevre=more-evermore))
         (CODE {COM_LAEME:RE_lost_in_gutter_of_photocopy})
         (LINEBREAK \))
   (ID ROYAL2F8T.9))
@@ -173,7 +173,7 @@
           (VBP helpe[]-help)
           (CODE {COM_LAEME:Letter_lost_because_of_a_hole_in_the_MS})
           (NP-OB1 (Q al-all)
-                  (N-RH man=cvnne-mankind)))
+                  (N+N-RH man=cvnne-mankind)))
   (ID ROYAL2F8T.11))
 
 ( (IP-MAT (NP-SBJ (PRO +tov-thou))
@@ -409,7 +409,7 @@
         (PUNC .))
   (ID ROYAL2F8T.33))
 
-( (FRAG (FW AMEN)
+( (LATIN (FW AMEN)
         (FW .)
         (LINEBREAK \\))
   (ID ROYAL2F8T.34))
@@ -814,7 +814,7 @@
           (VBP-RH hvnder=fonge-underfo:n))
   (ID ROYAL2F8T.58))
 
-( (FRAG (FW *AMEN)
+( (LATIN (FW *AMEN)
         (FW .)
         (LINEBREAK \\))
   (ID ROYAL2F8T.59))

@@ -24,7 +24,7 @@
                   (PP (P of-of)
                       (NP (N-RH hore=ling-horling))))
           (PUNC .))
-  (ID TRINCLEODMISC.1))
+          (ID TRINCLEODMISC.1))
 
 ( (IP-MAT-1 (PUNC para)
             (NEG Ne-ne)
@@ -62,7 +62,7 @@
                                   (ADJP (Q al-all)
                                         (VAN cutt=id-cut))
                                   (VB-RH bi\=leu=iN-belae:fan)))))
-  (ID TRINCLEODMISC.2))
+                                  (ID TRINCLEODMISC.2))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO tu-thou))
@@ -79,9 +79,9 @@
                                     (NP-SBJ (PRO +tu-thou))
                                     (BED +were-be)))))
           (PUNC .))
-  (ID TRINCLEODMISC.3))
+          (ID TRINCLEODMISC.3))
 
-( (FRAG (FW Bernardus)
+( (LATIN (FW Bernardus)
         (FW *Qu^AM\DIU)
         (FW FUerO)
         (FW MEMOR)
@@ -131,7 +131,7 @@
         (FW SUPer)
         (FW TerRAE)
         (FW .))
-  (ID TRINCLEODMISC.4))
+        (ID TRINCLEODMISC.4))
 
 ( (IP-MAT-SPE (ADVP (ADVR Alse-as)
                     (ADV longe-long)
@@ -248,7 +248,7 @@
                                                                                                      (NP (N mal=eise-malaise)))))))))))))))
               (PUNC .)
               (LINEBREAK \))
-  (ID TRINCLEODMISC.5))
+              (ID TRINCLEODMISC.5))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (ALSO alse-also)
@@ -325,7 +325,7 @@
                                                              (NP (PRO$ hiis-his)
                                                                  (N fles-flesh))))))))
               (PUNC ,))
-  (ID TRINCLEODMISC.6))
+              (ID TRINCLEODMISC.6))
 
 ( (IP-MAT-SPE (NP-SBJ *pro*)
               (ADVP-TMP (ADV euere-ever))
@@ -333,7 +333,7 @@
               (MD mai-may)
               (VB mon=en-munan)
               (PUNC .'))
-  (ID TRINCLEODMISC.7))
+              (ID TRINCLEODMISC.7))
 
 ( (IP-MAT-SPE (CONJ &-&)
               (PP (ADV+P tar=onne-thereon{re}))
@@ -342,7 +342,7 @@
               (MD sal-shall)
               (VB +tenk=in-think)
               (PUNC .))
-  (ID TRINCLEODMISC.8))
+              (ID TRINCLEODMISC.8))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (PP (P gif-if)
@@ -382,7 +382,7 @@
                                                                 (PP (P for-for)
                                                                     (NP (PRO me-me)))))))))
               (PUNC .))
-  (ID TRINCLEODMISC.9))
+              (ID TRINCLEODMISC.9))
 
 ( (IP-MAT-SPE (ALSO Also-also)
               (CODE {COM_LAEME:Large_initial_*A_with_decorative_approach_stroke})
@@ -500,7 +500,7 @@
                                                                                   (LINEBREAK \)
                                                                                   (NP (NPR er+te-earth))))))))))
               (PUNC .'))
-  (ID TRINCLEODMISC.10))
+              (ID TRINCLEODMISC.10))
 
 ( (IP-MAT-SPE (PP (PP (P o-on{p})
                       (NP (D+ONE +te=ton-one)
@@ -560,7 +560,7 @@
                                                   (N penance-penance)))
                                           (VAN i=beth-be:tan))))
               (PUNC .))
-  (ID TRINCLEODMISC.11))
+              (ID TRINCLEODMISC.11))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV +taNne-then))
               (MD mat-may)
@@ -579,7 +579,7 @@
                                            (CONJ o+tir-or)
                                            (VAN bi=+tet=in-begitan))))
               (PUNC .))
-  (ID TRINCLEODMISC.12))
+              (ID TRINCLEODMISC.12))
 
 ( (IP-MAT-SPE (CONJ Ak-ac)
               (INTJ goditot-goditwot)
@@ -609,17 +609,17 @@
                                                                                (TO to-to)
                                                                                (VB tak=iN-take)))))))
               (PUNC .))
-  (ID TRINCLEODMISC.13))
+              (ID TRINCLEODMISC.13))
 
 ( (IP-IMP-SPE (NP-VOC (N Man-man))
               (VBI ware-warian)
               (NP-OB1 (PRO +te-thee))
               (PUNC .))
-  (ID TRINCLEODMISC.14))
+              (ID TRINCLEODMISC.14))
 
-( (FRAG (FW ProTH)
+( (LATIN (FW ProTH)
         (FW DOLOR))
-  (ID TRINCLEODMISC.15))
+        (ID TRINCLEODMISC.15))
 
 ( (IP-MAT (PUNC para)
           (HVP Hau=est-have)
@@ -647,7 +647,7 @@
           (PUNC .)
           (CODE {COM_LAEME:Continues_in_Latin})
           (CODE {PAGE~f41v}))
-  (ID TRINCLEODMISC.16))
+          (ID TRINCLEODMISC.16))
 
 ( (IP-MAT (PUNC para)
           (PP (P At=-at)
@@ -658,7 +658,7 @@
           (NP-SBJ (PRO i-I))
           (VBD ches-choose)
           (PUNC .'))
-  (ID TRINCLEODMISC.17))
+          (ID TRINCLEODMISC.17))
 
 ( (IP-MAT (CONJ and-&)
           (PP (P at=-at)
@@ -669,9 +669,9 @@
           (VBD for=les-forlose)
           (PUNC .)
           (CODE {COM_LAEME:This_couplet_underlined_as_the_title_of_the_sermon}))
-  (ID TRINCLEODMISC.18))
+          (ID TRINCLEODMISC.18))
 
-( (FRAG (FW *LE\GIMUS)
+( (LATIN (FW *LE\GIMUS)
         (FW IN)
         (FW EV^ANGeLIO)
         (FW MaTthei)
@@ -733,7 +733,7 @@
         (FW AmICorum)
         (FW comMUTETur)
         (LINEBREAK \))
-  (ID TRINCLEODMISC.19))
+        (ID TRINCLEODMISC.19))
 
 ( (IP-MAT (NP-SBJ (NP (D +Te-the)
                       (N gR^ace-grace)
@@ -757,9 +757,9 @@
               (NP (PRO us-us)))
           (ADVP-TMP (ADV nu-now)
                     (CONJ and-&)
-                    (ADV euERe=more-evermore))
+                    (ADV+QR euERe=more-evermore))
           (PUNC .))
-  (ID TRINCLEODMISC.20))
+          (ID TRINCLEODMISC.20))
 
 ( (IP-MAT (NP-VOC (PRO$ mi-my)
                   (ADJ leu=e-le:of)
@@ -804,7 +804,7 @@
           (NP-SBJ-RSP (PRO +tei-they))
           (ADVP (ADV +tus-thus))
           (PUNC .))
-  (ID TRINCLEODMISC.21))
+          (ID TRINCLEODMISC.21))
 
 ( (FRAG (PP (P At=-at)
             (NP (D =te-the)
@@ -815,7 +815,7 @@
         (FW &)
         (FW Cetera)
         (PUNC .))
-  (ID TRINCLEODMISC.22))
+        (ID TRINCLEODMISC.22))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO we-we))
@@ -852,7 +852,7 @@
                                                                     (NPR cR^ist-christ))
                                                             (VBD spak-speak))))))))
           (PUNC .))
-  (ID TRINCLEODMISC.23))
+          (ID TRINCLEODMISC.23))
 
 ( (IP-MAT (ADVP-LOC (ADV +tere-there))
           (BEP is-be)
@@ -884,7 +884,7 @@
                           (PP (P o-on{t})
                               (NP (NPR$+NPR dom=is=dai-doomsday)))))
           (PUNC .))
-  (ID TRINCLEODMISC.24))
+          (ID TRINCLEODMISC.24))
 
 ( (IP-MAT (IP-MAT-1 (CONJ And-&)
                     (NP-SBJ (PRO uue-we)
@@ -927,9 +927,9 @@
                                            (IP-SUB (NP-SBJ *T*-3)
                                                    (BEP beN-be)
                                                    (PP (RP out@-out)
-                                                       (PP (P @of-of)
+                                                       (P @of-of)
                                                            (NP (NPR$ god=is-god)
-                                                               (N lore-lore)))))))
+                                                               (N lore-lore))))))
                            (PUNC ,)
                            (VB streng=+t=iN-strength)
                            (NP-OB1 (PRO us-us))
@@ -948,7 +948,7 @@
                                                           (PP (P of-of)
                                                               (NP (N saule-soul))))))))))
           (PUNC .))
-  (ID TRINCLEODMISC.25))
+          (ID TRINCLEODMISC.25))
 
 ( (IP-MAT (CONJ For-for)
           (ADVP (ADV lit\=like-lightly{w}))
@@ -978,7 +978,7 @@
                                   (ADVP (ADV wel-well{w}))
                                   (VB ut=bring=iN-outbring))))
           (PUNC .))
-  (ID TRINCLEODMISC.26))
+          (ID TRINCLEODMISC.26))
 
 ( (FRAG (PP (P At=-at)
             (NP (D =te-the)
@@ -986,7 +986,7 @@
         (FW UT)
         (FW SupRA)
         (FW .))
-  (ID TRINCLEODMISC.27))
+        (ID TRINCLEODMISC.27))
 
 ( (IP-MAT (ADVP-TMP (ADV Nu-now))
           (MD mou-may)
@@ -1001,7 +1001,7 @@
                   (PP (P of-of)
                       (NP (N folk-folk))))
           (PUNC .))
-  (ID TRINCLEODMISC.28))
+          (ID TRINCLEODMISC.28))
 
 ( (IP-MAT (NP-SBJ (D +te=-the)
                   (ONE ton-one)
@@ -1055,7 +1055,7 @@
                                          (IP-SUB (NP-SBJ *con*)
                                                  (VBP ches=in-choose)
                                                  (NP-OB1 (PRO him-him))))))))
-  (ID TRINCLEODMISC.29))
+                                                 (ID TRINCLEODMISC.29))
 
 ( (FRAG (PP (P at=-at)
             (NP (D =te-the)
@@ -1070,7 +1070,7 @@
         (CODE {COM_LAEME:Last_six_words_underlined})
         (PUNC .)
         (LINEBREAK \))
-  (ID TRINCLEODMISC.30))
+        (ID TRINCLEODMISC.30))
 
 ( (IP-MAT (NP-SBJ (N Wrastl=inge-wrestle))
           (BEP is-be)
@@ -1079,7 +1079,7 @@
                   (PP (P of-of)
                       (NP (N feit=einge-fight))))
           (PUNC .))
-  (ID TRINCLEODMISC.31))
+          (ID TRINCLEODMISC.31))
 
 ( (IP-MAT (CONJ and-&)
           (ADVP (ADV sikir=liche-sikerly))
@@ -1110,7 +1110,7 @@
                                                      (NUM 3-three)
                                                      (N+NS fo=meN-foeman))))))))
           (PUNC .))
-  (ID TRINCLEODMISC.32))
+          (ID TRINCLEODMISC.32))
 
 ( (IP-MAT (NP-SBJ (D +to-those))
           (BEP ben-be)
@@ -1130,7 +1130,7 @@
                              (PP (P to-to)
                                  (NP (N werld-world))))))
           (PUNC .))
-  (ID TRINCLEODMISC.33))
+          (ID TRINCLEODMISC.33))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO he-they)
@@ -1149,20 +1149,20 @@
                       (NP (PRO$ ure-our)
                           (N songe-song))))
           (PUNC .))
-  (ID TRINCLEODMISC.34))
+          (ID TRINCLEODMISC.34))
 
 ( (FRAG (PP (P At=-at)
             (NP (D =te-the)
                 (N wrastl=ingE-wrestle)))
         (CODE {COM_LAEME:Two_oblique_strokes_appear_here_in_the_text,_probably_serving_as_a~diple_<lparen>a_mark_to_draw_attention_to_something_in_the_text<rparen>._In_the_right~margin_is_a_corresponding_reference_mark_in_the_shape_of_a_square_7_with~a_dot_on_either_side_of_the_vertical_stroke}))
-  (ID TRINCLEODMISC.35))
+        (ID TRINCLEODMISC.35))
 
 ( (IP-MAT (NP-SBJ (D+OTHER +Te=to+ter-other)
                   (N word-word))
           (BEP is-be)
           (NP-OB1 (D tis-this))
           (PUNC .))
-  (ID TRINCLEODMISC.36))
+          (ID TRINCLEODMISC.36))
 
 ( (IP-MAT (CONJ And-&)
           (PP (P at=-at)
@@ -1172,7 +1172,7 @@
           (NP-OB1 (PRO =him-him))
           (VBD for=les-forlose)
           (PUNC .))
-  (ID TRINCLEODMISC.37))
+          (ID TRINCLEODMISC.37))
 
 ( (IP-MAT (PP (P Bi-by)
               (NP (D +te-the)
@@ -1225,7 +1225,7 @@
                                                                          (LINEBREAK \)
                                                                          (VB find=in-find)))))))))
           (PUNC .))
-  (ID TRINCLEODMISC.38))
+          (ID TRINCLEODMISC.38))
 
 ( (IP-MAT (NP-SBJ (Q nout-naught)
                   (CP-REL *ICH*-1))
@@ -1237,13 +1237,13 @@
                             (NP-SBJ (D te-the)
                                     (N pREch=ur-preacher))
                             (VBP spek=it-speak))))
-  (ID TRINCLEODMISC.39))
+                            (ID TRINCLEODMISC.39))
 
 ( (IP-MAT (CONJ but-but)
           (NP-SBJ *con*)
           (ADJP-SPR (ADJ dri=e-dry))
           (VBP com=iN-come))
-  (ID TRINCLEODMISC.40))
+          (ID TRINCLEODMISC.40))
 
 ( (IP-MAT (CONJ and-&)
           (NP-SBJ *con*)
@@ -1256,7 +1256,7 @@
                       (NP (NPR$ god=is-god)
                           (N gR^ace-grace)))))
           (PUNC .))
-  (ID TRINCLEODMISC.41))
+          (ID TRINCLEODMISC.41))
 
 ( (IP-MAT (ADVP (ADV I=wis-gewis))
           (NP-SBJ (PRO itt-it))
@@ -1280,7 +1280,7 @@
                                               (N$ hERt=e-heart))
                                       (NS eien-eye)))))
           (PUNC .))
-  (ID TRINCLEODMISC.42))
+          (ID TRINCLEODMISC.42))
 
 ( (IP-MAT (PP (P A=gein-against)
               (NP (SUCH suil\k=e-such)
@@ -1296,7 +1296,7 @@
                           (CODE {COM_LAEME:sic})
                           (N pROphET-prophet)))
           (PUNC .))
-  (ID TRINCLEODMISC.43))
+          (ID TRINCLEODMISC.43))
 
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ *con*)
@@ -1315,11 +1315,12 @@
                (FW COR)
                (FW Vestrum))
           (PUNC .))
-  (ID TRINCLEODMISC.44))
+          (ID TRINCLEODMISC.44))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO I-I))
               (VBP hals=e-ha:lsian)
-              (NP-OB1 (PRO jou-you))))
+              (NP-OB1 (PRO jou-you)))
+              (ID TRINCLEODMISC.45))
 
 ( (IP-MAT-SPE (CONJ and-&)
               (NP-SBJ *con*)
@@ -1350,9 +1351,9 @@
                                       (ADJP (ADJ hard-hard))
                                       (PP (ADV+P tare=a=geines-thereagainst))))
               (PUNC .))
-  (ID TRINCLEODMISC.45))
+              (ID TRINCLEODMISC.46))
 
-( (FRAG (FW *IBI)
+( (LATIN (FW *IBI)
         (FW NOt^A)
         (FW *QuuM)
         (FW ILLORum)
@@ -1378,14 +1379,14 @@
         (FW MALICIE)
         (FW NOn)
         (FW FLECTUnTUR))
-  (ID TRINCLEODMISC.46))
+        (ID TRINCLEODMISC.47))
 
 ( (CP-QUE (WNP-1 (WPRO wich=e-which))
           (IP-SUB (NP-SBJ *T*-1)
                   (BEP beN-be)
                   (NP-OB1 (ADJ hard=e-hard)
                           (NS hert=is-heart))))
-  (ID TRINCLEODMISC.47))
+                          (ID TRINCLEODMISC.48))
 
 ( (IP-MAT (ADVP (ADV si\kir=liche-sikerly))
           (NP-SBJ (D +to-those)
@@ -1468,7 +1469,7 @@
           (NEG ne-ne)
           (VBP schriu=eN-shrive)
           (LINEBREAK \))
-  (ID TRINCLEODMISC.48))
+          (ID TRINCLEODMISC.49))
 
 ( (IP-MAT (CONJ ne-nor)
           (NP-SBJ *con*)
@@ -1477,7 +1478,7 @@
           (PUNC .)
           (NEG no-not)
           (ADVP (ADV vn=ne+tis-une:aYe)))
-  (ID TRINCLEODMISC.49))
+          (ID TRINCLEODMISC.50))
 
 ( (IP-MAT (ADVP (ADV so-so))
           (INTJ weilauuey-weila:wei)
@@ -1492,7 +1493,7 @@
           (NP-OB1 (ADJ hard=e-hard)
                   (NS hert=is-heart))
           (PUNC .))
-  (ID TRINCLEODMISC.50))
+          (ID TRINCLEODMISC.51))
 
 ( (IP-MAT (NP-SBJ (D +teise-these))
           (BEP beN-be)
@@ -1500,7 +1501,7 @@
           (PP (P of-of)
               (NP (NPR$ god=is-god)
                   (N meine-meine:))))
-  (ID TRINCLEODMISC.51))
+                  (ID TRINCLEODMISC.52))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO he-they))
@@ -1511,7 +1512,7 @@
           (NP-OB1 (NPR$ god=is-god)
                   (N CONmaundemNt-commandment))
           (PUNC .))
-  (ID TRINCLEODMISC.52))
+          (ID TRINCLEODMISC.53))
 
 ( (IP-MAT (NP-SBJ (D +Teise-these)
                   (N+NS mestER=meN-mesterman))
@@ -1522,7 +1523,7 @@
                   (NP-PRN (D te-the)
                           (ADJ suete-sweet)))
           (PUNC .))
-  (ID TRINCLEODMISC.53))
+          (ID TRINCLEODMISC.54))
 
 ( (IP-MAT (NP-SBJ (PRO He-they))
           (MD mouueN-may)
@@ -1534,7 +1535,7 @@
                       (NP (PRO$ ure-our)
                           (N sauue-saw))))
           (PUNC .))
-  (ID TRINCLEODMISC.54))
+          (ID TRINCLEODMISC.55))
 
 ( (IP-MAT (PP (P a=-at)
               (NP (D =te-the)
@@ -1543,7 +1544,7 @@
           (NP-OB1 (PRO =hiM-him))
           (VBD for=les-forlose)
           (PUNC .))
-  (ID TRINCLEODMISC.55))
+          (ID TRINCLEODMISC.56))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (SUCH suich-such)
@@ -1552,7 +1553,7 @@
           (NP-OB2 (PRO me-me))
           (NP-OB1 (PRO hiM-him))
           (VBP for=les=t-forlose))
-  (ID TRINCLEODMISC.56))
+          (ID TRINCLEODMISC.57))
 
 ( (IP-MAT (VBP Bi=seche-beseech)
           (NP-SBJ (PRO we-we))
@@ -1611,7 +1612,7 @@
                                      (PP (P of-of)
                                          (NP (N saule-soul))))))
                   (PUNC .)))
-  (ID TRINCLEODMISC.57))
+                  (ID TRINCLEODMISC.58))
 
 ( (IP-MAT (CONJ And-&)
           (CP-ADV (C tat-that)
@@ -1634,7 +1635,7 @@
                              (FW MARia))))
           (PUNC .)
           (LINEBREAK \\))
-  (ID TRINCLEODMISC.58))
+          (ID TRINCLEODMISC.59))
 
 ( (IP-MAT (CODE {PAGE~f23r})
           (CODE {COM_LAEME:These_verses_in_the_left_margin_below_the_main_text_block_written_by~Scribe_A._The_lines_are_linked_by_a_square_brace_on_the_left_and_lines~1,_3,_5_and_6_are_bracketed_on_the_right_and_linked_to_the_four_lines_of~text_following})
@@ -1667,7 +1668,7 @@
                   (NUM-RH fiue-five))
           (CODE {COM_LAEME:At_the_end_of_this_line_a_wiggly_line_ending_in_a_flourish_indicates~some_connection_with_the_following_lines})
           (LINEBREAK \))
-  (ID TRINCLEODMISC.59))
+          (ID TRINCLEODMISC.60))
 
 ( (IP-MAT-1 (CODE {COM_LAEME:These_lines_written_in_the_bottom_margin_of_the_main_text_and_linked~by_braces_to_the_previous_verses_as_described_above})
             (NEG Ne-ne)
@@ -1704,7 +1705,7 @@
                                         (VAN kutt=id-cut))
                                   (VB-RH bi=leu=in-belae:fan))))
             (PUNC .'))
-  (ID TRINCLEODMISC.60))
+            (ID TRINCLEODMISC.61))
 
 ( (IP-MAT (CONJ And-&)
           (NP-SBJ (PRO tou-thou))
@@ -1723,7 +1724,7 @@
                                     (BED were-be)))))
           (CODE {COM_LAEME:A_wiggly_line_joins_the_end_of_this_line_to_the_end_of_the_first_line})
           (LINEBREAK \))
-  (ID TRINCLEODMISC.61))
+          (ID TRINCLEODMISC.62))
 
 ( (FRAG (CODE {PAGE~f57v})
         (CODE {COM_LAEME:This_folio_originally_left_blank_by_Scribe_A._Subsequently_it_has_been~closely_ruled_by_Scribe_D_and_filled_with_the_following_text})
@@ -1778,7 +1779,7 @@
         (FW SUPer)
         (FW TerRAM)
         (FW .))
-  (ID TRINCLEODMISC.62))
+        (ID TRINCLEODMISC.63))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADVR Alse-as)
                         (ADV longe-long)
@@ -1893,7 +1894,7 @@
                                                                                                      (LINEBREAK \)
                                                                                                      (NP (N mal=aise-malaise)))))))))))))))
               (PUNC .))
-  (ID TRINCLEODMISC.63))
+              (ID TRINCLEODMISC.64))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (ALSO alse-also)
@@ -1914,7 +1915,7 @@
                                                   (PUNC .)
                                                   (PP (P iN-in{t})
                                                       (NP (PRO$ his-his)
-                                                          (N +trow=ing=time-Yro:wingtime))))))
+                                                          (N+N +trow=ing=time-Yro:wingtime))))))
                       (PUNC .)
                       (CONJP (CONJ And-&)
                              (NP (D te-the)
@@ -1976,7 +1977,7 @@
                                                                                 (LINEBREAK \)
                                                                                 (NP (PRO$ his-his)
                                                                                     (N fles-flesh)))))))))))))
-  (ID TRINCLEODMISC.64))
+                                                                                    (ID TRINCLEODMISC.65))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV euere-ever))
               (NP-SBJ *exp*)
@@ -1984,7 +1985,7 @@
               (MD mai-may)
               (VB monen=iN-munan)
               (PUNC .'))
-  (ID TRINCLEODMISC.65))
+              (ID TRINCLEODMISC.66))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (PP (ADV+P tar=onne-thereon{re}))
@@ -1992,7 +1993,7 @@
               (MD schal-shall)
               (LINEBREAK \)
               (VB +tenk=iN-think))
-  (ID TRINCLEODMISC.66))
+              (ID TRINCLEODMISC.67))
 
 ( (IP-MAT-SPE (CONJ And-&)
               (PP (P gif-if)
@@ -2029,7 +2030,7 @@
                                                         (NP (NPR er+te-earth)))
                                                     (PP (P for-for)
                                                         (NP (PRO me-me))))))))))
-  (ID TRINCLEODMISC.67))
+                                                        (ID TRINCLEODMISC.68))
 
 ( (IP-MAT (ALSO Also-also)
           (CODE {COM_LAEME:Decorative_initial_*A})
@@ -2094,7 +2095,7 @@
                                                                                      (VB les=in-le:san)
                                                                                      (NP-OB1 (PRO +te-thee))
                                                                                      (PP (RP ut@-out)
-                                                                                         (PP (P @of-of)
+                                                                                         (P @of-of)
                                                                                              (NP (D +te-the)
                                                                                                  (LINEBREAK \)
                                                                                                  (ADJ gR^is=like-grisli:c)
@@ -2108,7 +2109,7 @@
                                                                                                                  (BED weriN-be)
                                                                                                                  (VAN dem=pt-deem)
                                                                                                                  (PP (P to-to)
-                                                                                                                     (NP *T*-3)))))))))))))))))))
+                                                                                                                     (NP *T*-3))))))))))))))))))
           (PUNC .')
           (INTJ weilawei-weila:wei)
           (LINEBREAK \)
@@ -2156,7 +2157,7 @@
                                                           (PP (P in-on{p})
                                                               (NP (NPR er+te-earth))))))))))
           (PUNC .'))
-  (ID TRINCLEODMISC.68))
+          (ID TRINCLEODMISC.69))
 
 ( (IP-MAT (PP (PP (P o-on{p})
                   (NP (D+ONE +te=ton-one)
@@ -2216,7 +2217,7 @@
                                       (N penaNce-penance)))
                               (VAN i=bet-be:tan))))
           (PUNC .))
-  (ID TRINCLEODMISC.69))
+          (ID TRINCLEODMISC.70))
 
 ( (IP-MAT (ADVP-TMP (ADV +tanne-then))
           (MD mat-may)
@@ -2236,7 +2237,7 @@
                                (CONJ or-or)
                                (VAN bi=+tet=in-begitan))))
           (LINEBREAK \))
-  (ID TRINCLEODMISC.70))
+          (ID TRINCLEODMISC.71))
 
 ( (IP-MAT (CONJ Ak-ac)
           (INTJ goditot-goditwot)
@@ -2245,7 +2246,7 @@
           (ADVP-TMP (ADV to-too)
                     (ADV late-late))
           (PUNC .'))
-  (ID TRINCLEODMISC.71))
+          (ID TRINCLEODMISC.72))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (D +te=-the)
@@ -2257,7 +2258,7 @@
                         (TO to-to)
                         (VB tak=iN-take)))
           (PUNC .))
-  (ID TRINCLEODMISC.72))
+          (ID TRINCLEODMISC.73))
 
 ( (IP-IMP (NP-VOC (N Man-man))
           (VBI ware-warian)
@@ -2265,4 +2266,4 @@
           (PUNC .)
           (CODE {COM_LAEME:Last_three_words_are_written_in_the_right_margin_for_lack_of_space})
           (LINEBREAK \))
-  (ID TRINCLEODMISC.73))
+          (ID TRINCLEODMISC.74))

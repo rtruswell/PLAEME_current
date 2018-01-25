@@ -13,7 +13,7 @@
         (FW Ma^Tthei)
         (FW .)
         (CODE {COM_LAEME:Latin_quotation_underlined}))
-  (ID BODLEY26T.1))
+        (ID BODLEY26T.1))
 
 ( (IP-MAT (VAN blisc=ed-blissian)
           (BEP be-be)
@@ -31,7 +31,7 @@
                                                   (N$ lord-lord))
                                           (N nom-name))))))
           (PUNC .))
-  (ID BODLEY26T.2))
+          (ID BODLEY26T.2))
 
 ( (IP-MAT (NP-SBJ (NUM thre-three)
                   (NS thing=E-thing)
@@ -70,7 +70,7 @@
                                                (ADVP-DIR (ADV ner-near))
                                                (VAG coMm=ingE-come))))))
           (PUNC .))
-  (ID BODLEY26T.3))
+          (ID BODLEY26T.3))
 
 ( (LATIN (FW &)
         (FW ITA)
@@ -83,7 +83,7 @@
         (FW .)
         (FW NAm)
         (FW .))
-  (ID BODLEY26T.4))
+        (ID BODLEY26T.4))
 
 ( (IP-MAT (PP (P if-if)
               (CP-ADV (C 0)
@@ -101,7 +101,7 @@
                           (N$ lord=es-lord))
                   (N nom-name)))
           (PUNC .))
-  (ID BODLEY26T.5))
+          (ID BODLEY26T.5))
 
 ( (IP-MAT (PP (P if-if)
               (CP-ADV (C 0)
@@ -122,7 +122,7 @@
               (NP (N mon-man)))
           (PUNC .)
           (CODE {INSEND}))
-  (ID BODLEY26T.6))
+          (ID BODLEY26T.6))
 
 ( (IP-MAT (PP (P if-if)
               (CP-ADV (C 0)
@@ -138,7 +138,7 @@
           (ADVP-DIR (ADV fort-forth))
           (ADVP-TMP (ADV on=on-anon))
           (PUNC .))
-  (ID BODLEY26T.7))
+          (ID BODLEY26T.7))
 
 ( (LATIN (CODE {COM_LAEME:Two_lines_of_Latin_with_biblical_quotations_underlined_then_the_following,_introducing_the_next_English})
         (FW 2^M)
@@ -147,7 +147,7 @@
         (FW BeNeDiCtuS)
         (FW .)
         (FW NAm))
-  (ID BODLEY26T.8))
+        (ID BODLEY26T.8))
 
 ( (IP-MAT (NP-SBJ (N word-word)
                   (LINEBREAK \)
@@ -161,7 +161,7 @@
           (NP-OB1 (VAN blisc=ed-blissian)
                   (N tiyngE-tiding))
           (PUNC .))
-  (ID BODLEY26T.9))
+          (ID BODLEY26T.9))
 
 ( (IP-MAT (ADVP-TMP (ADV nou-now))
           (NEG ne-ne)
@@ -183,13 +183,13 @@
                           (NP (D yis-this)
                               (N com-come)))))
           (PUNC .))
-  (ID BODLEY26T.10))
+          (ID BODLEY26T.10))
 
 ( (LATIN (CODE {COM_LAEME:Two_and_a_half_lines_of_Latin,_then_the_following})
         (FW In)
         (FW ANGLICE)
         (FW Si^C))
-  (ID BODLEY26T.11))
+        (ID BODLEY26T.11))
 
 ( (IP-IMP (NEG ne-ne)
           (VBI think-think)
@@ -200,7 +200,7 @@
                   (ADJP (ADVR to-too)
                         (ADJ longE-long)))
           (PUNC .'))
-  (ID BODLEY26T.12))
+          (ID BODLEY26T.12))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO$ his-his)
@@ -210,7 +210,7 @@
                 (CONJP (CONJ and-&)
                        (NP (N hond-hand))))
           (PUNC .))
-  (ID BODLEY26T.13))
+          (ID BODLEY26T.13))
 
 ( (IP-MAT (PUNC para)
           (PP (P sin-since)
@@ -258,7 +258,7 @@
                   (N cherE-chere)))
           (PUNC .)
           (PUNC para))
-  (ID BODLEY26T.14))
+          (ID BODLEY26T.14))
 
 ( (LATIN (FW Sed)
         (FW INQUIBus)
@@ -267,7 +267,7 @@
         (FW christ^I)
         (FW CULTus)
         (FW ?))
-  (ID BODLEY26T.15))
+        (ID BODLEY26T.15))
 
 ( (IP-MAT (PP (PP (P in-in{m})
                   (NP (ADJ riche-rich)
@@ -322,7 +322,7 @@
                                                                (N tR^inite-trinity))))))))))
           (PUNC .)
           (CODE {COM_LAEME:Two_and_a_half_lines_of_Latin}))
-  (ID BODLEY26T.16))
+          (ID BODLEY26T.16))
 
 ( (IP-MAT (PUNC para)
           (NP-SBJ (D yis-these)
@@ -337,7 +337,7 @@
                          (NP (ADJ fys=ly-fishly)
                              (N plente-plenty))))
           (PUNC .))
-  (ID BODLEY26T.17))
+          (ID BODLEY26T.17))
 
 ( (FRAG (FW Sed)
         (LINEBREAK \)
@@ -357,7 +357,7 @@
                                (N worde-word))))))
         (PUNC .)
         (CODE {COM_LAEME:Five_lines_of_Latin}))
-  (ID BODLEY26T.18))
+        (ID BODLEY26T.18))
 
 ( (IP-MAT (PUNC para)
           (NP-SBJ (D yis-this)
@@ -386,10 +386,10 @@
                             (FW AD)
                             (FW MULIEReS)))
           (PUNC .))
-  (ID BODLEY26T.19))
+          (ID BODLEY26T.19))
 
-( (FRAG (FW Sed)
-        (FW Sunt)
+( (FRAG (LATIN (FW Sed)
+        (FW Sunt))
         (NP (NP (ADJ hERt=ly-heartly)
                 (N coMpuNctioun-compunction)
                 (PUNC .))
@@ -412,14 +412,14 @@
                                    (ADJP (ADJ heye-high))))))))
         (LATIN (FW Quia))
         (LINEBREAK \))
-  (ID BODLEY26T.20))
+        (ID BODLEY26T.20))
 
 ( (IP-MAT (NP-SBJ (PRO it-it))
           (NEG ne-ne)
           (BEP es-be)
           (ADJP (ADVR so-so)
                 (ADJ foul-foul)))
-  (ID BODLEY26T.21))
+                (ID BODLEY26T.21))
 
 ( (LATIN (FW MACuLA)
         (FW In)
@@ -446,7 +446,7 @@
         (FW NOn)
         (FW DIRIGAnT)
         (FW .))
-  (ID BODLEY26T.22))
+        (ID BODLEY26T.22))
 
 ( (IP-MAT (PUNC para)
           (NP-SBJ (D yis-these)
@@ -460,7 +460,7 @@
                               (N fiN\ger-finger))))
                   (PUNC .)
                   (CONJP (CONJ na-nor)
-                         (NP (NS cuif=hefft=is-coifhaft?)
+                         (NP (N+NS cuif=hefft=is-coifhaft?)
                              (CODE {COM_LAEME:Meaning_uncertain_-_perhaps_"hatpins"_or_"cuff_pins"})
                              (PP (P of-of)
                                  (NP (N siluer-silver))))
@@ -484,7 +484,7 @@
                                     (NP (ADJ hol=i-holy)
                                         (NS werk=es-work))))))
           (PUNC .))
-  (ID BODLEY26T.23))
+          (ID BODLEY26T.23))
 
 ( (IP-MAT (CONJ for-for)
           (NP-SBJ (PRO yes-these))
@@ -495,7 +495,7 @@
           (NP-OB1 (D ye-the)
                   (NS merk=es-mearc))
           (PUNC .))
-  (ID BODLEY26T.24))
+          (ID BODLEY26T.24))
 
 ( (FRAG (LATIN (CODE {COM_LAEME:The_rest_of_the_line_is_in_Latin})
                (CODE {PAGE~f107v})
@@ -576,7 +576,7 @@
                        (ADJ myht=ful-mightful)
                        (N mastER=yng-master))))
         (PUNC .))
-  (ID BODLEY26T.25))
+        (ID BODLEY26T.25))
 
 ( (FRAG (LATIN (FW &)
                (FW contra)
@@ -615,7 +615,7 @@
                                    (NP (PRO$ oure-our)
                                        (N kyng=daM-kingdom)))))))
         (PUNC .))
-  (ID BODLEY26T.26))
+        (ID BODLEY26T.26))
 
 ( (FRAG (PUNC para)
         (FW Pr^IMO)
@@ -725,4 +725,4 @@
         (PUNC .)
         (CODE {COM_LAEME:Latin})
         (LINEBREAK \\))
-  (ID BODLEY26T.27))
+        (ID BODLEY26T.27))

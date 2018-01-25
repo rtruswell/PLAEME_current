@@ -628,7 +628,7 @@
                               (BEP arn-be)
                               (ADJP (ADJ stR^ong=e-strong))
                               (PP (P up=on-upon{p})
-                                  (NP (N-RH stR^ike=warth-stricawaroY?)
+                                  (NP (N+N-RH stR^ike=warth-stricawaroY?)
                                       (CODE {GLOSS~shoreline?}))))))
           (PUNC .)
           (LINEBREAK \))

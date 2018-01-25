@@ -42,6 +42,7 @@
           (VBD s[e]ih-see)
           (NP-SBJ (PRO i-I))
           (NP-OB1 (CP-FRL (WADVP-1 (WADV hwar-where))
+			  (C 0)
                           (IP-SUB (ADVP-LOC *T*-1)
                                   (NP-SBJ (D a-a)
                                           (ADJ litel-little)

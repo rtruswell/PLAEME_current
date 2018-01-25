@@ -141,7 +141,7 @@
 	  (VBI wer-werian)
 	  (NP-OB1 (PRO us-us))
 	  (PP (P fro-from)
-	      (NP (PRO$ ure-our) (NS wy\+ter=win=es-wiYerwinna)))
+	      (NP (PRO$ ure-our) (N+NS wy\+ter=win=es-wiYerwinna)))
 	  (PP (P at-at)
 	      (NP (PRO$ ure-our) (N-RH hend=ing-end)))
 	  (PUNC .))

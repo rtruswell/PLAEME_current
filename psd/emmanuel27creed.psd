@@ -45,7 +45,7 @@
           (PUNC .)
           (LINEBREAK \)
           (PUNC para)
-          (META (NP (NPR IacobUS=maior-IacobUS=maior)))
+          (META (NP (NPR+ADJ IacobUS=maior-IacobUS=maior)))
           (PUNC .)
           (CONJP (IP-MAT=1 (VAN Bor=en-born)
                            (PP (P of-of)
@@ -97,7 +97,7 @@
   (ID EMMANUEL27CREED.5))
 
 ( (IP-MAT-SPE (PUNC para)
-              (META (NP (NPR IacobUS=minor-IacobUS=minor)))
+              (META (NP (NPR+ADJ IacobUS=minor-IacobUS=minor)))
               (PUNC .)
               (CONJ And-&)
               (NP-SBJ *con*)

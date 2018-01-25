@@ -12,7 +12,7 @@
         (LINEBREAK \))
   (ID CLERICOT.1))
 
-( (IP-IMP-SPE (INS *CLerICus)
+( (IP-IMP-SPE (META *CLerICus)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (NP-VOC (N Damishel-damsel))
               (VBI reste-rest)
@@ -20,7 +20,7 @@
               (LINEBREAK \))
   (ID CLERICOT.2))
 
-( (QTP (INS *PUELLA)
+( (QTP (META *PUELLA)
        (CODE {COM_LAEME:ins,_to_right_of_text_line})
        (NP-VOC (N Sir-sir))
        (CODE {COM_LAEME:Note_-_this_is_a_beaver-tailed_capital_*S})
@@ -31,7 +31,7 @@
        (LINEBREAK \))
   (ID CLERICOT.3))
 
-( (CP-QUE-SPE (INS CLerICus)
+( (CP-QUE-SPE (META CLerICus)
               (CODE {COM_LAEME:ins,~to~right~of~text~line})
               (WADVP-1 (WADV wer-where))
               (IP-SUB-SPE (ADVP-LOC *T*-1)
@@ -49,7 +49,7 @@
               (LINEBREAK \))
   (ID CLERICOT.5))
 
-( (IP-MAT-SPE (INS PUELLa>)
+( (IP-MAT-SPE (META PUELLa>)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (PP (P By-by{inv})
                   (NP (NPR gode-god)))
@@ -60,7 +60,7 @@
               (LINEBREAK \))
   (ID CLERICOT.6))
 
-( (IP-MAT-SPE (INS CLerICuS)
+( (IP-MAT-SPE (META CLerICuS)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (ADVP (ADV wel-well{w}))
               (BED wor-be)
@@ -84,7 +84,7 @@
               (LINEBREAK \))
   (ID CLERICOT.7))
 
-( (IP-MAT-SPE (INS PUELLa)
+( (IP-MAT-SPE (META PUELLa)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (INTJ Do=way-doaway)
               (PP (P by-by{inv})
@@ -148,7 +148,7 @@
               (LINEBREAK \))
   (ID CLERICOT.11))
 
-( (IP-MAT-SPE (INS CLerICus)
+( (IP-MAT-SPE (META CLerICus)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (ADVP-TMP (ADV Nu-now))
               (ADVP-TMP (ADV nu-now))
@@ -303,7 +303,7 @@
               (LINEBREAK \))
   (ID CLERICOT.21))
 
-( (IP-MAT-SPE (INS *PUeLLa)
+( (IP-MAT-SPE (META *PUeLLa)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (PP (P By-by{inv})
                   (NP (NP (NPR cR^ist-christ)
@@ -347,7 +347,7 @@
               (LINEBREAK \))
   (ID CLERICOT.24))
 
-( (IP-MAT-SPE (INS *CLerICus)
+( (IP-MAT-SPE (META *CLerICus)
               (CODE {COM_LAEME:ins,_to_right_of_text_line,_boxed_in_ink_with_a_double_line_at_the_left})
               (PP (P Synt-since)
                   (CP-ADV-SPE (C 0)
@@ -371,7 +371,7 @@
               (ADVP (ADV neu=lic-newly)
                     (CODE {GLOSS~quickly}))
               (NP-OB1 (N bot-bo:t))
-              (ADVP-DIR (ADV yar=iNne-therein{p}))
+              (PP (ADV+P yar=iNne-therein{p}))
               (LINEBREAK \)
               (CP-ADV-SPE (C yat-that)
                           (IP-SUB-SPE (NP-SBJ (PRO yi-I))
@@ -384,7 +384,7 @@
               (LINEBREAK \))
   (ID CLERICOT.26))
 
-( (IP-IMP-SPE (INS *PUELLa)
+( (IP-IMP-SPE (META *PUELLa)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (VBI Go-go)
               (ADVP-TMP (ADV nu-now))
@@ -413,7 +413,7 @@
               (LINEBREAK \))
   (ID CLERICOT.30))
 
-( (IP-MAT-SPE (INS *CLerICus)
+( (IP-MAT-SPE (META *CLerICus)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (NP-SBJ (NPR God-god))
               (NP-OB1 (PRO te-thee))
@@ -422,7 +422,7 @@
                       (NPR helwis-helwis)))
   (ID CLERICOT.31))
 
-( (QTP (INS (CODE {INSSTART})
+( (QTP (META (CODE {INSSTART})
             (CODE {COM_LAEME:ins,_to_right_of_text_line})
             (NPR Mome-mo:me)
             (NPR elwis-elwis)
@@ -435,7 +435,7 @@
        (LINEBREAK \))
   (ID CLERICOT.32))
 
-( (IP-MAT-SPE (INS *CLerICus)
+( (IP-MAT-SPE (META *CLerICus)
               (CODE {COM_LAEME:ins,_to_right_of_text_line})
               (NP-SBJ (PRO Hic-I))
               (BEP am-be)
@@ -672,7 +672,7 @@
               (LINEBREAK \))
   (ID CLERICOT.48))
 
-( (CP-QUE-SPE (INS (CODE {INSSTART})
+( (CP-QUE-SPE (META (CODE {INSSTART})
                    (CODE {COM_LAEME:ins,_to_right_of_text_line})
                    (NPR Mome-mo:me)
                    (NPR ellwis-ellwis)

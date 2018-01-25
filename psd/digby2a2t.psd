@@ -129,7 +129,7 @@
           (LINEBREAK \)
           (PP (P at-at)
               (NP (PRO$ mi-my)
-                  (N nendin=day-endday)))
+                  (N+N nendin=day-endday)))
           (PUNC .'))
   (ID DIGBY2A2T.10))
 

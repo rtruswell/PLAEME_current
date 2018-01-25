@@ -178,7 +178,7 @@
                   (ADJP (ADJS myth=i=estE-mighty))))
   (ID MERTON248T.14))
 
-( (FRAG (FW &)
+( (LATIN (FW &)
         (FW SCilicet)
         (FW conSEQuiTur)
         (FW \)
@@ -278,7 +278,7 @@
           (PUNC .))
   (ID MERTON248T.21))
 
-( (FRAG (FW In)
+( (LATIN (FW In)
         (FW SerMONE)
         (FW \)
         (FW *EWAnGELIZO)
@@ -467,7 +467,7 @@
           (PUNC .'))
   (ID MERTON248T.32))
 
-( (FRAG (FW &)
+( (LATIN (FW &)
         (FW IdeO)
         (FW Dici^T)
         (FW AUGUSTiNus.)
@@ -482,7 +482,7 @@
           (ADJP (ADJ clene-clean)))
   (ID MERTON248T.34))
 
-( (FRAG (FW &)
+( (LATIN (FW &)
         (FW IdeO)
         (FW Dici^T)
         (FW YSA.)
@@ -501,7 +501,7 @@
           (PUNC .))
   (ID MERTON248T.36))
 
-( (FRAG (FW &)
+( (LATIN (FW &)
         (FW IdeO)
         (FW \)
         (FW DiciT)
@@ -599,7 +599,7 @@
   (ID MERTON248T.43))
 
 ( (IP-IMP (NP-OB1 (PRO$ owre-our)
-                  (Q+ADJ ilke=day-eachday)
+                  (ADJP (Q+N ilke=day-eachday))
                   (N bred-bread))
           (NP-SBJ (PRO yow-thou))
           (LINEBREAK \)
@@ -1162,7 +1162,7 @@
           (PUNC .))
   (ID MERTON248T.84))
 
-( (FRAG (FW Quia)
+( (LATIN (FW Quia)
         (FW SAPientIA)
         (FW \)
         (FW EST)
@@ -1206,7 +1206,7 @@
           (PUNC .))
   (ID MERTON248T.88))
 
-( (FRAG (FW Quia)
+( (LATIN (FW Quia)
         (FW InTeLLIGerE)
         (FW Est)
         (FW InTus)
@@ -1236,7 +1236,7 @@
           (PP (ADV+P yer=yngE-therein{p})))
   (ID MERTON248T.92))
 
-( (FRAG (FW SicuD)
+( (LATIN (FW SicuD)
         (FW Pr^IUS)
         (FW \)
         (FW DICTUm)
@@ -1963,7 +1963,7 @@
           (BEP is-be))
   (ID MERTON248T.141))
 
-( (FRAG (FW LuMeN)
+( (LATIN (FW LuMeN)
         (FW SOLA\RI)
         (FW NESCIT)
         (FW VITr^UM)
@@ -2730,7 +2730,7 @@
         (PUNC .))
   (ID MERTON248T.192))
 
-( (FRAG (FW ALWS)
+( (LATIN (FW ALWS)
         (FW PreSEPE)
         (FW FLUMen)
         (FW \)
@@ -2788,7 +2788,7 @@
                       (VB con=e-can)))
   (ID MERTON248T.194))
 
-( (FRAG (FW &Cetera)
+( (LATIN (FW &Cetera)
         (FW AMen)
         (LINEBREAK \\))
   (ID MERTON248T.195))
@@ -2962,7 +2962,7 @@
               (NP (Q-RH al-all))))
   (ID MERTON248T.210))
 
-( (FRAG (FW Quia)
+( (LATIN (FW Quia)
         (FW FALLAX)
         (FW FAL\LIT)
         (FW VBIQue)
@@ -2981,7 +2981,7 @@
                 (CODE {COM_LAEME:sic})))
   (ID MERTON248T.212))
 
-( (FRAG (FW Quia)
+( (LATIN (FW Quia)
         (FW GEnS)
         (FW SE)
         (FW GESTAT)
@@ -3272,7 +3272,7 @@
           (LINEBREAK \\))
   (ID MERTON248T.230))
 
-( (FRAG (FW *RELInQUO)
+( (LATIN (FW *RELInQUO)
         (FW MUnDUm)
         (FW &)
         (FW VADO)
@@ -3419,7 +3419,7 @@
           (LINEBREAK \))
   (ID MERTON248T.239))
 
-( (FRAG (FW APPLICAnDO)
+( (LATIN (FW APPLICAnDO)
         (FW SInGuLA)
         (FW <SInGLL<)
         (CODE {COM_LAEME:subpuncted})
@@ -3558,7 +3558,7 @@
         (LINEBREAK \\))
   (ID MERTON248T.249))
 
-( (FRAG (FW NOta)
+( (LATIN (FW NOta)
         (FW In)
         (FW SerMOnE)
         (FW ReDEmPTiOnis)
@@ -3681,7 +3681,7 @@
                                   (ADJP (ADJ sor=y-sorry))))))
   (ID MERTON248T.255))
 
-( (FRAG (FW APPLICAnDO)
+( (LATIN (FW APPLICAnDO)
         (FW SInGULA)
         (FW SInGUL)
         (CODE {COM_LAEME:word_deleted})

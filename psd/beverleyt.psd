@@ -246,7 +246,7 @@
                                       (VBI wit-witan)
                                       (NP-SBJ (PRO ye-you))
                                       (ADVP (ADV weel-well{w}))
-                                      (ADVP (ADV or=&=or-hu:ru&hu:ru)))
+                                      (ADVP (ADV+CONJ+ADV or=&=or-hu:ru&hu:ru)))
                           (PUNC .)
                           (PP (P til-to{til})
                               (NP (NP-POS (NP-POS (NPR$ saint-saint)
