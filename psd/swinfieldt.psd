@@ -102,7 +102,7 @@
 				    (CONJP (CONJ ne-nor)
 					   (NP (Q nan-no) (OTHER o+ter-other) (N man-man)))
 				    (PP (P boten-bu:tan{e})
-					(CP-FRL (WNP-2 (ADV loke@) (WPRO @=wo))
+					(CP-FRL (WNP-2 (ADV loke@-loca) (WPRO @=wo-who))
 						(C 0)
 						(IP-SUB (NP-SBJ *T*-2)
 							(NP-ADT (PRO+N ys=self-self))

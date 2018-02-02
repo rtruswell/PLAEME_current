@@ -265,8 +265,8 @@
   (ID HUNTPROCT.4))
 
 ( (IP-MAT (CONJ And-&)
-          (PP (P for=@)
-              (CP-ADV (C @+t+at)
+          (PP (P for=@-for)
+              (CP-ADV (C @+t+at-that)
                       (LINEBREAK \)
                       (IP-SUB (NP-SBJ (PRO we-we))
                               (VBP will=en-will{mv})

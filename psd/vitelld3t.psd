@@ -599,9 +599,9 @@
   (ID VITELLD3T.49))
 
 ( (IP-MAT (CONJ And-&)
-          (ADVP (ADVR a@)
-                (ADV @=sone@)
-                (PP (P @=ase)
+          (ADVP (ADVR a@-as)
+                (ADV @=sone@-soon)
+                (PP (P @=ase-as)
                     (CP-CMP (WADVP-1 0)
                             (C 0)
                             (IP-SUB (ADVP-TMP *T*-1)
@@ -948,8 +948,8 @@
               (LINEBREAK \))
   (ID VITELLD3T.71))
 
-( (IP-MAT-SPE (NP-SBJ (PRO Ich@))
-              (MD @=ulle)
+( (IP-MAT-SPE (NP-SBJ (PRO Ich@-I))
+              (MD @=ulle-will)
               (BE be-be)
               (PP (P mid-mid{w})
                   (NP (PRO hyre-her)))

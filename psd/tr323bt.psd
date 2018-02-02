@@ -396,8 +396,8 @@
           (LINEBREAK \))
   (ID TR323BT.25))
 
-( (IP-MAT (ADVP-TMP (ADV Sone@)
-                    (PP (P @=so)
+( (IP-MAT (ADVP-TMP (ADV Sone@-soon)
+                    (PP (P @=so-as)
                         (CP-CMP (WADVP-1 0)
                                 (C 0)
                                 (IP-SUB (ADV-TMP *T*-1)
@@ -8220,8 +8220,8 @@
           (LINEBREAK \))
   (ID TR323BT.537))
 
-( (IP-MAT (ADVP-TMP (ADV Sone=@)
-                    (PP (P @so)
+( (IP-MAT (ADVP-TMP (ADV Sone=@-soon)
+                    (PP (P @so-as)
                         (IP-SUB (NP-SBJ (NPR iudas-iudas))
                                 (PP (P of-of{f})
                                     (NP (N slepe-sleep)))
