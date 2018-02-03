@@ -362,7 +362,7 @@
 	 (FW PLUS))
   (ID COTFAUSTAT.62))
 
-( (FRAG (IP-INF (FOR for@-for) (TO @=at-to) (BE be-be) (VAN lou=ed-love)))
+( (FRAG (IP-INF (FOR for@-for) (TO @at-to) (BE be-be) (VAN lou=ed-love)))
 (ID COTFAUSTAT.63))
 
 ( (LATIN (FW DE)

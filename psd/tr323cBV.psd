@@ -163,8 +163,8 @@
        (ID TR323CBV.14))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO ic-I))
-	      (VBP sug=-say)
-	      (NP-OB1 (PRO =et-it))
+	      (VBP sug@-say)
+	      (NP-OB1 (PRO @et-it))
 	      (NP-OB2 (PRO-RH +te-thee))
 	      (PUNC .)
 	      (CODE {COM_LAEME:Scribe_C_runs_on_instead_of_starting_the_new_stanza_with_a_new_line}))

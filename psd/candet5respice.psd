@@ -9,8 +9,8 @@
                             (IP-SUB (ADVP-LOC *T*-1)
                                     (VBP hang=et-hang)
                                     (NP-SBJ (PRO he-he))
-                                    (PP (P a=-on{p})
-                                        (NP (N-RH =rode-rood))))))
+                                    (PP (P a@-on{p})
+                                        (NP (N-RH @rode-rood))))))
           (PUNC .))
   (ID CANDET5RESPICE.1))
 
@@ -46,8 +46,8 @@
                          (PP (P to-to)
                              (NP (PRO$ his-his)
                                  (N neb-neb)
-                                 (ADJP (ADVP (ADV so=-so))
-                                       (VAN =bi=spet-bespit))))))
+                                 (ADJP (ADVP (ADV so@-so))
+                                       (VAN @bi=spet-bespit))))))
           (PUNC .))
   (ID CANDET5RESPICE.3))
 
@@ -153,9 +153,8 @@
   (ID CANDET5RESPICE.13))
 
 ( (IP-MAT (NEG ne-ne)
-          (MD sal-shall)
-          (NP-SBJ (PRO tu-thou))
-          (CODE {ORIGINAL~sal=tu})
+          (MD sal@-shall)
+          (NP-SBJ (PRO @tu-thou))
           (NP-OB1 (Q nowit-naught)
                   (PP *ICH*-1))
           (VB vind=e-find)

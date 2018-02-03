@@ -299,7 +299,7 @@
 	  (LINEBREAK \)
 	  (CODE {PAGE~f127ra})
 	  (PP (P For-for)
-	      (NP (D a=-a) (ADJ =luytel-little) (N-RH blast-blast)))
+	      (NP (D a@-a) (ADJ @luytel-little) (N-RH blast-blast)))
 	  (LINEBREAK \))
    (ID DIGBY86UBI.28))
 
