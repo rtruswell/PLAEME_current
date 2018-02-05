@@ -517,8 +517,8 @@
                           (VBP com=et-come)
                           (PP (RP out@-out)
                               (P @of-of)
-                                  (NP (PRO$ +ty-thy)
-                                      (N-RH moud-mouth)))
+                              (NP (PRO$ +ty-thy)
+                                  (N-RH moud-mouth)))
                           (LINEBREAK \)
                           (CONJ &-&)
                           (ADVP-LOC (ADV+WADV elles=wer-elsewhere)
@@ -1427,7 +1427,6 @@
   (ID ADDE6AT.115))
 
 ( (IP-IMP (CONJ &-&)
-          (CODE {COM:LAEME_has_VBP})
           (VBI +tynk-think)
           (PP (P on-on{re})
               (NP (PRO hym-him)

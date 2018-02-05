@@ -592,8 +592,7 @@
           (PUNC .))
   (ID SCOTWART.38))
 
-( (IP-MAT (CODE {COM:LAEME_has_ADJ})
-          (ADVP (ADV fer=lickE-fae:rli:c))
+( (IP-MAT (ADJP (ADJ fer=lickE-fae:rli:c))
           (NP-SBJ *exp*)
           (NP-OB2 (PRO me-me))
           (VBD thouth-Yyncan)

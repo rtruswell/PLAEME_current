@@ -93,7 +93,6 @@
           (VBD let-lae:tan)
           (IP-PPL (NP-SBJ *ICH*-1)
                   (DAN I=\do=n-do)
-                  (CODE {COM:for_Meg_could_this_be_infinitival?})
                   (PP (P on-on{p})
                       (NP (N-RH rod-rood))))
           (PUNC .))

@@ -481,8 +481,8 @@
          (LINEBREAK \\))
   (ID CREDITONAT.22))
 
-( (IP-MAT (ADVP-LOC (ADV HEr-here))
-          (CODE {COM_LAEME:large_initial_capital})
+( (IP-MAT (ADVP-LOC (ADV HEr-here)
+                    (CODE {COM_LAEME:large_initial_capital}))
           (VBP kicd-cy:Yan)
           (PP (P on-in{p})
               (NP (D +tise-this)
@@ -538,7 +538,6 @@
                                                  (CP-REL (WNP-1 0)
                                                          (C +tat-that)
                                                          (IP-SUB (NP-SBJ *T*-1)
-                                                                 (CODE {COM:LAEME_has_NP-OB2_but_this_seems_like_a_passive_subject})
                                                                  (NP-OB2 (Q all=e-all)
                                                                          (OTHER o+ter=e-other)
                                                                          (NS bischop=es-bishop))

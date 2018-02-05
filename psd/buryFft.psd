@@ -2097,7 +2097,7 @@
           (NP-SBJ (PRO ic-I))
           (NEG ne-ne)
           (MD *)
-          (CODE {COM:LAEME_notes_that_"will|"_is_understood,_or_"ne"_is_an_error_for_"nelle".})
+          (CODE {COM:LAEME_notes_that_"will"_is_understood,_or_"ne"_is_an_error_for_"nelle".})
           (VB +taf=ien-Yafian)
           (CP-THT (C +tat-that)
                   (IP-SUB (NP-SBJ (Q+N an=i=man-anyman))
