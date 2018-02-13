@@ -47,9 +47,7 @@ The format of PLAEME is largely faithful to that of PPCHE, as documented in [Bea
   (ID DIGBY86DOOMSDAY.1))
 ```
 
-We have not implemented certain recent additions to the PPCHE format. Specifically, we make no distinction between `CP-QUE-MAT` and `CP-QUE-SUB`, and we differentiate noun phrases on the basis of grammatical function (`NP-SBJ`, `NP-OB1`, `NP-OB2`), as opposed to the most recent version of PPCME2, which frequently differentiates on the basis of case (`NP-NOM`, `NP-ACC`, `NP-DTV`).
-
-We also have not yet added `ID` tags to each sentence, as is mandated by the PPCHE format.  We will add these imminently.
+We have not implemented certain recent additions to the PPCHE format. In particular, we make no distinction between `CP-QUE-MAT` and `CP-QUE-SUB`.
 
 The format of LAEME preserves a level of textual detail not seen in PPCHE, largely as a consequence of the fact that LAEME is built from diplomatic transcriptions of manuscripts, while PPCHE is built from published editions. We have preserved as much of this additional information as possible in PLAEME, which has necessitated several additions to the established PPCHE format.
 
@@ -57,7 +55,7 @@ The format of LAEME preserves a level of textual detail not seen in PPCHE, large
 
 LAEME provides &lsquo;lexels&rsquo; for almost all words. In PLAEME, we have preserved all LAEME lexels with minor exceptions detailed below, and added more.
 
-Although lexels are not identical to lemmas, they can be used for many of the same purposes.  Following the convention established in [IcePaHC][IcePaHC], we place lexels after the word form, separated by a hyphen. So `(P Uuen-when)` indicates that the preposition *Uuen* is a form of *when*.
+Although lexels are not identical to lemmas, they can be used for many of the same purposes.  Following the convention established in [IcePaHC][IcePaHC], we place lexels after the word form, separated by a hyphen. So `(P Uuen-when)` indicates that *Uuen* is a form of the preposition *when*.
 
 [The LAEME documentation][LAEME] provides a list of lexels, and also of &lsquo;lexel specifiers&rsquo;, which are suffixed to lexels to disambiguate different senses of a single lexeme. Above, `(P on-on{re})` indicates that *on* is used here in the sense of *re*, or *concerning*.
 
@@ -65,9 +63,7 @@ The principles governing choice of lexels are set out in [Ch.4 of the LAEME docu
 
 Some of the choices of lexel are quite subtle.  For instance, `but` is used as a lexel 403 times in the sample of LAEME which forms the basis of PLAEME.  `bu:tan`, the OE ancestor of *but*, is used as a lexel a further 276 times, usually with a suffixed lexel specifier. In cases like this, reliance on Modern English lexels will lead to some examples being missed. The list of lexels included with [the LAEME documentation][LAEME] can be of some use in avoiding this problem. We also found the online versions of [the Bosworth&ndash;Toller Anglo-Saxon dictionary][BosworthToller] and the [Middle English Dictionary][MED] to be particularly useful when working with lexels.
 
-LAEME does not have standardized lexels for proper names, Roman numerals, and certain other words. We have not yet added these to PLAEME, but we have added lexels for function words such as articles or pronouns.  Instead of LAEME's practice of using Arabic numbers as lexels for numerals, we have written out the lexels as words (that is, we have `(NUM six-six)` rather than `(NUM six-6)`), to avoid potential confusion with PPCHE's use of numeral dash tags for coindexation of categories.
-
-Finally, in some cases where we have split a word (see below), we have not yet added lexels for the split forms.  These will be added in due course.
+LAEME does not have standardized lexels for proper names, Roman numerals, and certain other words. We have added lexels for function words such as articles or pronouns, but not yet for proper names.  Instead of LAEME's practice of using Arabic numbers as lexels for numerals, we have written out the lexels as words (that is, we have `(NUM six-six)` and `(NUM .VI.-six)`, rather than `(NUM six-6)` or `(NUM .VI.-6)`), to avoid potential confusion with PPCHE's use of numeral dash tags for coindexation of categories.
 
 #### Orthographic conventions in LAEME and in PPCHE
 
@@ -117,16 +113,7 @@ LAEME's orthography for lexels mainly uses lower-case letters, with the main exc
 LAEME contains passages of Latin, French, and other languages when interspersed with English (most noticeably in macaronic verse).  In these passages and in textual comments (see below), PLAEME preserves LAEME's original orthography (the left-hand column in the above tables).
 
 #### Splitting of words
-LAEME only rarely splits orthographic words.  We have split many more in PLAEME, partly for consistency with PPCHE conventions and partly because annotation with indication of constituent structure sometimes forced us to.  There is some inconsistency in the way in which splits have been marked.  Most have been marked by *@*: word-initially or word-finally, it indicates that there was no space between this and the preceding or following word respectively.  However, in some cases, a separate `CODE` label has been added, as below.
-
-```
-(IP-MAT (NP-SBJ (PRO ich-I))
-        (MD ulle-will)
-        (CODE {ORIGINAL~ich=ulle})
-```
-We aim to eliminate the use of these labels in favour of the *@* convention in due course.
-
-As noted above, some split forms do not yet have lexels added.  We aim to fix this in due course.
+LAEME only rarely splits orthographic words.  We have split many more in PLAEME, partly for consistency with PPCHE conventions and partly because annotation with indication of constituent structure sometimes forced us to.  Splits are marked with *@*: word-initially or word-finally, it indicates that there was no space between this and the preceding or following word respectively.
 
 #### Punctuation, nontextual material, etc.
 
@@ -189,9 +176,7 @@ Deletions are different: we typically don't want CorpusSearch to search them. Ac
 
 LAEME includes manuscripts which are damaged to such an extent that syntactic structure cannot be directly inferred. For instance, [vitelld3t](psd/vitelld3t.psd) is badly damaged by fire, with many folios completely lost and much of what remains completely illegible.  We have included these texts for a simple reason: very little survives from this period and even the fragmentary information in these manuscripts is interpretable to a degree.
 
-In annotating such texts with information about syntactic structure, we necessarily have to extrapolate beyond the text to a greater extent than usual.
-
-We have tried to use LAEME as a guide in this respect, sticking to the following principles:
+In annotating such texts with information about syntactic structure, we necessarily have to extrapolate beyond the text to a greater extent than usual. We have tried to use LAEME as a guide in this respect, sticking to the following principles:
 
 - We do not provide a lexel or POS tag which is not provided in LAEME, except as noted above.
 - Projecting phrasal nodes:
@@ -215,13 +200,13 @@ If neither of these conditions are violated, we do not insert boundaries between
 
 #### Morphosyntactic information in LAEME but not in PLAEME
 
-Much of the syntactic structure in PLAEME was projected from the information in LAEME's &lsquo;grammels&rsquo; annotations similar to POS tags.  LAEME's grammels are more informative than the tags used in PPCHE, including information on mood (indicative vs. subjunctive), person and number inflection on pronouns, verbs, etc., and nonlocal dependencies such as negative concord.
+Much of the syntactic structure in PLAEME was projected from the information in LAEME's &lsquo;grammels&rsquo;, annotations similar to POS tags.  LAEME's grammels are more informative than the tags used in PPCHE, including information on mood (indicative vs. subjunctive), person and number inflection on pronouns, verbs, etc., and nonlocal dependencies such as negative concord.
 
 None of this material is currently available in PLAEME, because an attempt to preserve all of the information in LAEME quickly led to incomprehensible annotations.  In future, it would be very useful to include at least annotations of subjunctive mood in PLAEME.  For now, we note that interpretation of results from PLAEME can be enhanced by reference to the corresponding annotation in LAEME.
 
-### Work in progress
+### Feedback
 
-PLAEME is due for completion in December 2017.  We are releasing this working version because it is now largely complete, and we would like feedback.  At the same time, it is incomplete and/or inaccurate in many ways, as documented above. If you spot issues other than those described here, please report them via github or to <rob.truswell@ed.ac.uk>.
+If you spot issues other than those described here, please report them via GitHub or to <rob.truswell@ed.ac.uk>.
 
 ### Acknowledgements
 
