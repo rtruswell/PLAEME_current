@@ -29,7 +29,8 @@ To find a middle ground between these two approaches, we have parsed complete LA
 The format of PLAEME is largely faithful to that of PPCHE, as documented in [Beatrice Santorini's guidelines][Beatrice]: labelled brackets indicate constituency, within a &lsquo;flat&rsquo; syntactic structure (clauses are articulated into `CP` and `IP`, but there is generally no `VP`), with further specification of grammatical function through suffixal &lsquo;dash tags&rsquo;, for example distinguishing matrix and subordinate IPs as `IP-MAT` vs. `IP-SUB`.  An example of the format (the first sentence of [`digby86doomsday`](psd/digby86doomsday.psd)) below illustrates the distinction between `IP-MAT` and `IP-SUB`, and the absence of `VP`. We will describe aspects of the format that are specific to PLAEME below.
 
 ```
-( (IP-MAT (PP (P Uuen-when)
+( (IP-MAT (CODE {PAGE~f197v})
+          (PP (P Uuen-when)
               (CODE {COM_LAEME:Two-line_coloured_initial_*U_with_guide_letter_V_in_the_left_margin._A_pointing_hand_with_index_finger_touching_the_initial_is_in_the_left_margin})
               (CP-ADV (C 0)
                       (IP-SUB (NP-SBJ (PRO I-I))
@@ -38,15 +39,15 @@ The format of PLAEME is largely faithful to that of PPCHE, as documented in [Bea
                                   (NP (NPR$+NPR dom=es=dai-doomsday))))))
           (ADVP (ADV wel-well{v})
                 (ADV sore-sore))
-          (MD ma-may)
-          (NP-SBJ (PRO i-I))
-          (CODE {ORIGINAL~ma=i})
+          (MD ma@-may)
+          (NP-SBJ (PRO @i-I))
           (NP-OB2 (PRO me-me))
           (VB-RH dred=e-dread)
-          (LINEBREAK \)))
+          (LINEBREAK \))
+  (ID DIGBY86DOOMSDAY.1))
 ```
 
-We have not implemented certain recent additions to that format. Specifically, we make no distinction between `CP-QUE-MAT` and `CP-QUE-SUB`, and we differentiate noun phrases on the basis of grammatical function (`NP-SBJ`, `NP-OB1`, `NP-OB2`), as opposed to the most recent version of PPCME2, which frequently differentiates on the basis of case (`NP-NOM`, `NP-ACC`, `NP-DTV`).
+We have not implemented certain recent additions to the PPCHE format. Specifically, we make no distinction between `CP-QUE-MAT` and `CP-QUE-SUB`, and we differentiate noun phrases on the basis of grammatical function (`NP-SBJ`, `NP-OB1`, `NP-OB2`), as opposed to the most recent version of PPCME2, which frequently differentiates on the basis of case (`NP-NOM`, `NP-ACC`, `NP-DTV`).
 
 We also have not yet added `ID` tags to each sentence, as is mandated by the PPCHE format.  We will add these imminently.
 
