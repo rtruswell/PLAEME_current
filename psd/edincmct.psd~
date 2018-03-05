@@ -13423,7 +13423,7 @@
           (ADVP (ADV-RH ra+te-hraDe))
           (LINEBREAK \)
           (CP-REL-1 (WNP-2 0)
-                    (C []at-that)
+                    (C []at-[]at)
                     (CODE {COM_LAEME:Morris_<lparen>1878<rparen>_supplies_*y})
                     (IP-SUB (NP-SBJ *T*-2)
                             (BED war-be)

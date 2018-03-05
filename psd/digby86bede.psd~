@@ -2583,7 +2583,7 @@
                                                    (NP-TMP (D +Te@-the)
                                                            (N @wiles@-while)
                                                            (CP-REL-SPE (WADVP-2 0)
-                                                                       (C @+tat-that)
+                                                                       (C @+tat)
                                                                        (IP-SUB-SPE (ADVP-TMP *T*-2)
                                                                                    (NP-SBJ (PRO we-we))
                                                                                    (ADVP-LOC (ADV her-here))

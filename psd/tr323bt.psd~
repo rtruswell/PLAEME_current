@@ -1873,7 +1873,7 @@
           (LINEBREAK \))
   (ID TR323BT.129))
 
-( (CP-QUE-SPE (IP-SUB-SPE (NP-VOC (NPR meid=an-maiden)
+( (CP-QUE-SPE (NP-VOC (NPR meid=an-maiden)
                       (NPR .M^aRE+g2RETE-.M^aRE+g2RETE))
               (PUNC .)
               (BEP is-be)
@@ -1882,7 +1882,7 @@
                       (CODE {COM_LAEME:PINE_is_underlined_by_a_later_hand}))
               (ADJP (ADJ-RH god-good))
               (PUNC .)
-              (LINEBREAK \)))
+              (LINEBREAK \))
   (ID TR323BT.130))
 
 ( (IP-IMP-SPE (VBI lef-believe)

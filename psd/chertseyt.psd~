@@ -1091,7 +1091,7 @@
                           (NP-OB1 (Q +an=i-any)
                                   (NP-COM (D +tare-the)
                                           (NS$ +tin\g=e-thing)
-                                          (CP-REL (WNP-1 (D +tes@-that))
+                                          (CP-REL (WNP-1 +tes@-that)
                                                   (C @+te-that)
                                                   (IP-SUB (NP-OB1 *T*-1)
                                                           (NP-SBJ (PRO ich-I))

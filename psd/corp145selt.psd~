@@ -33399,8 +33399,7 @@
               (ID CORP145SELT.1927))
 
 ( (IP-MAT-SPE (PP (P Bote-bu:tan)
-                  (CP-ADV-SPE (C 0)
-		          (IP-SUB-SPE (NP-SBJ (PRO +ge-you))
+                  (CP-ADV (NP-SBJ (PRO +ge-you))
                           (BEP beo-be)
                           (CODE {COM_LAEME:final_O_not_erased})
                           (ADJP (ADJR streng=or=e-strong)
@@ -33412,7 +33411,7 @@
                                                             (NP-SBJ (PRO ich-I))
                                                             (BEP be[o]-be))))
                                 (CODE {INSEND})
-                                (CODE {COM_LAEME:rewritten_in_thicker,_darker_ink_over_erasure})))))
+                                (CODE {COM_LAEME:rewritten_in_thicker,_darker_ink_over_erasure}))))
               (PUNC .)
               (NP-SBJ (PRO we-we))
               (BEP beo+t-be)

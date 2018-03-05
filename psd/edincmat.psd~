@@ -21141,7 +21141,7 @@
                                                   (IP-SUB (NP-SBJ-1 *exp*)
                                                           (BEP es-be)
                                                           (NP-OB1-1 (N mistER-mester)
-                                                                    (CP-TMC (WNP-2 0)
+                                                                    (CP-TMC (C-2 0)
                                                                             (IP-INF (NP-OB1 *ICH*-2)
                                                                                     (FOR for@-for)
                                                                                     (TO @to-to)

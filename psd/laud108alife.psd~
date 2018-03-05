@@ -9715,7 +9715,7 @@
               (PUNC .'))
   (ID LAUD108ALIFE.580))
 
-( (CP-QUE-SPE (IP-SUB-SPE (NEG ne-ne)
+( (CP-QUE-SPE (IP-MAT-SPE (NEG ne-ne)
                           (VBP seo-see)
                           (NP-SBJ (PRO +ge-you))))
   (ID LAUD108ALIFE.581))

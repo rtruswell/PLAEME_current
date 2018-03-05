@@ -1327,11 +1327,11 @@
               (LINEBREAK \))
   (ID JESLASTDAY.67))
 
-( (CP-QUE-SPE (IP-SUB-SPE (HVD Heu=edes@-have)
+( (CP-QUE-SPE (HVD Heu=edes@-have)
               (NP-SBJ (PRO @tu-thou))
               (NP-OB1 (PRO$ +ti-thy)
                       (N wille-will))
-              (PUNC .)))
+              (PUNC .))
   (ID JESLASTDAY.68))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO +tu-thou))

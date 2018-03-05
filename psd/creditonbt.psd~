@@ -55,7 +55,7 @@
                                                                  (NP-OB2 (D +tane-the)
                                                                          (PUNC .)
                                                                          (N schuth-sceatt)
-                                                                         (CP-REL (WNP-1 (D +taN@-that))
+                                                                         (CP-REL (WNP-1 (D+taN@-that))
                                                                                  (C @+te-that)
                                                                                  (IP-SUB (NP-SBJ *T*-1)
                                                                                          (NP-OB2 (PRO him-him))

@@ -874,7 +874,7 @@
                                                 (DO do=n-do)
                                                 (NP-OB1 (N ille-ill))
                                                 (LINEBREAK \)
-                                                (ADVP-TMP (CP-FRL (WADVP-2 (ADV +Tan-then{w}))
+                                                (ADVP-TMP (CP-FRL (WADVP-2 +Tan-then{w})
                                                                   (C 0)
                                                                   (IP-SUB (ADVP-TMP *T*-2)
                                                                           (NP-SBJ (D +te-the)

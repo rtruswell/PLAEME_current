@@ -324,7 +324,7 @@
 
 ( (IP-MAT (NP-MSR (D+N +Te=wile@-while)
                   (CP-REL (WNP-1 0)
-                          (C @+tat-that)
+                          (C @+tat)
                           (IP-SUB (NP-MSR *T*-1)
                                   (NP-SBJ-2 (PRO hoe-they))
                                   (MD mi+gtten-may))))

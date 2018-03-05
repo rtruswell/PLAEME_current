@@ -1054,7 +1054,7 @@
 ( (IP-MAT (CONJ &-&)
           (NP-SBJ (PRO ik-I))
           (VBP wil-will{mv})
-          (CP-THT (C yat-that)
+          (CP-THT (CP-THT (C yat-that)
                           (LINEBREAK \)
                           (IP-SUB (NP-SBJ (NP (D se-the)
                                               (N sokne-so:cn)
@@ -1124,7 +1124,7 @@
                                                                (IP-SUB (NP-SBJ *T*-1)
                                                                        (NP-OB1 (D ya-the)
                                                                                (NS men-man))
-                                                                       (VBP ahe-a:gan)))))))))
+                                                                       (VBP ahe-a:gan))))))))))
   (ID RAMSEYAT.27))
 
 ( (IP-MAT (IP-MAT-1 (NP-SBJ (NP (FW SanCtE)

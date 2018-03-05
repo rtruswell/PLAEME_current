@@ -222,7 +222,7 @@
                          (LINEBREAK \)
                          (NP (N e+g2te-ae:ht))))
               (PUNC .)
-              (CP-REL (WPP-1 (WADV+P wher=+tur+g2-wherethrough))
+              (CP-REL (WPP-1 (ADV+P wher=+tur+g2-wherethrough))
                       (C 0)
                       (IP-SUB (PP *T*-1)
                               (NP-SBJ (D +tis-this)

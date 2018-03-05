@@ -137,7 +137,7 @@
 		  (N loue-love)
 		  (LINEBREAK \)
 		  (NP-COM (PRO-RH +te-thee)
-			  (CP-REL (WNP-1 (NP-POS (WPRO$ +gwas-whose) (N$ hert=e-heart))
+			  (CP-REL (WNP-1 (WNP-POS (WPRO$ +gwas-whose) (N$ hert=e-heart))
 					 (N blod-blood))
 				  (C 0)
 				  (IP-SUB (NP-SBJ *T*-1)

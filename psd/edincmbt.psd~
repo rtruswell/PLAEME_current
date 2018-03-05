@@ -18545,7 +18545,7 @@
           (HVP haf-have)
           (NP-SBJ (PRO ye-you))
           (VBN her=d-hear)
-          (CP-QUE (WADVP-1 (WADV hou-how))
+          (CP-QUE (CP-QUE (WADVP-1 (WADV hou-how))
                           (C 0)
                           (IP-SUB (ADVP *T*-1)
                                   (NP-SBJ (D +tir-these)
@@ -18556,7 +18556,7 @@
                                   (PP (P tille-to{til})
                                       (NP (NPR iesus-iesus)))
                                   (NP-OB1 (NUM thre-three)
-                                          (NS-RH thing=~-thing))))
+                                          (NS-RH thing=~-thing)))))
           (LINEBREAK \))
   (ID EDINCMBT.979))
 

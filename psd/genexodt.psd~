@@ -16577,7 +16577,7 @@
           (LINEBREAK \))
   (ID GENEXODT.1017))
 
-( (IP-IMP-SPE (NP-LFD (CP-FRL-SPE (CODE {INSSTART})
+( (IP-IMP-SPE (NP-LFD (CP-FRL-PRN (CODE {INSSTART})
                                   (CODE {COM_LAEME:ins,_in_bottom_margin_as_catchwords})
                                   (WNP-1 (WPRO q~at@-what)
                                          (ADV @so-so))

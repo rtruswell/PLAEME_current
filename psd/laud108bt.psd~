@@ -904,11 +904,10 @@
 
 ( (IP-MAT (NP-SBJ (PRO +tou-thou))
           (VBD sei=dist-say)
-          (CP-THT (C 0)
-	          (IP-SUB (NP-SBJ (Q al-all))
+          (CP-THT (NP-SBJ (Q al-all))
                   (BED was-be)
                   (NP (ADJ Idel-idle)
-                      (N-RH gong-gang))))
+                      (N-RH gong-gang)))
           (LINEBREAK \))
   (ID LAUD108BT.45))
 
