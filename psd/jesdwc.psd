@@ -134,9 +134,9 @@
 	  (LINEBREAK \))
    (ID JESDWC.10))
 
-( (IP-MAT (ADJP (N Fox-fox)
-		(CONJ and-&)
-		(ADJ fer=lych-fae:rli:c))
+( (IP-MAT (NP-SBJ (N Fox-fox)
+	 	  (CONJ and-&)
+		  (ADJ fer=lych-fae:rli:c))
 	  (BEP is-be)
 	  (NP-OB1 (PRO$ his-his) (N-RH wrench-wrench))
 	  (PUNC .)

@@ -1585,7 +1585,7 @@
   (ID DIGBY86EUSTACE.121))
 
 ( (IP-MAT-SPE (NEG Ne-ne)
-              (VB con-can)
+              (VBP con-can)
               (NP-SBJ (PRO ich-I))
               (NP-OB2 (PRO me-me))
               (NP-OB1 (Q no-no)
@@ -3426,7 +3426,7 @@
           (LINEBREAK \))
   (ID DIGBY86EUSTACE.255))
 
-( (IP-MAT (NP-OB1 (PRO He-he))
+( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD sente-send)
           (NP-OB1 (NS kni+gtt=es-knight))
           (ADVP-TMP (ADV sone-soon))

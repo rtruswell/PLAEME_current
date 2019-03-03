@@ -261,7 +261,7 @@
           (LINEBREAK \))
   (ID ADDE6BXVSIGNS.16))
 
-( (IP-MAT (NP-OB1 (D +te-the)
+( (IP-MAT (NP-SBJ (D +te-the)
                   (N folk-folk))
           (ADVP (ADV to=gedere-together))
           (CODE {COM_LAEME:gap_in_MS})

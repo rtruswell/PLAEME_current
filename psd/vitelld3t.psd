@@ -2000,7 +2000,7 @@
           (LINEBREAK \))
   (ID VITELLD3T.151))
 
-( (IP-MAT (NP-LFD (D +Te-the)
+( (IP-MAT (NP-SBJ (D +Te-the)
                   (ADJS alre=febl=este-feeble)
                   (N tour-tower))
           (PUNC .)

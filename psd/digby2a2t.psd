@@ -36,10 +36,8 @@
           (ADJP (VAN dred-dread))
           (BEP ham-be)
           (NP-SBJ (PRO hi-I))
-          (PUNC .))
-  (ID DIGBY2A2T.5))
-
-( (IP-MAT (PP (P wen-when)
+          (PUNC .)
+          (PP (P wen-when)
               (LINEBREAK \)
               (CP-ADV (C 0)
                       (IP-SUB (NP-SBJ (PRO hi-I))
@@ -63,7 +61,7 @@
                                                                                      (NP (N worke-work))))
                                                                           (CONJP (PP (P iN-in{m})
                                                                                      (NP (N +toith-thought))))))))))))))
-  (ID DIGBY2A2T.6))
+  (ID DIGBY2A2T.5))
 
 ( (IP-IMP (NP-VOC (ADJ foli-folly)
                   (N leuedi-lady))
@@ -72,7 +70,7 @@
                   (N bon-boon))
           (PUNC .)
           (LINEBREAK \))
-  (ID DIGBY2A2T.7))
+  (ID DIGBY2A2T.6))
 
 ( (IP-IMP (PUNC para)
           (NP-OB1 (PRO$ Mi-my)
@@ -93,7 +91,7 @@
                                     (LINEBREAK \)
                                     (N cher-chere)))))
           (PUNC .))
-  (ID DIGBY2A2T.8))
+  (ID DIGBY2A2T.7))
 
 ( (IP-IMP (NP-SBJ (PRO +tu-thou))
           (VBI len-lae:nan)
@@ -114,7 +112,7 @@
                       (NP (PRO$ mi-my)
                           (N pR^aier-prayer))))
           (PUNC .))
-  (ID DIGBY2A2T.9))
+  (ID DIGBY2A2T.8))
 
 ( (IP-IMP (NEG ne-ne)
           (VBI let-lae:tan)
@@ -131,7 +129,7 @@
               (NP (PRO$ mi-my)
                   (N+N nendin=day-endday)))
           (PUNC .'))
-  (ID DIGBY2A2T.10))
+  (ID DIGBY2A2T.9))
 
 ( (IP-MAT (NP-LFD (D +te-the)
                   (NS warlai=s-warlock))
@@ -158,7 +156,7 @@
                                   (ADVP-LOC (ADV her-here))
                                   (VBP sa[y]-say)
                                   (CODE {COM_LAEME:Last_letter_partially_lost_in_gutter})))))
-  (ID DIGBY2A2T.11))
+  (ID DIGBY2A2T.10))
 
 ( (IP-MAT (NP-SBJ (PRO +tai-they))
           (BEP er-be)
@@ -168,7 +166,7 @@
                   (CONJ and-&)
                   (N day-day))
           (PUNC .))
-  (ID DIGBY2A2T.12))
+  (ID DIGBY2A2T.11))
 
 ( (IP-MAT (ADJP (ADVR so-so)
                 (ADJ strang=e-strong)
@@ -184,13 +182,13 @@
                             (PP (P a=gaynis-against)
                                 (NP (PRO +taim-them)))
                             (VB stond-stand))))
-  (ID DIGBY2A2T.13))
+  (ID DIGBY2A2T.12))
 
 ( (FRAG (ADVP (ADV so-so))
         (INTJ way=la=wa[y]-weila:wei)
         (CODE {COM_LAEME:Last_letter_partially_lost_in_gutter})
         (LINEBREAK \))
-  (ID DIGBY2A2T.14))
+  (ID DIGBY2A2T.13))
 
 ( (IP-MAT (CONJ but@-bu:tan)
           (PP (P @gif-if)
@@ -215,7 +213,7 @@
           (VBP flet-fle:otan)
           (ADVP-DIR (ADV a=wai-away))
           (PUNC .))
-  (ID DIGBY2A2T.15))
+  (ID DIGBY2A2T.14))
 
 ( (IP-MAT (MD dar-dare)
           (NP-SBJ (PRO +tai-they))
@@ -225,7 +223,7 @@
                   (N fac[e]-face)
                   (CODE {COM_LAEME:Last_letter_partially_lost_in_gutter}))
           (LINEBREAK \))
-  (ID DIGBY2A2T.16))
+  (ID DIGBY2A2T.15))
 
 ( (IP-IMP (PUNC para)
           (IP-INF-LFD (NP-OB1 (PRO$ +ti-thy)
@@ -274,7 +272,7 @@
                                                                    (NP (Q al-all)
                                                                        (N+N man\=kyn-mankind))))))))))
           (PUNC .))
-  (ID DIGBY2A2T.17))
+  (ID DIGBY2A2T.16))
 
 ( (IP-MAT (NP-SBJ (PRO$ his-his)
                   (N flesse-flesh))
@@ -290,7 +288,7 @@
                           (NP (N sin[e]-sin))))
           (CODE {COM_LAEME:Last_letter_partially_lost_in_gutter})
           (LINEBREAK \))
-  (ID DIGBY2A2T.18))
+  (ID DIGBY2A2T.17))
 
 ( (IP-MAT (PUNC para)
           (PP (P Of-of{f})
@@ -309,7 +307,7 @@
                               (LINEBREAK \)
                               (NP-OB1 (NS pin=es-pi:ne)
                                       (ADJP (ADJ sar-sore)))))))
-  (ID DIGBY2A2T.19))
+  (ID DIGBY2A2T.18))
 
 ( (IP-MAT (IP-INF (TO to-to)
                   (VB (VB drup=e-droop)
@@ -331,7 +329,7 @@
                               (NP-SBJ (D +te-the)
                                       (N har-hare)))))
           (PUNC .))
-  (ID DIGBY2A2T.20))
+  (ID DIGBY2A2T.19))
 
 ( (IP-MAT (PP (P wen-when)
               (CP-ADV (C 0)
@@ -364,8 +362,8 @@
                   (TO to-to)
                   (VB call=e-call))
           (PUNC .))
-  (ID DIGBY2A2T.21))
+  (ID DIGBY2A2T.20))
 
 ( (LATIN (FW &Cetera.)
          (LINEBREAK \\))
-  (ID DIGBY2A2T.22))
+  (ID DIGBY2A2T.21))

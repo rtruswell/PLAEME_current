@@ -462,7 +462,7 @@
   (ID CREDITONAT.20))
 
 ( (IP-MAT (CONJ and-&)
-          (NP-LFD (D+OTHER on=o+ter-other)
+          (NP-SBJ (D+OTHER on=o+ter-other)
                   (NP-PRN (NPR leon-leon)
                           (NPR popa-pope)))
           (NP-OB1 (PRO hit-it))

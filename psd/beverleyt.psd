@@ -46,7 +46,7 @@
           (PUNC .'))
   (ID BEVERLEYT.2))
 
-( (IP-MAT (NP-OB1-LFD (N Tol-toll)
+( (IP-IMP (NP-LFD (N Tol-toll)
                       (CONJ and-&)
                       (N Theam-te:am)
                       (CONJP *ICH*-1))

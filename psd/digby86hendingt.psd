@@ -2280,7 +2280,7 @@
               (LINEBREAK \))
   (ID DIGBY86HENDINGT.124))
 
-( (IP-MAT (PP (P If-if)
+( (IP-IMP (PP (P If-if)
               (CP-ADV (C 0)
                       (IP-SUB (NP-SBJ (PRO$ +ti-thy)
                                       (N louerd-lord))

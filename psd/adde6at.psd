@@ -596,7 +596,7 @@
                             (C +t^t-that)
                             (IP-SUB (NP-SBJ *T*-2)
                                     (VBP Lat-lae:tan)
-                                    (IP-MAT (NP-OB1 (QP (ADV so-so)
+                                    (IP-INF (NP-OB1 (QP (ADV so-so)
                                                         (Q mochel-much))
                                                     (N-RH god-good))
                                             (LINEBREAK \)
@@ -1123,7 +1123,7 @@
           (LINEBREAK \))
   (ID ADDE6AT.89))
 
-( (IP-MAT (NP-PRN (D +te-the)
+( (IP-MAT (NP-LFD (D +te-the)
                   (ADJ fayr=E-fair)
                   (NS Leuedi=es-lady)
                   (PP (P in-in{p})
