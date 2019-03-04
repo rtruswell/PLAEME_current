@@ -618,7 +618,8 @@
 
 ( (IP-MAT (PP (P Alse-as)
               (CP-ADV (C 0)
-                      (IP-SUB (BED wes-be)
+                      (IP-SUB (NP-SBJ *con*)
+		              (BED wes-be)
                               (PP (P ounder-under)
                                   (NP (N+N-RH wode=bowe-woodbough))))))
           (LINEBREAK \)
