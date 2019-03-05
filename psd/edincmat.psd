@@ -12848,7 +12848,7 @@
   (ID EDINCMAT.627))
 
 ( (IP-MAT (CONJ And-&)
-          (NP-SBJ (NP *con*))
+          (NP-SBJ *con*)
           (VBP tin=is-ty:na)
           (ADVP (ADV sa-so))
           (NP-OB1 (PRO+N hiM=selfi-self)
@@ -13669,7 +13669,7 @@
 
 ( (CP-QUE (WNP-1 (WPRO Quat-what)
                  (CP-REL *ICH*-2))
-          (IP-SUB (NP-SBJ (NP *T*-1))
+          (IP-SUB (NP-SBJ *T*-1)
                   (VBP bot=es-bo:tian)
                   (ADVP-TMP (ADV ai-ay))
                   (PP (P of-of)

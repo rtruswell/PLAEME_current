@@ -923,6 +923,7 @@
 
 ( (IP-MAT-SPE (IP-MAT-SPE-1 (CONJ And-&)
                             (NP-SBJ (N man-man))
+			    (MD *)
                             (BE be-be)
                             (VAN mensk=ed-mensken)
                             (PP (P for-for)
@@ -1930,7 +1931,7 @@
   (ID SCOTWART.121))
 
 ( (IP-IMP (VBI lat-lae:tan)
-          (IP-SUB (NP-SBJ (NS clerk=es-clerk))
+          (IP-INF (NP-SBJ (NS clerk=es-clerk))
                   (VB se-see)
                   (NP-OB1 (D ye-the)
                           (ADJ neexte-next)

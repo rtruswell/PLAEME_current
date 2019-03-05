@@ -3382,7 +3382,7 @@
 
 ( (IP-MAT (IP-MAT-1 (NEG Ne-ne)
                     (MD mi+gtte-may)
-                    (NP-SBJ (NP-COM (PRO$ here-their))
+                    (NP-SBJ (PRO$ here-their)
                             (Q non-none))
                     (PP (P wi+t-with{w})
                         (NP (OTHER o+ter-other)))
