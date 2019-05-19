@@ -536,7 +536,7 @@
                   (N time-time)
                   (CP-REL (WADVP-2 0)
                           (C +tat-that)
-                          (IP-SUB (ADVP-TMP-2 0)
+                          (IP-SUB (ADVP-TMP *T*-2)
                                   (NP-SBJ (PRO +tou+g-thou))
                                   (BED was-be)
                                   (VAN-RH bor=n-born)))))
