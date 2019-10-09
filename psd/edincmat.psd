@@ -4545,7 +4545,6 @@
                                      (NP (N-RH lar-lore))))))
           (LINEBREAK \)
           (CONJ And-&)
-          (NP-SBJ *pro*)
           (VBD ask=id-ask)
           (NP-OB2 (PRO hiM-him))
           (NP-OB1 (D an-a)
