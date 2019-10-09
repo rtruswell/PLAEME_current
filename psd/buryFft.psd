@@ -2460,7 +2460,7 @@
                                                                                      (IP-SUB (NP-SBJ (PRO ic-I))
                                                                                              (ADVP-TMP (ADV suthen-since))
                                                                                              (ALSO eac-eke)
-                                                                                             (SUCH swilke-such)
+                                                                                             (NP-OB1 (SUCH swilke-such))
                                                                                              (PP (PP (P mid-mid{w})
                                                                                                      (NP (NP-POS (D +tere-the)
                                                                                                                  (N+NS$ schire=bischop=es-shirebishop))
