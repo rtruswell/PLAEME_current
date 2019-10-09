@@ -29881,7 +29881,7 @@
                          (CP-ADV (PP (P bote-bu:tan)
                                      (CP-ADV (C 0)
                                              (IP-SUB (NP-SBJ (PRO it-it))
-                                                     (OTHER o+ter-other)
+                                                     (NP-OB1 (OTHER o+ter-other))
                                                      (BED-RH were-be))))
                                  (LINEBREAK \)
                                  (C +Tat-that)
