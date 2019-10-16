@@ -11755,7 +11755,7 @@
           (ADVP-TMP (ADV nou-now))
           (HVP haf-have)
           (NP-SBJ (PRO ye-you))
-          (VAN-RH her=d-hear)
+          (VBN-RH her=d-hear)
           (LINEBREAK \))
           (ID EDINCMAT.575))
 
