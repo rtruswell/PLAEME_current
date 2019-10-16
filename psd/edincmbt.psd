@@ -1164,7 +1164,7 @@
           (ID EDINCMBT.43))
 
 ( (IP-MAT (CONJ For-for)
-          (NP-SBJ (N+N man=kind-mankind))
+          (NP-OB1 (N+N man=kind-mankind))
           (PP (P iN-in{p})
               (NP (N pR^ison-prison)))
           (NP-SBJ (PRO he-he))
