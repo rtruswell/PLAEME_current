@@ -2863,7 +2863,7 @@
                                                   (N-RH iow-jew))))))
           (LINEBREAK \)
           (CP-THT (C +Tat-that)
-                  (PP (P eftER-after)
+                  (IP-SUB (PP (P eftER-after)
                       (NP (PRO$ his-his)
                           (N-RH resurrectiouN-resurrection)))
                   (LINEBREAK \)
@@ -2890,7 +2890,7 @@
                                                       (NP (PRO$ +tair-their)
                                                           (N met-meat)))
                                                   (TO at-at)
-                                                  (VB-RH ett=e-eat)))))))
+                                                  (VB-RH ett=e-eat))))))))
           (LINEBREAK \))
           (ID EDINCMAT.146))
 
