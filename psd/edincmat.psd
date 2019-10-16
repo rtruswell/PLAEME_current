@@ -3617,7 +3617,7 @@
 ( (IP-IMP (VBI Herkin-hearken))
 (ID EDINCMAT.183))
 
-( (IP-SUB (CP-QUE (WADVP (WADV qU^i-why)))
+( (IP-MAT (CP-QUE (WADVP (WADV qU^i-why)))
           (NP-SBJ (PRO I-I))
           (MD sal-shall)
           (NP-OB2 (PRO +te-thee))
