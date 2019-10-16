@@ -1963,7 +1963,7 @@
                                               (ADVP-TMP (ADV euER-ever)))))))
           (PP (P in-in{p})
               (NP (NPR hel-hell)))
-          (NP-SBJ (PRO it-it))
+          (NP-SBJ-RSP (PRO it-it))
           (ADJP (ADJ won-wuna))
           (BED was-be)
           (ADVP-TMP (ADV-RH are-ere))
