@@ -12354,7 +12354,7 @@
           (VBD felle-fall))
           (ID EDINCMCT.729))
 
-( (IP-SUB (CONJ and-&)
+( (IP-MAT (CONJ and-&)
           (ADJP-SPR (ADJ blinde-blind))
           (NP-SBJ (PRO he-he))
           (VBD-RH ras-rise)
