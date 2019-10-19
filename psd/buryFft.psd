@@ -103,7 +103,7 @@
           (LINEBREAK \\))
   (ID BURYFFT.2))
 
-( (IP-MAT (CODE {TEXTBREAK~70})
+( (FRAG (CODE {TEXTBREAK~70})
           (CODE {TEXTBREAK~Cambridge_University_Library_Ff.II.33:_Sawyer_980})
           (CODE {TEXTBREAK~C13b2}))
   (ID BURYFFT.3))
