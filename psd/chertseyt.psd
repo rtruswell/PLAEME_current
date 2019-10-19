@@ -1102,5 +1102,5 @@
           (LINEBREAK \\))
   (ID CHERTSEYT.27))
 
-( (IP-MAT (CODE {COM_LAEME:The_rest_of_the_manuscript_contains_charters_in_Latin}))
+( (FRAG (CODE {COM_LAEME:The_rest_of_the_manuscript_contains_charters_in_Latin}))
   (ID CHERTSEYT.28))
