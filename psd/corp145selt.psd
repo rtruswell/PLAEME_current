@@ -636,7 +636,7 @@
               (PUNC .))
               (ID CORP145SELT.39))
 
-( (IP-MAT-SPE (PP-SPE (P waNne-when)
+( (IP-MAT-SPE (PP (P waNne-when)
                       (CP-ADV-SPE (C 0)
                                   (IP-SUB-SPE (NP-SBJ (PRO it-it))
                                               (NP-OB1 (N tyme-time))
@@ -38329,7 +38329,7 @@
                           (NP (NPR heuene-heaven)
                               (ADJP (ADJ-RH a=boue-above))))))
               (LINEBREAK \)
-              (PP-SPE (P +Gif-if)
+              (PP (P +Gif-if)
                       (CP-ADV-SPE (C 0)
                                   (IP-SUB-SPE (IP-SUB-SPE-1 (NP-SBJ (PRO +tou-thou))
                                                             (MD wost-will)
