@@ -3827,7 +3827,7 @@
               (LINEBREAK \))
   (ID DULWICHT.154))
 
-( (IP-MAT (PUNC para)
+( (FRAG (PUNC para)
           (FW ET)
           (FW BEATA)
           (FW Que)

@@ -15568,7 +15568,7 @@
           (ID EDINCMCT.914))
 
 ( (IP-MAT (PP (P In-in{p})
-              (NUM ten-ten))
+              (NP (NUM ten-ten)))
           (ADVP-TMP (ADV +tan-then))
           (MD sale-shall)
           (NP-SBJ (PRO tu-thou))

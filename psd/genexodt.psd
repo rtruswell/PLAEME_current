@@ -359,7 +359,7 @@
               (NP (ADJ firme-first)
                   (N bi=gin=ig-beginnan)))
           (PP (P of-of)
-              (Q-RH nogt-naught))
+              (NP (Q-RH nogt-naught)))
           (CODE {COM_LAEME:Punctus_missing})
           (LINEBREAK \)
           (BED +Was-be)

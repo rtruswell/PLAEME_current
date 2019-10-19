@@ -22258,7 +22258,7 @@
               (LINEBREAK \))
               (ID EDINCMAT.1189))
 
-( (IP-MAT-SPE (NP-ADV (Q+WADV Ai=qU^ar-aywhere)
+( (IP-IMP-SPE (NP-ADV (Q+WADV Ai=qU^ar-aywhere)
                       (CP-REL-SPE (WADVP-1 0)
                                   (C 0)
                                   (IP-MAT-SPE (ADVP-LOC *T*-1)

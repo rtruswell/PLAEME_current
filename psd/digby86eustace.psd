@@ -188,9 +188,9 @@
                     (LINEBREAK \))))
   (ID DIGBY86EUSTACE.11))
 
-( (IP-MAT (NP-1 (ADJ Mor=e-more)
+( (IP-MAT (NP-1 (ADJR Mor=e-more)
                 (CONJ and-&)
-                (ADJ lass=e-less))
+                (ADJR lass=e-less))
           (NP-SBJ-1 (EX +ter-there))
           (BED wereN-be)
           (ALSO-RH also-also)

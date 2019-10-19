@@ -370,7 +370,7 @@
           (PUNC .))
   (ID CREDITONAT.11))
 
-( (IP-MAT (FW SUmMA)
+( (FRAG (FW SUmMA)
           (FW DIERum)
           (MISC XII.CCCC.LXXX.}-XII.CCCC.LXXX.})
           (CODE {COM_LAEME:spiral_line_fillers})
@@ -637,6 +637,6 @@
           (PUNC .))
   (ID CREDITONAT.27))
 
-( (IP-MAT (CODE {COM_LAEME:3_spiral_line_fillers})
+( (FRAG (CODE {COM_LAEME:3_spiral_line_fillers})
           (CODE {COM_LAEME:Latin}))
   (ID CREDITONAT.28))
