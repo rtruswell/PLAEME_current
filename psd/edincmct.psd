@@ -14142,7 +14142,7 @@
           (LINEBREAK \))
           (ID EDINCMCT.844))
 
-( (IP-MAT (PP (P Wi+t=in-within)
+( (IP-MAT (PP-LFD (P Wi+t=in-within)
                   (NP (D +te-the)
                       (N kirk-church)
                       (CODE {COM_LAEME:Morris_<lparen>1877<rparen>_prints_KIRKE})
