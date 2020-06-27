@@ -99,7 +99,7 @@
 ( (IP-MAT (NP-SBJ (PRO Heo-they)
 		  (CP-REL *ICH*-1))
 	  (BEP bet-be)
-	  (NP-SBJ (PRO$ mine-my) (ADJS mest=e-most) (NS fo=n-foe))
+	  (NP-OB1 (PRO$ mine-my) (ADJS mest=e-most) (NS fo=n-foe))
 	  (PUNC .)
 	  (CP-REL-1 (WNP-2 0)
 		    (C +tat-that)
