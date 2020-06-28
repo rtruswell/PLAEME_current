@@ -14537,7 +14537,7 @@
                    (IP-SUB-SPE (ADVP-TMP (ADV euER-ever))
                                (BED was-be)
                                (NP-SBJ (PRO I-I))
-                               (NP-SBJ (N-RH clerc-clerk))))
+                               (NP-OB1 (N-RH clerc-clerk))))
        (LINEBREAK \))
        (ID EDINCMBT.743))
 
