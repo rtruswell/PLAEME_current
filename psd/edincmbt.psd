@@ -16296,7 +16296,7 @@
                                            (VBD sai=d-say)
                                            (IP-MAT-SPE (NP-SBJ (NPR godd-god))
                                                        (VBP send=es-send)
-                                                       (NP-SBJ (PRO me-me))
+                                                       (NP-OB1 (PRO me-me))
                                                        (PP (P to-to)
                                                            (NP (PRO-RH +te-thee))))))))
           (LINEBREAK \))

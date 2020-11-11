@@ -7444,7 +7444,7 @@
 
 ( (IP-MAT (NP-SBJ (PRO He-he))
           (VBD bad-biddan)
-          (NP-SBJ (D +ta@-the)
+          (NP-OB2 (D +ta@-the)
                   (NS @men-man)
                   (CP-REL *ICH*-1))
           (IP-INF (BE be-be)
