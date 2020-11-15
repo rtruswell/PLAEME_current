@@ -23044,7 +23044,7 @@
               (PP (P queN-when)
                   (CP-ADV-SPE (C 0)
                               (IP-SUB-SPE (NP-SBJ (NS meN-man))
-                                          (VAN dronk=en-drink)
+                                          (ADJP (VAN dronk=en-drink))
                                           (BEP-RH ere-be))))
               (LINEBREAK \)
               (ADVP-TMP (ADV +Tan-then))
