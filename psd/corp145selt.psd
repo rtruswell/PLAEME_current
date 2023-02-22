@@ -34656,7 +34656,7 @@
                   (N day-day)
                   (CP-REL (WNP-1 0)
                           (C +t^t-that)
-                          (IP-SUB (NP-TMP-1 0)
+                          (IP-SUB (NP-TMP *T*-1)
                                   (NP-SBJ (PRO$ is-his)
                                           (N body-body))
                                   (BED was-be)
