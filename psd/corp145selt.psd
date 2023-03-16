@@ -38864,7 +38864,7 @@
                                                           (IP-INF-SPE (TO to-to)
                                                                       (VB gil=i-guile)
                                                                       (NP-OB1 (NS men-man)))
-                                                          (ADJP (ADJR-RH Inou-enough)))))
+                                                          (ADJP (ADJ-RH Inou-enough)))))
                           (LINEBREAK \)
                           (CONJP (CONJ And-&)
                                  (CP-THT-SPE (C +t^t-that)
