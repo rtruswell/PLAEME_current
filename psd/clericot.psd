@@ -315,7 +315,7 @@
                         (NP (N scole-school))))
               (NEG ne-ne)
               (VBP kep@-keep)
-              (NP-SBJ (PRO@ i-I))
+              (NP-SBJ (PRO @i-I))
               (NP-OB1 (Q non-no)
                       (NP *ICH*-1))
               (LINEBREAK \))
