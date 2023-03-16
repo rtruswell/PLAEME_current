@@ -4076,9 +4076,9 @@
           (HV haf-have)
           (CODE {COM_LAEME:MS_HAF_AH_-_marked_for_transposition})
           (NP-OB1 (CONJ ne-neither)
-                  (ADJ les-less)
+                  (QR les-less)
                   (CONJ ne-nor)
-                  (ADJ-RH mar-more))
+                  (QR-RH mar-more))
           (LINEBREAK \))
           (ID EDINCMAT.201))
 

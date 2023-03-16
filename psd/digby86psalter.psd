@@ -1284,7 +1284,7 @@
 ( (IP-MAT-SPE (NP-VOC (N Monek-monk))
               (NP-SBJ (PRO ich-I))
               (VBP telle-tell)
-              (NP-OB1 (PRO-1 hit-it))
+              (NP-OB1-1 (PRO hit-it))
               (NP-OB2 (PRO-RH +te-thee))
               (LINEBREAK \)
               (CP-THT-SPE-1 (C +Tat-that)
