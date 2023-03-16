@@ -216,7 +216,7 @@ This work is funded by a British Academy/Leverhulme Small Research Grant (Robert
 
 This work is licenced under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-[Beatrice]: http://www.ling.upenn.edu/~beatrice/annotation/
+[Beatrice]: https://www.ling.upenn.edu/ppche/ppche-release-2016/annotation/
 [BosworthToller]: http://bosworthtoller.com/
 [CS]: http://corpussearch.sourceforge.net/
 [IcePaHC]: http://linguist.is/icelandic_treebank/Icelandic_Parsed_Historical_Corpus_(IcePaHC)
