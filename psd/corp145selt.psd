@@ -46809,7 +46809,7 @@
 ( (IP-MAT (NP-SBJ (D +Te-the)
                   (N king-king))
           (VBD nom-niman)
-          (NP-OB1 (ADJR Inou-enough)
+          (NP-OB1 (ADJ Inou-enough)
                   (PP (P of-of)
                       (NP (PRO$ is-his)
                           (N mete-meat)
