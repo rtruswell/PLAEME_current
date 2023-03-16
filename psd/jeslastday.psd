@@ -1414,7 +1414,7 @@
                       (CODE {COM_LAEME:Enlarged_coloured_initial_*I}))
               (BEP am-be)
               (ADJP (ADJ sor=i-sorry)
-                    (ADVP (ADVR inouh-enough)))
+                    (ADVP (ADV inouh-enough)))
               (PUNC .)
               (PP (PP (P bi-by{t})
                       (NP (N day-day)))
