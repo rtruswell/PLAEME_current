@@ -23883,7 +23883,7 @@
           (PUNC .))
           (ID CORP145SELT.1392))
 
-( (IP-MAT (NP-SBJ (D +te-the)
+( (IP-MAT (NP-LFD (D +te-the)
                   (N moder-mother))
           (PP (P as-as)
               (CP-ADV (C 0)
@@ -23899,7 +23899,7 @@
                                       (NP-SBJ (PRO$ hurE-her)
                                               (N child-child))))))
           (PUNC .)
-          (NP-SBJ (PRO he[o]-she))
+          (NP-SBJ-RSP (PRO he[o]-she))
           (VBD ma=de-make)
           (NP-OB1 (ADJ deol=uol-doleful)
                   (N-RH bere-gebae:re))
