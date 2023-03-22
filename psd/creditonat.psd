@@ -353,7 +353,7 @@
           (NP-SBJ *con*)
           (VBD a=wir+g2=ede-awaergan)
           (NP-OB1 (Q all=e-all)
-                  (PRO +taye@-those)
+                  (D +taye@-those)
                   (CP-REL (WNP-1 0)
                           (C @+te-that)
                           (IP-SUB (IP-SUB (NP-SBJ *T*-1)

@@ -71,7 +71,7 @@
           (PUNC .))
   (ID CREDITONBT.1))
 
-( (IP-MAT (NP-SBJ (PRO +Tis=his-these))
+( (IP-MAT (NP-SBJ (D +Tis=his-these))
           (BEP sint-be)
           (NP-OB1 (NP-POS (D +ta-the)
                           (N$ lond=es-land)

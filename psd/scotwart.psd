@@ -823,7 +823,7 @@
                           (NP-SBJ-RSP (PRO yai-they))
                           (VB far=e-faran)
                           (PUNC .)
-                          (NP-PRN-1 (PRO yat@-those)
+                          (NP-PRN-1 (D yat@-those)
                                     (CP-REL-SPE (WNP-3 0)
                                                 (C @at-that)
                                                 (IP-SUB-SPE (NP-SBJ *T*-3)

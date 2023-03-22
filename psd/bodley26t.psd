@@ -487,7 +487,7 @@
           (ID BODLEY26T.23))
 
 ( (IP-MAT (CONJ for-for)
-          (NP-SBJ (PRO yes-these))
+          (NP-SBJ (D yes-these))
           (PP (P of-of)
               (NP (NPR$ godd=es-god)
                   (N w\or=shep-worship)))
