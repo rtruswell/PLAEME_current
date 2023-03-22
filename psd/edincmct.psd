@@ -229,7 +229,7 @@
                                               (LINEBREAK \)
                                               (CP-REL-SPE (WNP-1 0)
                                                           (C 0)
-                                                          (IP-MAT-SPE (NP-OB1 *T*-1)
+                                                          (IP-SUB-SPE (NP-OB1 *T*-1)
                                                                       (NP-SBJ (PRO Gie-you))
                                                                       (DOD dide-do)
                                                                       (PP (P on-on{i})
