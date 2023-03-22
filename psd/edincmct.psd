@@ -9426,7 +9426,7 @@
                                                                (CP-REL (WPP-4 (P Wi+t-with{w})
                                                                               (WNP (WPRO quilc@-which)))
                                                                        (C @+tat-that)
-                                                                       (IP-MAT (PP *T*-4)
+                                                                       (IP-SUB (PP *T*-4)
                                                                                (NP-SBJ (PRO he-he))
                                                                                (VAN smERl=id-smerlen)
                                                                                (BEP-RH es-be))))))))))
