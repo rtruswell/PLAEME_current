@@ -20092,7 +20092,7 @@
           (VBD sai=d-say)
           (CP-QUE-SPE (WADVP-1 (WADV-RH quye-why))
                       (LINEBREAK \)
-                      (IP-MAT-SPE (ADVP *T*-1)
+                      (IP-SUB-SPE (ADVP *T*-1)
                                   (HVP Haf-have)
                                   (NP-SBJ (PRO ye-you))
                                   (VBN soh=t-seek)
