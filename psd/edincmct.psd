@@ -6082,10 +6082,10 @@
           (VBD qU^oke-quake))
           (ID EDINCMCT.353))
 
-( (IP-MAT (ADVR-1 sua-so)
+( (IP-MAT (ADVP-1 (ADVR sua-so))
           (BED was-be)
           (NP-SBJ (PRO he-he))
-          (ADJP (ADVR *ICH*-1)
+          (ADJP (ADVP *ICH*-1)
                 (ADJ-RH rad-hraeddr)
                 (LINEBREAK \)
                 (CONJP (ADJX (VAN For=glopn=id-forglu:pna))))
