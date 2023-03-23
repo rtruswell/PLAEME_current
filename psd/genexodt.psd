@@ -9301,7 +9301,7 @@
                                  (N-RH sep-sheep))))
           (PUNC .)
           (LINEBREAK \)
-          (NP-SBJ (Q EuERilc-evereach)
+          (NP-OB1 (Q EuERilc-evereach)
                   (PP (P of-of)
                       (NP-RSP (D +dese-these))))
           (NP-SBJ (PRO he-he))
