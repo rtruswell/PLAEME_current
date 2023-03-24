@@ -6850,7 +6850,7 @@
           (ADJP-SPR (ADJP (ADJ hol-whole))
                     (CONJP *ICH*-1)
                     (CONJP *ICH*-2))
-          (NP-SBJ (PRO$ is-his)
+          (NP-OB1 (PRO$ is-his)
                   (N picher-pitcher))
           (VBN-RH i=found=e-find)
           (LINEBREAK \)

@@ -1953,7 +1953,7 @@
           (LINEBREAK \))
           (ID EDINCMAT.100))
 
-( (IP-MAT (NP-SBJ (N Kaitif-caitiff)
+( (IP-MAT (NP-LFD (N Kaitif-caitiff)
                   (CP-REL (WNP-1 0)
                           (C +tat-that)
                           (IP-SUB (NP-SBJ *T*-1)

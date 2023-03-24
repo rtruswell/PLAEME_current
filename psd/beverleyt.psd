@@ -325,7 +325,7 @@
           (PUNC ,)
           (ADVP-TMP (ADV yan-then))
           (BEP be-be)
-          (NP-SBJ (NP-POS (NPR sain-saint)
+          (NP-OB1 (NP-POS (NPR sain-saint)
                           (NPR$ Iohn-Iohn))
                   (NS lagh=es-law))
           (PUNC .)
